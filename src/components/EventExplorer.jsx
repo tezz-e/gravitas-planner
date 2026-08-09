@@ -202,6 +202,7 @@ export default function EventExplorer({
   const totalCost = useMemo(() => myEvents.reduce((acc, curr) => acc + (curr.price || 0), 0), [myEvents]);
 
   return (
+    <>
     <div className="festival-layout">
       {/* COLUMN 1: Vertical Date Rail */}
       <aside className="left-date-rail">
@@ -486,5 +487,25 @@ export default function EventExplorer({
         </div>
       </aside>
     </div>
+
+    {/* Mobile-only sticky summary bar. Hidden on desktop by default in CSS;
+        only appears under the mobile breakpoint so it never touches the
+        desktop layout. Reuses the same onOpenFullPlan handler as the desktop
+        tray's "View full calendar" button. */}
+    {myEvents.length > 0 && (
+      <button className="mobile-plan-bar" onClick={onOpenFullPlan} aria-label="View my plan">
+        <div className="mobile-plan-bar-info">
+          <span className="mobile-plan-count">{myEvents.length} {myEvents.length === 1 ? 'event' : 'events'} added</span>
+          <span className="mobile-plan-cost mono-font">₹{totalCost}</span>
+        </div>
+        {conflictPairsCount > 0 && (
+          <span className="mobile-plan-conflict-badge mono-font">
+            <AlertTriangle size={12} /> {conflictPairsCount}
+          </span>
+        )}
+        <span className="mobile-plan-cta mono-font">View Plan <ArrowRight size={14} /></span>
+      </button>
+    )}
+    </>
   );
 }

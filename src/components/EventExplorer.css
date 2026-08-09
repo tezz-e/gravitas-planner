@@ -582,8 +582,125 @@
 @media (max-width: 1024px) {
   .festival-layout {
     grid-template-columns: 1fr;
+    padding-bottom: 90px; /* room for the fixed mobile-plan-bar so cards don't hide behind it */
   }
-  .left-date-rail, .right-plan-drawer {
+
+  /* Instead of hiding date navigation entirely, turn the vertical rail into
+     a horizontally scrollable strip of date chips at the top of the feed. */
+  .left-date-rail {
+    position: static;
+    flex-direction: row;
+    max-height: none;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    gap: 8px;
+    padding: 10px 12px;
+  }
+  .left-date-rail::-webkit-scrollbar {
     display: none;
+  }
+  .rail-header {
+    display: none;
+  }
+  .date-rail-btn {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    white-space: nowrap;
+    flex-shrink: 0;
+    padding: 8px 12px;
+  }
+  .rail-count {
+    font-size: 0.62rem;
+  }
+
+  /* The full desktop tray is too tall for mobile; replaced by the fixed
+     mobile-plan-bar below instead of just disappearing. */
+  .right-plan-drawer {
+    display: none;
+  }
+
+  .feed-cards-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .weekend-tracks {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    scrollbar-width: none;
+    padding-bottom: 2px;
+  }
+  .weekend-tracks::-webkit-scrollbar {
+    display: none;
+  }
+  .track-btn {
+    flex-shrink: 0;
+  }
+}
+
+.mobile-plan-bar {
+  display: none;
+}
+
+@media (max-width: 1024px) {
+  .mobile-plan-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    position: fixed;
+    left: 12px;
+    right: 12px;
+    bottom: 12px;
+    z-index: 150;
+    background: var(--bg-secondary);
+    border: 1px solid var(--accent-primary);
+    border-radius: var(--radius-md);
+    padding: 12px 16px;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+    font-family: inherit;
+    text-align: left;
+  }
+  .mobile-plan-bar-info {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    min-width: 0;
+  }
+  .mobile-plan-count {
+    font-size: 0.82rem;
+    font-weight: 800;
+    color: var(--text-primary);
+    white-space: nowrap;
+  }
+  .mobile-plan-cost {
+    font-size: 0.72rem;
+    color: var(--accent-primary);
+  }
+  .mobile-plan-conflict-badge {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    background: rgba(239, 68, 68, 0.15);
+    color: #FCA5A5;
+    border: 1px solid rgba(239, 68, 68, 0.4);
+    padding: 4px 8px;
+    border-radius: 6px;
+    font-size: 0.7rem;
+    font-weight: 800;
+    flex-shrink: 0;
+  }
+  .mobile-plan-cta {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: var(--accent-primary);
+    flex-shrink: 0;
   }
 }

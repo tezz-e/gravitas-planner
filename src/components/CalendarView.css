@@ -404,6 +404,10 @@
   color: var(--text-primary);
 }
 
+.cell-weekday-mobile {
+  display: none;
+}
+
 .cell-fest-badge {
   font-size: 0.62rem;
   font-weight: 800;
@@ -588,19 +592,308 @@
   color: var(--text-secondary);
 }
 
+/* UNIFIED MOBILE WEEK TIMELINE (2D Sticky Scroll Grid) */
+.mobile-week-scroll-container {
+  width: 100%;
+  height: 65vh;
+  max-height: 560px;
+  overflow: auto;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  -webkit-overflow-scrolling: touch;
+  position: relative;
+}
+
+.mobile-week-table {
+  display: grid;
+  grid-template-columns: 44px repeat(7, 84px);
+  min-width: 632px;
+  position: relative;
+}
+
+/* Corner Spacer (Sticky Top & Left) */
+.mobile-week-corner-cell {
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 30;
+  background: var(--bg-tertiary);
+  border-bottom: 1px solid var(--border-subtle);
+  border-right: 1px solid var(--border-subtle);
+  height: 48px;
+  grid-column: 1;
+  grid-row: 1;
+}
+
+/* Day Header Buttons (Sticky Top) */
+.mobile-week-day-header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  height: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1px;
+  background: var(--bg-tertiary);
+  border-bottom: 1px solid var(--border-subtle);
+  border-right: 1px solid var(--border-subtle);
+  color: var(--text-secondary);
+  font-size: 0.72rem;
+  font-weight: 600;
+  cursor: pointer;
+  grid-row: 1;
+  box-sizing: border-box;
+  overflow: hidden;
+  transition: all 0.15s;
+}
+
+.mobile-week-day-header.has-events {
+  color: var(--text-primary);
+  background: #251e3b; /* Opaque solid dark violet background prevents scroll bleed-through */
+}
+
+.mobile-week-day-header.is-focused {
+  border-bottom: 2px solid var(--accent-primary);
+}
+
+.mobile-week-day-header .mobile-week-day-name {
+  text-transform: uppercase;
+  font-size: 0.62rem;
+  letter-spacing: 0.5px;
+}
+
+.mobile-week-day-header .mobile-week-day-num {
+  font-size: 0.92rem;
+  font-weight: 800;
+}
+
+/* Time Axis (Sticky Left) */
+.mobile-week-axis-col {
+  position: sticky;
+  left: 0;
+  z-index: 10;
+  background: var(--bg-secondary);
+  border-right: 1px solid var(--border-subtle);
+  grid-column: 1;
+  grid-row: 2;
+}
+
+.mobile-week-hour-label {
+  font-size: 0.65rem;
+  color: var(--text-tertiary);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+  display: flex;
+  align-items: flex-start;
+  padding-top: 2px;
+  padding-right: 6px;
+  padding-left: 4px;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+
+/* Day Columns (Grid Row 2) */
+.mobile-week-day-col {
+  position: relative;
+  grid-row: 2;
+  border-right: 1px solid var(--border-subtle);
+  background-image: repeating-linear-gradient(
+    to bottom,
+    transparent,
+    transparent 39px,
+    rgba(255, 255, 255, 0.04) 40px
+  );
+  box-sizing: border-box;
+}
+
+.mobile-week-day-col.is-empty {
+  background-color: rgba(255, 255, 255, 0.01);
+}
+
+/* Events Inside Day Columns */
+.mobile-week-event {
+  position: absolute;
+  background: var(--bg-tertiary);
+  border-left: 3px solid var(--accent-primary);
+  border-radius: 4px;
+  padding: 3px 5px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: background 0.12s;
+}
+
+.mobile-week-event:active {
+  background: var(--bg-hover);
+}
+
+.mobile-week-event.is-conflict {
+  border-left-color: #EF4444;
+}
+
+.mobile-week-event-clash {
+  font-size: 0.58rem;
+  font-weight: 800;
+  color: #EF4444;
+  line-height: 1;
+}
+
+.mobile-week-event-title {
+  font-size: 0.68rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: 1.15;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.mobile-week-event-time {
+  font-size: 0.58rem;
+  color: var(--text-secondary);
+  line-height: 1;
+}
+
 @media (max-width: 768px) {
   .plan-summary-bar {
     flex-direction: column;
     align-items: flex-start;
     gap: 16px;
   }
-  .week-days-grid {
-    grid-template-columns: repeat(2, 1fr);
+  .plan-actions-group {
+    width: 100%;
+    flex-wrap: wrap;
   }
+  .export-ics-btn, .copy-text-btn, .share-plan-btn {
+    flex: 1 1 auto;
+    justify-content: center;
+  }
+
+  .conflict-banner {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 14px;
+  }
+  .conflict-controls-group {
+    width: 100%;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+  }
+  .conflict-nav-arrows {
+    justify-content: space-between;
+  }
+  .conflict-filter-toggle,
+  .ignore-conflict-btn {
+    width: 100%;
+    text-align: center;
+  }
+
+  .calendar-controls-bar {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    padding: 10px 12px;
+  }
+  .view-mode-tabs {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    scrollbar-width: none;
+    padding-bottom: 2px;
+  }
+  .view-mode-tabs::-webkit-scrollbar {
+    display: none;
+  }
+  .view-mode-btn {
+    flex-shrink: 0;
+  }
+  .timeline-header-right {
+    width: 100%;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+  }
+  .compact-date-nav,
+  .back-overview-btn {
+    width: 100%;
+    justify-content: space-between;
+  }
+  .compact-date-nav .focused-date-text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  /* Weekday headers only make sense above a real 7-col grid. The mobile
+     agenda list carries its own per-row weekday label instead (see
+     .cell-weekday-mobile), and uses a flat list rather than week rows. */
   .day-name-headers {
     display: none;
   }
+
+  .mobile-agenda-list {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .agenda-gap-divider {
+    text-align: center;
+    color: var(--text-tertiary);
+    font-size: 0.68rem;
+    letter-spacing: 0.5px;
+    padding: 8px 12px;
+    border: 1px dashed var(--border-subtle);
+    border-radius: var(--radius-sm);
+    background: transparent;
+  }
+
+  .overview-day-cell {
+    min-height: 0;
+    flex-direction: row;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 12px;
+  }
+  .cell-top {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    flex-shrink: 0;
+  }
+  .cell-weekday-mobile {
+    display: inline;
+    color: var(--text-tertiary);
+    font-weight: 600;
+  }
+  .cell-chips-list {
+    margin: 0;
+    flex: 1;
+    min-width: 0;
+  }
+  .event-chip {
+    white-space: normal;
+  }
+  .cell-avail-hint {
+    flex-shrink: 0;
+  }
+
   .festival-overview-scroll-container {
     overflow-x: hidden;
+    padding: 14px;
+  }
+  .weeks-grid-wrapper {
+    max-height: none;
+  }
+
+  .fullcalendar-wrapper {
+    height: 70vh;
+    padding: 12px;
   }
 }
