@@ -74,9 +74,6 @@ export default function FAQModal({ onClose }) {
         <div className="faq-footer">
           <div className="faq-footer-info">
             <span>Dataset Version: <code>v1.4 • {rawEvents.length} Events Index</code></span>
-            <span className="faq-credit">
-              Built by <a href="https://www.linkedin.com/in/maneet-singh-826b65410/" target="_blank" rel="noopener noreferrer">Maneet Singh</a>
-            </span>
           </div>
           <button className="faq-done-btn" onClick={onClose}>Got it</button>
         </div>
