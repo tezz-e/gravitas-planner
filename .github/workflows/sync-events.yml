@@ -1,0 +1,30 @@
+name: Daily Event Data Sync
+
+on:
+  schedule:
+    # Run every day at 12:00 AM UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual triggers
+
+jobs:
+  update-events:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run update script
+        run: npm run update-data
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/events_scored.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "data: automated daily sync of events from live API" && git push)
