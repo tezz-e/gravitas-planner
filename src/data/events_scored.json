@@ -301,6 +301,48 @@
     }
   },
   {
+    "id": "4da21e17-096a-4947-b62f-6dfb1e6c132e",
+    "name": "HackXpertise 3.0",
+    "type": "Hackathon",
+    "club": "IEEE - TECHNOLOGY AND ENGINEERING MANAGEMENT SOCIETY ( IEEE-TEMS)",
+    "start_date": "2026-09-05T09:00:00Z",
+    "end_date": "2026-09-06T18:00:00Z",
+    "venue": "Kamraj Auditorium, CDMM 213",
+    "team_size": "2-4",
+    "price": 200,
+    "short_description": "HackXpertise is a flagship event organized by the IEEE TEMS Chapter, VIT Vellore, during graVITas. It is a 2 day event with a Figma workshop on the first day and a hackathon on the second day.",
+    "scope": "both",
+    "category": "General",
+    "tagline": "Innovation Begins with Expertise.",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "solo",
+      "hackathon",
+      "multi-day"
+    ],
+    "duration": {
+      "days": 2,
+      "hours": 33,
+      "label": "2 days (33h)"
+    }
+  },
+  {
     "id": "4f0a6ada-40c9-4626-af30-afce5ac10b3a",
     "name": "Jumanji: The Outbreak",
     "type": "Others",
@@ -1274,7 +1316,7 @@
     "scope": "external_only",
     "category": "Premium",
     "tagline": "Design.Build.Fly.",
-    "is_team": true,
+    "is_team": false,
     "scores": {
       "robotics": 26,
       "iot": 0,
@@ -2013,6 +2055,47 @@
       "days": 2,
       "hours": 33,
       "label": "2 days (33h)"
+    }
+  },
+  {
+    "id": "8de237fe-3ff6-4682-acfa-70371dcafb18",
+    "name": "YogaVerse",
+    "type": "Hackathon",
+    "club": "Yoga Club",
+    "start_date": "2026-09-18T09:00:00Z",
+    "end_date": "2026-09-18T19:00:00Z",
+    "venue": "SJT 109",
+    "team_size": "2-3",
+    "price": 128,
+    "short_description": "YOGAVERSE is an AI-powered software development challenge that combines yoga, computer vision, and gamification. Participants build systems that detect yoga poses in real time and evaluate pose accuracy using AI. Teams create engaging platforms where users earn points, maintain streaks, unlock achievements, progress through levels, and compete ,making fitness interactive, rewarding, and fun.",
+    "scope": "Both",
+    "category": "General",
+    "tagline": "YOGAVERSE – Where Movement Becomes the Game",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "solo",
+      "hackathon"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 10,
+      "label": "10h"
     }
   },
   {
@@ -4818,6 +4901,47 @@
     }
   },
   {
+    "id": "fcddc4dc-7dd9-483e-8744-88ec890e8567",
+    "name": "Truss Force",
+    "type": "Workshop",
+    "club": "INDIAN SOCIETY OF EARTHQUAKE TECHNOLOGY(ISET)",
+    "start_date": "2026-09-15T09:00:00Z",
+    "end_date": "2026-09-15T20:00:00Z",
+    "venue": "MB 210",
+    "team_size": "Solo",
+    "price": 100,
+    "short_description": "TrussForce is a hands-on structural engineering event where participants will learn the complete workflow of surveying, modelling, loading, and analysing a real canopy roof structure. Participants will first conduct a real-time survey and measurement of the physical model, understand its geometry, members, and supports, and then recreate the same structure in STAAD.Pro.",
+    "scope": "Internal_only",
+    "category": "General",
+    "tagline": "Decode to Build",
+    "is_team": true,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "team-based",
+      "workshop"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 11,
+      "label": "11h"
+    }
+  },
+  {
     "id": "9f2d157e-2890-491b-ba93-dc32f9931f90",
     "name": "Buildonomics",
     "type": "Entrepreneurship and Management",
@@ -5237,47 +5361,6 @@
       "days": 2,
       "hours": 24,
       "label": "2 days (24h)"
-    }
-  },
-  {
-    "id": "8de237fe-3ff6-4682-acfa-70371dcafb18",
-    "name": "YogaVerse",
-    "type": "Hackathon",
-    "club": "Yoga Club",
-    "start_date": "2026-09-18T09:00:00Z",
-    "end_date": "2026-09-18T19:00:00Z",
-    "venue": "SJT 109",
-    "team_size": "2-3",
-    "price": 128,
-    "short_description": "YOGAVERSE is an AI-powered software development challenge that combines yoga, computer vision, and gamification. Participants build systems that detect yoga poses in real time and evaluate pose accuracy using AI. Teams create engaging platforms where users earn points, maintain streaks, unlock achievements, progress through levels, and compete ,making fitness interactive, rewarding, and fun.",
-    "scope": "Both",
-    "category": "General",
-    "tagline": "YOGAVERSE – Where Movement Becomes the Game",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "hackathon"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 10,
-      "label": "10h"
     }
   },
   {
