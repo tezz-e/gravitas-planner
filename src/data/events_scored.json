@@ -40,6 +40,50 @@
     }
   },
   {
+    "id": "01fe0783-1b61-461c-b306-fc8c118f9607",
+    "name": "DevJams'26",
+    "type": "Hackathon",
+    "club": "GOOGLE DEVELOPERS STUDENT CLUB (GDSC)",
+    "start_date": "2026-08-29T08:00:00Z",
+    "end_date": "2026-08-31T13:00:00Z",
+    "venue": "Anna Auditorium,Sarojini Naidu Gallery",
+    "team_size": "2-4",
+    "price": 0,
+    "short_description": "DevJams'26 is GDG's flagship beginner-friendly 48-hour hackathon that brings together student developers, designers, and innovators to transform ideas into impactful solutions. Participants work in teams, receive mentorship from industry professionals, take part in fun ice-breaker activities, and showcase their projects before an expert judging panel while competing for exciting prizes.",
+    "scope": "both",
+    "category": "Premium",
+    "tagline": "Wham Bam Let’s DevJam!",
+    "is_team": true,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "free",
+      "open-to-all",
+      "team-based",
+      "hackathon",
+      "multi-day",
+      "overnight",
+      "premium"
+    ],
+    "duration": {
+      "days": 3,
+      "hours": 53,
+      "label": "3 days (53h)"
+    }
+  },
+  {
     "id": "1acf1a1d-e91e-40a8-a580-9d9dae69a5de",
     "name": "Keystone Protocol",
     "type": "Competition",
@@ -78,6 +122,49 @@
       "days": 1,
       "hours": 11,
       "label": "11h"
+    }
+  },
+  {
+    "id": "7d5cee1c-0782-4893-a891-6eefcbde3622",
+    "name": "Step Up Stars",
+    "type": "Workshop",
+    "club": "DANCE CLUB",
+    "start_date": "2026-09-01T10:00:00Z",
+    "end_date": "2026-09-02T17:00:00Z",
+    "venue": "Foodys (Inside Half)",
+    "team_size": "Solo",
+    "price": 100,
+    "short_description": "Step Up Stars is an exciting celebration of dance, creativity, and confidence, where school children come together to experience the joy of movement in a fun and welcoming environment. Filled with energetic dance sessions, engaging activities, and memorable experiences, the event encourages every child to dream big, express themselves fearlessly, and discover the star within.",
+    "scope": "external_only",
+    "category": "Premium",
+    "tagline": "where every step makes u shine",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "external-only",
+      "solo",
+      "workshop",
+      "multi-day",
+      "premium"
+    ],
+    "duration": {
+      "days": 2,
+      "hours": 31,
+      "label": "2 days (31h)"
     }
   },
   {
@@ -294,46 +381,6 @@
       "days": 2,
       "hours": 33,
       "label": "2 days (33h)"
-    }
-  },
-  {
-    "id": "4f0a6ada-40c9-4626-af30-afce5ac10b3a",
-    "name": "Jumanji: The Outbreak",
-    "type": "Others",
-    "club": "ALPHA BIO CELL (ABC)",
-    "start_date": "2026-09-05T09:00:00Z",
-    "end_date": "2026-09-05T20:00:00Z",
-    "venue": "Foody's",
-    "team_size": "3-5",
-    "price": 100,
-    "short_description": "An ancient pathogen has escaped from the Temple of the Jaguar, and the only cure is the mythical \"Eye of the Jaguar.\" Teams of 3 to 5 players must take on the roles of iconic characters and race against time. Solve cryptic clues, collect secret letters, and unlock the final challenge before the deadly infection consumes you forever.",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "Find the Eye of the Jaguar or become part of the jungle forever!",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 20,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 20
-    },
-    "tags": [
-      "single-day",
-      "team-based",
-      "internal-only"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 11,
-      "label": "1 day (11h)"
     }
   },
   {
@@ -1798,6 +1845,47 @@
     }
   },
   {
+    "id": "51a56de1-5251-46d6-94ac-8ac064423b8a",
+    "name": "Boardroom Battle",
+    "type": "Technical competition",
+    "club": "School of Social Sciences & Languages",
+    "start_date": "2026-09-18T09:00:00Z",
+    "end_date": "2026-09-18T14:00:00Z",
+    "venue": "TT 314",
+    "team_size": "1-5",
+    "price": 100,
+    "short_description": "Boardroom Battle is a high-stakes, team-based business simulation hosted by the School of Social Sciences and Languages at graVITas 2026. Designed to test corporate decision-making, adaptability, and strategic agility, teams of five represent core organizational departments—such as Finance, Marketing, HR, and Operations—to navigate real-time industry crises. Across three intense rounds covering product-based, automobile, and food industries, participants face sudden market speculations, environmental disruptions, and rigorous judge interrogations. Step into the corporate shoes, defend your strategies under pressure, and prove your team's leadership capability.",
+    "scope": "both",
+    "category": "Premium",
+    "tagline": "Lead the Crisis, Master the Strategy, Rule the Boardroom.",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "solo",
+      "premium"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 5,
+      "label": "5h"
+    }
+  },
+  {
     "id": "5edd20e8-e9cd-4984-8eb7-126809ec43e4",
     "name": "Battle In Borderland 2.0",
     "type": "Others",
@@ -1837,48 +1925,6 @@
       "days": 2,
       "hours": 34,
       "label": "2 days (34h)"
-    }
-  },
-  {
-    "id": "5ee151dd-9b47-4fb2-a46a-4571aa1f92cf",
-    "name": "Case Study",
-    "type": "Competition",
-    "club": "VIT Business School",
-    "start_date": "2026-09-18T09:00:00Z",
-    "end_date": "2026-09-18T18:00:00Z",
-    "venue": "PRP 462",
-    "team_size": "2-4",
-    "price": 100,
-    "short_description": "Teams analyse a real business problem, develop practical solutions, and present recommendations before a judging panel. The event evaluates analytical thinking, business strategy, teamwork, communication, and decision making under time constraints. Put your strategic acumen to the test through multi-round challenges, high-stakes boardroom presentations, and a surprise crisis twist.",
-    "scope": "internal_only",
-    "category": "Premium",
-    "tagline": "Decode the case, win the race, and secure your place!",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "internal-only",
-      "solo",
-      "competitive",
-      "premium"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 9,
-      "label": "9h"
     }
   },
   {
@@ -2173,46 +2219,6 @@
     }
   },
   {
-    "id": "0615fb4d-78b0-4a7c-bc52-ba4cccee2ee7",
-    "name": "Purble Place 2.0",
-    "type": "Others",
-    "club": "CULINARY CLUB",
-    "start_date": "2026-09-18T10:00:00Z",
-    "end_date": "2026-09-18T19:00:00Z",
-    "venue": "MGB113 + MGB114",
-    "team_size": "2-4",
-    "price": 200,
-    "short_description": "Purble Place is a timed, hands-on cake-decorating competition designed to foster artistic expression, resource management, and creative design among participants. Taking inspiration from the classic digital simulation, the event translates conceptual design into a physical medium.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Turning Simplicity into Sweet Art",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "team-based"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 9,
-      "label": "9h"
-    }
-  },
-  {
     "id": "18fc35ad-ae32-4fc6-940c-4f583b71b972",
     "name": "The Great Game",
     "type": "Others",
@@ -2413,6 +2419,48 @@
       "days": 3,
       "hours": 58,
       "label": "3 days (58h)"
+    }
+  },
+  {
+    "id": "5411e431-76d0-423c-b886-af30fdd0dfa1",
+    "name": "Right! A Tune",
+    "type": "Hackathon",
+    "club": "MUSIC CLUB",
+    "start_date": "2026-09-18T10:00:00Z",
+    "end_date": "2026-09-20T12:00:00Z",
+    "venue": "MB 210",
+    "team_size": "1-8",
+    "price": 420,
+    "short_description": "Right A Tune! is VIT Music Club’s flagship 48-hour overnight music production hackathon where participants collaborate to compose, record, produce, and mix original songs. Featuring expert-led workshops, creative challenges, networking opportunities, and a live showcase, the event brings together musicians and producers to learn, innovate, and compete for exciting cash prizes.",
+    "scope": "both",
+    "category": "Premium",
+    "tagline": "When the clock strikes creativity!",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "solo",
+      "hackathon",
+      "premium"
+    ],
+    "duration": {
+      "days": null,
+      "hours": null,
+      "label": "NaN day (NaNh)"
     }
   },
   {
@@ -2665,46 +2713,6 @@
     }
   },
   {
-    "id": "02fe0783-1b61-461c-b306-fc8c118f9609",
-    "name": "Escape Room",
-    "type": "Others",
-    "club": "TREKKING CLUB",
-    "start_date": "2026-09-18T11:00:00Z",
-    "end_date": "2026-09-19T17:00:00Z",
-    "venue": "SJT102",
-    "team_size": "3-5",
-    "price": 200,
-    "short_description": "Escape Room is an immersive, team-based adventure where participants enter specially designed themed rooms inspired by Stranger Things and Harry Potter. Solve thrilling puzzles, decode hidden clues, crack mysteries, and unlock challenges to escape before time runs out. Test your logic, teamwork, communication, and decision-making under pressure in a fun, fast-paced, and competitive experience filled with excitement and adventure.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Crack the Clues. Conquer the Clock.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 40,
-      "webdev": 5,
-      "cybersecurity": 0,
-      "electronics": 10,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 90
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "team-based"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 30,
-      "label": "2 days (30h)"
-    }
-  },
-  {
     "id": "058b2458-c6f6-4b87-adf7-76aeafd08afc",
     "name": "PCBify 2.0",
     "type": "Workshop",
@@ -2747,6 +2755,47 @@
       "days": 2,
       "hours": 29,
       "label": "2 days (29h)"
+    }
+  },
+  {
+    "id": "151c680b-d2ee-4a3b-8a9f-55a65c2c2831",
+    "name": "Ad- venture Unscripted Branding",
+    "type": "Other Events",
+    "club": "School of Social Sciences & Languages",
+    "start_date": "2026-09-18T14:00:00Z",
+    "end_date": "2026-09-18T18:00:00Z",
+    "venue": "TT 314",
+    "team_size": "5",
+    "price": 100,
+    "short_description": "Ad-venture Unscripted Branding is a high-energy, non-technical marketing competition held during graVITas 2026 by the School of Social Sciences and Languages. Designed to test spontaneous thinking, brand intelligence, and creative content creation, participants battle through a fast-paced brand trivia round before taking on a surprise product challenge. Teams will have to pitch their mystery product live on stage or create a viral-style video reel from scratch. It is the ultimate playground to unleash your marketing IQ, sharp wit, and storytelling skills.",
+    "scope": "internal_only",
+    "category": "Premium",
+    "tagline": "Think Fast, Pitch Bold: Unscript Your Brand Empire!",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "internal-only",
+      "solo",
+      "premium"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 4,
+      "label": "4h"
     }
   },
   {
@@ -3039,84 +3088,44 @@
     }
   },
   {
-    "id": "3adec322-2f9f-44e2-8736-0be594a1b2fd",
-    "name": "Ctrl + Alt + Confuse",
-    "type": "Others",
-    "club": "CUBING CLUB",
+    "id": "480b3d09-e40e-42c5-a78e-7f26890f841d",
+    "name": "z0d1ak CTF Finals",
+    "type": "Technical competition",
+    "club": "ASSOCIATION FOR COMPUTING MACHINERY (ACM)",
     "start_date": "2026-09-19T09:00:00Z",
-    "end_date": "2026-09-19T13:00:00Z",
-    "venue": "TT 332",
-    "team_size": "1-4",
-    "price": 100,
-    "short_description": "Ctrl + Alt + Confuse is a fun-filled strategy event where teams tackle dynamic challenges with constantly changing rules, hidden objectives, and unexpected twists. Success depends on adaptability, teamwork, and quick decision-making under pressure.",
+    "end_date": "2026-09-19T18:00:00Z",
+    "venue": "VOC Gallery - II",
+    "team_size": "2-5",
+    "price": 0,
+    "short_description": "z0d1ak CTF Finals is the decisive round of ACM-VIT's Capture the Flag competition. Qualifying teams of up to five members face an advanced set of cybersecurity challenges that test technical depth, speed, strategy and teamwork before the final champions are determined.",
     "scope": "both",
-    "category": "General",
-    "tagline": "Think Fast. Adapt Faster. Expect Absolute Chaos.",
-    "is_team": true,
+    "category": "Premium",
+    "tagline": "Solve this challenge. Make no mistakes",
+    "is_team": false,
     "scores": {
       "robotics": 0,
       "iot": 0,
       "ai_ml": 0,
       "hackathons": 0,
       "startups": 0,
-      "webdev": 10,
-      "cybersecurity": 0,
-      "electronics": 10,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 15
-    },
-    "tags": [
-      "single-day",
-      "team-based"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 4,
-      "label": "1 day (4h)"
-    }
-  },
-  {
-    "id": "40492b89-2f55-4fd8-982b-691a6d4c4e65",
-    "name": "Yellow Tape 5.0",
-    "type": "Competition",
-    "club": "SOCIETY FOR BIOLOGICAL ENGINEERING (SBE)",
-    "start_date": "2026-09-19T09:00:00Z",
-    "end_date": "2026-09-19T18:00:00Z",
-    "venue": "PRP 304 + 306",
-    "team_size": "3-5",
-    "price": 200,
-    "short_description": "A crime has been committed, and the truth lies hidden within the evidence. Step into the shoes of a forensic investigator, analyze the clues, reconstruct the sequence of events, and identify the culprit before time runs out. Every detail matters, and every decision brings you closer to solving the case.",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "Everyone's a suspect. No one's safe.",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 20,
-      "hackathons": 0,
-      "startups": 0,
       "webdev": 0,
-      "cybersecurity": 20,
+      "cybersecurity": 0,
       "electronics": 0,
       "cad_design": 0,
       "gaming": 0,
-      "finance": 15,
-      "general_fun": 50
+      "finance": 0,
+      "general_fun": 0
     },
     "tags": [
-      "single-day",
-      "competitive",
-      "hands-on",
-      "team-based",
-      "internal-only"
+      "free",
+      "open-to-all",
+      "solo",
+      "premium"
     ],
     "duration": {
       "days": 1,
-      "hours": 11,
-      "label": "1 day (11h)"
+      "hours": 9,
+      "label": "9h"
     }
   },
   {
@@ -3156,6 +3165,48 @@
       "days": 1,
       "hours": 4,
       "label": "1 day (4h)"
+    }
+  },
+  {
+    "id": "5ee151dd-9b47-4fb2-a46a-4571aa1f92cf",
+    "name": "Case X",
+    "type": "Competition",
+    "club": "VIT Business School",
+    "start_date": "2026-09-19T09:00:00Z",
+    "end_date": "2026-09-19T18:00:00Z",
+    "venue": "PRP 462",
+    "team_size": "2-4",
+    "price": 100,
+    "short_description": "Teams analyse a real business problem, develop practical solutions, and present recommendations before a judging panel. The event evaluates analytical thinking, business strategy, teamwork, communication, and decision making under time constraints. Put your strategic acumen to the test through multi-round challenges, high-stakes boardroom presentations, and a surprise crisis twist.",
+    "scope": "internal_only",
+    "category": "Premium",
+    "tagline": "Decode the case, win the race, and secure your place!",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "internal-only",
+      "solo",
+      "competitive",
+      "premium"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 9,
+      "label": "9h"
     }
   },
   {
@@ -3200,6 +3251,45 @@
     }
   },
   {
+    "id": "7c9f85e5-fd95-4a99-adb5-92e4fdf329a8",
+    "name": "VANTAGE – Visionary Assembly for New Technology, Advocacy, and Global Ethics",
+    "type": "Entrepreneurship and Management",
+    "club": "DEBATE SOCIETY",
+    "start_date": "2026-09-19T09:00:00Z",
+    "end_date": "2026-09-19T18:00:00Z",
+    "venue": "TT 204",
+    "team_size": "Solo",
+    "price": 125,
+    "short_description": "VANTAGE(Visionary Assembly for New Technology, Advocacy, and Global Ethics)  is a one-day flagship event by the Debate Society that brings together technology, policy, and public speaking. It features a keynote by an industry or policy leader, followed by a Turncoat Speaking Competition where participants argue both sides of AI and technology governance motions. Through critical thinking and persuasive speaking, VANTAGE challenges participants to engage with the most pressing technological issues of our time.",
+    "scope": "both",
+    "category": "General",
+    "tagline": "Ethos Pathos Logos",
+    "is_team": false,
+    "scores": {
+      "robotics": 20,
+      "iot": 0,
+      "ai_ml": 20,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 20,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 30
+    },
+    "tags": [
+      "single-day",
+      "solo"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 9,
+      "label": "1 day (9h)"
+    }
+  },
+  {
     "id": "57c7c787-de27-453c-9cdb-e1f2b584139a",
     "name": "Power and Precision Challenge",
     "type": "Competition",
@@ -3241,6 +3331,129 @@
     }
   },
   {
+    "id": "0b4d9380-2aec-40a6-9655-ff136ddae1af",
+    "name": "Ecopreneurs",
+    "type": "Hackathon",
+    "club": "NATIONAL ASSOCIATION OF STUDENTS OF ARCHITECTURE (NASA)",
+    "start_date": "2026-09-19T10:00:00Z",
+    "end_date": "2026-09-20T15:00:00Z",
+    "venue": "MGB 111",
+    "team_size": "Solo",
+    "price": 169,
+    "short_description": "Ecopreneurs is a 2-day Sustainability Product Design Hackathon that brings together students from diverse disciplines to create innovative solutions for environmental and societal challenges. Aligned with SDGs 7, 9, 11, 12, and 13, the event focuses on sustainable product innovation. Day 1 involves ideation, research, and design development, while Day 2 focuses on prototype development and pitching to an expert jury. The hackathon encourages interdisciplinary collaboration, creativity, entrepreneurship, and impact-driven design, providing participants with a platform to transform ideas into practical, sustainable solutions.",
+    "scope": "Internal_only",
+    "category": "General",
+    "tagline": "Where sustainability meets entreuprenership",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "solo",
+      "hackathon",
+      "multi-day"
+    ],
+    "duration": {
+      "days": 2,
+      "hours": 29,
+      "label": "2 days (29h)"
+    }
+  },
+  {
+    "id": "1828435b-761f-4be3-a092-1cbd32edaacd",
+    "name": "Exploring AI, IoT and Cybersecurity for the Digital Era",
+    "type": "Workshop",
+    "club": "School of Computer Science Engineering and Information Systems",
+    "start_date": "2026-09-19T10:00:00Z",
+    "end_date": "2026-09-19T17:00:00Z",
+    "venue": "SJT 107,108",
+    "team_size": "Solo",
+    "price": 170,
+    "short_description": "Exploring AI, IoT and Cybersecurity for the Digital Era is a hands-on workshop introducing students to three transformative technologies shaping the future. Through live demonstrations, practical examples, and interactive sessions, participants will explore AI, smart IoT systems, cybersecurity, ethical hacking, digital forensics, and AI-driven cyber defense. The workshop also highlights career opportunities, certifications, internships, research, and innovation pathways for building a future-ready technology career.",
+    "scope": "both",
+    "category": "Premium",
+    "tagline": "Explore. Innovate. Secure. Shape the Digital Future.",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "solo",
+      "workshop",
+      "premium"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 7,
+      "label": "7h"
+    }
+  },
+  {
+    "id": "1ccb7a9f-d95f-4a99-b0cd-161d64567793",
+    "name": "Soul Scribe",
+    "type": "Others",
+    "club": "ENGLISH LITERARY ASSOCIATION (ELA)",
+    "start_date": "2026-09-19T10:00:00Z",
+    "end_date": "2026-09-19T13:00:00Z",
+    "venue": "MGR 224",
+    "team_size": "Solo",
+    "price": 100,
+    "short_description": "This event is designed to evaluate participants’ creativity, narrative development and adaptability in storytelling. The event is divided into 2 rounds.",
+    "scope": "both",
+    "category": "General",
+    "tagline": "A lore that demands your soul",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 20
+    },
+    "tags": [
+      "single-day",
+      "solo"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 3,
+      "label": "1 day (3h)"
+    }
+  },
+  {
     "id": "4f0459b4-20ad-4ef8-92dc-8439c9d1c078",
     "name": "Padakkalam 2.0",
     "type": "Competition",
@@ -3273,6 +3486,370 @@
       "single-day",
       "competitive",
       "team-based"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 7,
+      "label": "1 day (7h)"
+    }
+  },
+  {
+    "id": "8376bca8-624e-4337-b114-1800b7d6b216",
+    "name": "The Hexagon Protocol",
+    "type": "Others",
+    "club": "THE SOCIETY OF PETROLEUM ENGINEERS (SPE)",
+    "start_date": "2026-09-19T10:00:00Z",
+    "end_date": "2026-09-19T14:00:00Z",
+    "venue": "SMV 123",
+    "team_size": "4-5",
+    "price": 200,
+    "short_description": "Think you've got what it takes to solve the unknown? The Hexagon Protocol invites you to embark on a thrilling adventure where every stage reveals new clues, fresh challenges, and unexpected twists. Work with your team to think critically, make strategic decisions, and adapt to an ever-changing game. Every choice shapes your journey, and every challenge brings you closer to uncovering the mystery. Gather your team, embrace the adventure, and discover if you can crack the protocol.",
+    "scope": "both",
+    "category": "General",
+    "tagline": "Decode the Unknown. Conquer the Challenge.",
+    "is_team": true,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 40,
+      "webdev": 5,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 60
+    },
+    "tags": [
+      "single-day",
+      "team-based"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 4,
+      "label": "1 day (4h)"
+    }
+  },
+  {
+    "id": "8b554858-9b66-4037-ad14-82a19e13c84a",
+    "name": "Humanity Through Lens",
+    "type": "Competition",
+    "club": "NATIONAL SERVICE SCHEME (NSS)",
+    "start_date": "2026-09-19T10:00:00Z",
+    "end_date": "2026-09-19T15:00:00Z",
+    "venue": "TT 335",
+    "team_size": "1-3",
+    "price": 127,
+    "short_description": "Humanity Through Lens is an NSS photography competition that encourages participants to capture powerful moments of kindness, community service, environmental conservation, and social responsibility. Through compelling photographs and meaningful captions, participants showcase real-life stories that inspire positive change. The event aims to promote empathy, creativity, and social awareness while highlighting the impact of small actions in building a better society.",
+    "scope": "both",
+    "category": "General",
+    "tagline": "Every Picture Tells a Story of Change",
+    "is_team": false,
+    "scores": {
+      "robotics": 8,
+      "iot": 20,
+      "ai_ml": 20,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 10,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 25,
+      "finance": 0,
+      "general_fun": 50
+    },
+    "tags": [
+      "single-day",
+      "competitive",
+      "hands-on",
+      "team-based"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 5,
+      "label": "1 day (5h)"
+    }
+  },
+  {
+    "id": "084f4d0b-7cbb-47e7-8d72-62011ecb2d82",
+    "name": "Smart Cobots: AI in Modern Industrial Automation",
+    "type": "Workshop",
+    "club": "School of Electronics Engineering",
+    "start_date": "2026-09-19T10:30:00Z",
+    "end_date": "2026-09-19T17:00:00Z",
+    "venue": "TT 630",
+    "team_size": "Solo",
+    "price": 300,
+    "short_description": "This one-day technical workshop introduces participants to AI driven Collaborative Robots (Cobots) and their applications in Industry 4.0. Through expert sessions and live demonstrations, attendees will explore how Artificial Intelligence, IoT, and cloud technologies are transforming industrial automation. The workshop equips students with practical insights into intelligent manufacturing, human robot collaboration, and future career opportunities in smart industries.",
+    "scope": "both",
+    "category": "Premium",
+    "tagline": "Empowering the Future of Manufacturing with AI-Driven Collaborative Robotics.",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "solo",
+      "workshop",
+      "premium"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 7,
+      "label": "7h"
+    }
+  },
+  {
+    "id": "882a4ff6-c77f-43e6-8e0b-4be8ffc51d7a",
+    "name": "OPERATION BELLA CIAO: THE MATHEMATICAL HEIST",
+    "type": "Competition",
+    "club": "MATHVERSE CLUB",
+    "start_date": "2026-09-19T14:00:00Z",
+    "end_date": "2026-09-19T18:00:00Z",
+    "venue": "TT 331",
+    "team_size": "4-5",
+    "price": 120,
+    "short_description": "The legendary mastermind The Professor has planned the biggest heist in history. A secret mathematical key containing billions in digital assets is locked inside the Royal Mathematical Mint. Teams become members of the heist crew — Tokyo, Berlin, Nairobi, Denver, Rio, Helsinki, and Lisbon — and must break through five high-security mathematical barriers before the authorities trace their location. Mission Structure 🏦 Phase 1 – Professor’s Cipher 🎭 Phase 2 – Inspector’s Interrogation 💰 Phase 3 – Berlin’s Vault Lock 🎲 Phase 4 – Tokyo’s Risk Matrix 🌐 Phase 5 – Rio’s Network Breach 🔓 Final Heist – The Mint Vault Each completed phase reveals a piece of The Professor’s Master Code. Teams must combine all collected fragments to unlock the Royal Mint’s final vault and secure the stolen treasure before the countdown reaches zero.",
+    "scope": "both",
+    "category": "General",
+    "tagline": "OPERATION BELLA CIAO: THE MATHEMATICAL HEIST",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 40,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 25,
+      "cybersecurity": 10,
+      "electronics": 10,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 50
+    },
+    "tags": [
+      "single-day",
+      "competitive",
+      "team-based"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 4,
+      "label": "1 day (4h)"
+    }
+  },
+  {
+    "id": "4359da2e-b3d2-4e7e-a1e3-d679328a5341",
+    "name": "Modelling Minds 2.0",
+    "type": "Hackathon",
+    "club": "VIT MATHEMATICAL ASSOCIATION (VITMAS)",
+    "start_date": "2026-09-19T16:00:00Z",
+    "end_date": "2026-09-20T08:00:00Z",
+    "venue": "Homi Baba Gallery, SJT 107 + 108",
+    "team_size": "1-4",
+    "price": 200,
+    "short_description": "Modelling Minds 2.0 goes beyond theoretical knowledge by encouraging participants to develop practical, scalable, and innovative AI solutions under time constraints. Whether you're exploring Machine Learning for the first time or building advanced AI agents, this event provides an exciting platform to learn, compete, and showcase your problem-solving abilities.",
+    "scope": "both",
+    "category": "General",
+    "tagline": "From Data to Decisions, From Agents to Action.",
+    "is_team": false,
+    "scores": {
+      "robotics": 8,
+      "iot": 0,
+      "ai_ml": 80,
+      "hackathons": 60,
+      "startups": 0,
+      "webdev": 10,
+      "cybersecurity": 0,
+      "electronics": 10,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 10
+    },
+    "tags": [
+      "multi-day",
+      "hackathon-style",
+      "hands-on",
+      "team-based"
+    ],
+    "duration": {
+      "days": 2,
+      "hours": 16,
+      "label": "2 days (16h)"
+    }
+  },
+  {
+    "id": "3b6d2b09-7723-4622-9774-cc461523bf8f",
+    "name": "Access Denied",
+    "type": "Others",
+    "club": "STUDENTS ASSOCIATION OF BIO-ENGINEERING SCIENCE AND TECHNOLOGY (SABEST)",
+    "start_date": "2026-09-20T08:00:00Z",
+    "end_date": "2026-09-20T19:00:00Z",
+    "venue": "SMV 102",
+    "team_size": "3-4",
+    "price": 150,
+    "short_description": "Access denied is an immersive biotechnology escape room event that combines puzzles, quizzes, riddles,  and analytical problems, drawing from diverse disciplines within biotechnology. It  encourages participants to view familiar concepts from entirely new perspectives, requiring  logic, creativity, and critical thinking. However, there’s a catch, every challenge solved  unlocks the next, turning the experience into a high-stakes escape room where only those  who keep up can progress.",
+    "scope": "both",
+    "category": "General",
+    "tagline": "Crack the Code, Unlock the Truth",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 70,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 25,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 50
+    },
+    "tags": [
+      "single-day",
+      "team-based"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 11,
+      "label": "1 day (11h)"
+    }
+  },
+  {
+    "id": "0629102b-cc5f-4992-8921-2e55df1cb2f8",
+    "name": "CookOff 11",
+    "type": "Competition",
+    "club": "CODECHEF - VIT",
+    "start_date": "2026-09-20T09:00:00Z",
+    "end_date": "2026-09-20T16:00:00Z",
+    "venue": "Anna Auditorium,Bhagat Singh Gallery",
+    "team_size": "Solo",
+    "price": 150,
+    "short_description": "GraVITas' longest-running competitive coding event is back for its 11th edition! With its all-new format, CookOff 11 is set to push veterans and rising stars alike to achieve algorithmic feats they thought impossible. CookOff 11 is a high-stakes arena of logic, speed, and structural elegance. We invite you to be a part of its legacy.",
+    "scope": "both",
+    "category": "Premium",
+    "tagline": "Learn. Code. Simplify.",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 5,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 10
+    },
+    "tags": [
+      "single-day",
+      "competitive",
+      "premium",
+      "solo"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 8,
+      "label": "1 day (8h)"
+    }
+  },
+  {
+    "id": "0b35e5a3-90f2-49ad-8cb7-89f44435b0de",
+    "name": "Raaz-e-Qatl",
+    "type": "Competition",
+    "club": "CUBING CLUB",
+    "start_date": "2026-09-20T09:00:00Z",
+    "end_date": "2026-09-20T13:00:00Z",
+    "venue": "MGB 307",
+    "team_size": "1-4",
+    "price": 150,
+    "short_description": "Raaz-e-Qatl is an immersive murder mystery where teams become detectives, analyze clues, uncover hidden connections, and race against time to identify the culprit. With twists, red herrings, and shocking revelations at every turn, only the sharpest minds will unravel the truth.",
+    "scope": "internal_only",
+    "category": "General",
+    "tagline": "Yeh hai gumraahon ka rasta, Muskaanein jhooti hai",
+    "is_team": true,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "internal-only",
+      "team-based",
+      "competitive"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 4,
+      "label": "4h"
+    }
+  },
+  {
+    "id": "0c277ace-df04-4e1c-a785-8bd8d840f539",
+    "name": "The Lost Manuscript",
+    "type": "Others",
+    "club": "THE NEXT CHAPTER - BOOK CLUB",
+    "start_date": "2026-09-20T09:00:00Z",
+    "end_date": "2026-09-20T16:00:00Z",
+    "venue": "CDMM 303 + 304",
+    "team_size": "3-4",
+    "price": 200,
+    "short_description": "Days before the release of his final manuscript, a celebrated horror novelist vanishes without a trace. In his study lies an unfinished novel about an author haunted by the certainty that someone is plotting his murder. As teams unlock chapters through cryptic puzzles and hidden clues, the fiction begins to echo reality with unsettling precision. Was the manuscript merely a story or a desperate warning left behind before the author disappeared?",
+    "scope": "internal_only",
+    "category": "General",
+    "tagline": "Follow the trail. Finish the tale. Face the truth.",
+    "is_team": true,
+    "scores": {
+      "robotics": 0,
+      "iot": 20,
+      "ai_ml": 40,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 70
+    },
+    "tags": [
+      "single-day",
+      "team-based",
+      "internal-only"
     ],
     "duration": {
       "days": 1,
@@ -3321,48 +3898,6 @@
     }
   },
   {
-    "id": "5411e431-76d0-423c-b886-af30fdd0dfa1",
-    "name": "Right! A Tune",
-    "type": "Hackathon",
-    "club": "MUSIC CLUB",
-    "start_date": "TBD",
-    "end_date": "TBD",
-    "venue": "TBD",
-    "team_size": "1-8",
-    "price": 420,
-    "short_description": "Right A Tune! is VIT Music Club’s flagship 48-hour overnight music production hackathon where participants collaborate to compose, record, produce, and mix original songs. Featuring expert-led workshops, creative challenges, networking opportunities, and a live showcase, the event brings together musicians and producers to learn, innovate, and compete for exciting cash prizes.",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "When the clock strikes creativity!",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "hackathon",
-      "premium"
-    ],
-    "duration": {
-      "days": null,
-      "hours": null,
-      "label": "NaN day (NaNh)"
-    }
-  },
-  {
     "id": "57cde63e-af56-43d4-97af-cadedbc0b1c7",
     "name": "Squish and Sculpt",
     "type": "Workshop",
@@ -3370,7 +3905,7 @@
     "start_date": "2026-09-20T09:00:00Z",
     "end_date": "2026-09-20T13:00:00Z",
     "venue": "TT 333",
-    "team_size": "2",
+    "team_size": "1-2",
     "price": 150,
     "short_description": "Squish & Sculpt is a relaxed, hands-on clay-modeling session by The Cubing Club. No competition, no judging — just clay, colors, and your imagination. Sculpt a character, creature, object, or something totally abstract, solo or with friends. All materials are provided, so just show up ready to get your hands a little messy and make something fun.",
     "scope": "internal_only",
@@ -3657,9 +4192,9 @@
     "start_date": "2026-09-06T08:00:00Z",
     "end_date": "2026-09-06T20:00:00Z",
     "venue": "SMV 116",
-    "team_size": "3-5",
+    "team_size": "4-5",
     "price": 200,
-    "short_description": "Survival Showdown is an immersive escape room event themed around an abandoned hospital where teams of 3–5 members race against time to solve puzzles, uncover hidden clues, and complete challenging tasks. Designed to test teamwork, logical reasoning, communication, and decision-making under pressure, the event rewards the team that successfully escapes in the shortest time while following all game rules and overcoming thrilling challenges.",
+    "short_description": "Survival Showdown is an immersive escape room event themed around an abandoned hospital where teams of 4–5 members race against time to solve puzzles, uncover hidden clues, and complete challenging tasks. Designed to test teamwork, logical reasoning, communication, and decision-making under pressure, the event rewards the team that successfully escapes in the shortest time while following all game rules and overcoming thrilling challenges.",
     "scope": "both",
     "category": "General",
     "tagline": "The Hospital was abandoned. The secrets weren't",
@@ -3815,49 +4350,6 @@
       "days": 2,
       "hours": 31,
       "label": "2 days (31h)"
-    }
-  },
-  {
-    "id": "9a8c7f80-e84c-42b5-a9fa-f3feee35fdd6",
-    "name": "DRONE RUSH",
-    "type": "Workshop",
-    "club": "AMERICAN SOCIETY OF MECHANICAL ENGINEERS (ASME)",
-    "start_date": "2026-09-12T13:00:00Z",
-    "end_date": "2026-09-12T19:00:00Z",
-    "venue": "CDMM 213",
-    "team_size": "5",
-    "price": 350,
-    "short_description": "Drone Rush Workshop is a hands-on engineering experience designed to introduce  participants to the fundamentals of drone design, assembly, electronics, and flight control.  Participants will begin by exploring the principles of drone physics, quadrotor kinematics, and  component functionality through an interactive learning session and quiz. Working in teams,  students will assemble a functional quadcopter from scratch by preparing the frame, mounting  motors, soldering electronic components, and integrating an ESP32-based flight control  system. The workshop will also cover software calibration, motor-propeller configuration,  troubleshooting techniques, and flight testing. The event culminates in an exciting flight  challenge where teams demonstrate their drone's stability, hovering capability, and landing  precision. Participants will also gain insights into advanced drone technologies, firmware  development, and future enhancements, making this workshop an engaging blend of  mechanical design, electronics, programming, and practical aerospace engineering.",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "Innovation at full Throttle",
-    "is_team": false,
-    "scores": {
-      "robotics": 90,
-      "iot": 50,
-      "ai_ml": 20,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 25,
-      "cybersecurity": 0,
-      "electronics": 75,
-      "cad_design": 30,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 50
-    },
-    "tags": [
-      "single-day",
-      "workshop-style",
-      "hands-on",
-      "beginner-friendly",
-      "team-based",
-      "internal-only"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 6,
-      "label": "1 day (6h)"
     }
   },
   {
@@ -4327,11 +4819,11 @@
     "club": "VIT Business School",
     "start_date": "2026-09-18T09:00:00Z",
     "end_date": "2026-09-18T19:00:00Z",
-    "venue": "PRP",
+    "venue": "PRP 759",
     "team_size": "1-3",
     "price": 100,
     "short_description": "Social Transformer is a business innovation competition where participants solve real-world social  challenges using entrepreneurial thinking, technology, policy, and sustainable business models.  Unlike a typical case study, teams progress from understanding a problem to designing, testing, and  pitching a scalable solution.",
-    "scope": "internal_only",
+    "scope": "both",
     "category": "Premium",
     "tagline": "Think. Solve. Transform.",
     "is_team": false,
@@ -4731,6 +5223,50 @@
       "days": 1,
       "hours": 6,
       "label": "1 day (6h)"
+    }
+  },
+  {
+    "id": "c91fc4fb-b9a8-48ff-943b-babe49cb2aee",
+    "name": "Grooveathon",
+    "type": "Hackathon",
+    "club": "DANCE CLUB",
+    "start_date": "2026-09-18T10:00:00Z",
+    "end_date": "2026-09-20T21:00:00Z",
+    "venue": "Foodys (Inside half, Cake cutting area), Greenos",
+    "team_size": "4-10",
+    "price": 170,
+    "short_description": "Grooveathon is an electrifying three-day dance competition where creativity meets challenge. Teams unlock hidden themes through a QR Hunt, adapt to surprise props and technical twists, and battle through multiple rounds before the ultimate finale. Designed to test innovation, teamwork, and stage presence, Grooveathon promises an unforgettable experience for dancers and audiences alike.",
+    "scope": "both",
+    "category": "Premium",
+    "tagline": "The Ultimate Dance and Tech Collision",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "solo",
+      "hackathon",
+      "multi-day",
+      "overnight",
+      "premium"
+    ],
+    "duration": {
+      "days": 3,
+      "hours": 59,
+      "label": "3 days (59h)"
     }
   },
   {
@@ -5564,49 +6100,6 @@
     }
   },
   {
-    "id": "29ba5db4-9dca-46fe-8f33-23698c39dc22",
-    "name": "Architecture in Motion: The Transformable Model Challenge",
-    "type": "Workshop",
-    "club": "School of Architecture",
-    "start_date": "2026-08-29T09:00:00Z",
-    "end_date": "2026-08-30T18:00:00Z",
-    "venue": "MGB 502",
-    "team_size": "1-2",
-    "price": 0,
-    "short_description": "Architecture in Motion: The Transformable Model Challenge is an innovative architectural model-making competition that explores adaptive and responsive architecture through physical prototypes. The event encourages participants to move beyond conventional static models and develop transformable architectural systems that demonstrate flexibility, movement and adaptability.",
-    "scope": "internal_only",
-    "category": "Premium",
-    "tagline": "Architectural Model Making Competition + Interactive Exhibition",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "free",
-      "internal-only",
-      "solo",
-      "workshop",
-      "multi-day",
-      "premium"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 33,
-      "label": "2 days (33h)"
-    }
-  },
-  {
     "id": "e5c13da3-79a3-4c1a-8dd6-1d1a3b4ef342",
     "name": "Machine Design with Fusion 360",
     "type": "Workshop",
@@ -5652,6 +6145,46 @@
     }
   },
   {
+    "id": "4f0a6ada-40c9-4626-af30-afce5ac10b3a",
+    "name": "Jumanji: The Outbreak",
+    "type": "Others",
+    "club": "ALPHA BIO CELL (ABC)",
+    "start_date": "2026-09-05T09:00:00Z",
+    "end_date": "2026-09-05T20:00:00Z",
+    "venue": "Foody's",
+    "team_size": "3-5",
+    "price": 100,
+    "short_description": "An ancient pathogen has escaped from the Temple of the Jaguar, and the only cure is the mythical \"Eye of the Jaguar.\" Teams of 3 to 5 players must take on the roles of iconic characters and race against time. Solve cryptic clues, collect secret letters, and unlock the final challenge before the deadly infection consumes you forever.",
+    "scope": "internal_only",
+    "category": "General",
+    "tagline": "Find the Eye of the Jaguar or become part of the jungle forever!",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 20,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 20
+    },
+    "tags": [
+      "single-day",
+      "team-based",
+      "internal-only"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 11,
+      "label": "1 day (11h)"
+    }
+  },
+  {
     "id": "dc9c0d0d-367c-44fc-a928-8042f8375c52",
     "name": "TAG x BGMI",
     "type": "Competition",
@@ -5692,49 +6225,6 @@
       "days": 3,
       "hours": 55,
       "label": "3 days (55h)"
-    }
-  },
-  {
-    "id": "0eba5a6f-2687-416c-acd7-c51419433366",
-    "name": "Code2Create 7.0",
-    "type": "Hackathon",
-    "club": "ASSOCIATION FOR COMPUTING MACHINERY (ACM)",
-    "start_date": "2026-09-07T14:00:00Z",
-    "end_date": "2026-09-09T17:00:00Z",
-    "venue": "Anna Auditorium, Kamraj Auditorium",
-    "team_size": "2-5",
-    "price": 0,
-    "short_description": "Code2Create 7.0 is ACM-VIT's legacy 48-hour national hackathon and one of VIT's largest student-led technical events. Built around the idea of turning \"\"what if\"\" into \"\"what's next,\"\" it brings together hundreds of passionate developers, designers, and innovators from leading institutions across India to collaborate, compete, and create technology that addresses real-world challenges. With carefully curated problem statements, dedicated mentorship from industry experts, multiple evaluation rounds, and a competitive final showcase, Code2Create provides participants with an immersive platform to transform bold ideas into impactful solutions while learning, networking, and pushing the boundaries of innovation.\nDon't just code for the vibes, Code2Create!",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Don’t just code for the vibes, Code2Create.",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 30,
-      "hackathons": 95,
-      "startups": 0,
-      "webdev": 50,
-      "cybersecurity": 35,
-      "electronics": 10,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 15
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "hackathon-style",
-      "free",
-      "premium",
-      "team-based"
-    ],
-    "duration": {
-      "days": 3,
-      "hours": 48,
-      "label": "3 days (48h)"
     }
   },
   {
@@ -5985,48 +6475,6 @@
     }
   },
   {
-    "id": "66b7d529-07da-4314-ad34-99e3401defca",
-    "name": "EcoVention",
-    "type": "Competition",
-    "club": "School of Architecture",
-    "start_date": "2026-09-12T09:00:00Z",
-    "end_date": "2026-09-12T17:00:00Z",
-    "venue": "MGB 111",
-    "team_size": "1-2",
-    "price": 0,
-    "short_description": "EcoVention challenges individuals or teams of two to develop a sustainable product -furniture, an acoustic panel, or any other building/interior element of their choice - using sustainable materials and a sustainable design approach, intended for use in a residential setup or a retail showroom (participant's choice).",
-    "scope": "internal_only",
-    "category": "Premium",
-    "tagline": "Sustainable Product Design Challenge",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "free",
-      "internal-only",
-      "solo",
-      "competitive",
-      "premium"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 8,
-      "label": "8h"
-    }
-  },
-  {
     "id": "eda4c7c5-1661-41db-a0e3-f6d3d687430a",
     "name": "Dream Team 8.0",
     "type": "Competition",
@@ -6068,6 +6516,49 @@
       "days": 2,
       "hours": 31,
       "label": "2 days (31h)"
+    }
+  },
+  {
+    "id": "9a8c7f80-e84c-42b5-a9fa-f3feee35fdd6",
+    "name": "DRONE RUSH",
+    "type": "Workshop",
+    "club": "AMERICAN SOCIETY OF MECHANICAL ENGINEERS (ASME)",
+    "start_date": "2026-09-12T13:00:00Z",
+    "end_date": "2026-09-12T19:00:00Z",
+    "venue": "CDMM 213",
+    "team_size": "5",
+    "price": 350,
+    "short_description": "Drone Rush Workshop is a hands-on engineering experience designed to introduce  participants to the fundamentals of drone design, assembly, electronics, and flight control.  Participants will begin by exploring the principles of drone physics, quadrotor kinematics, and  component functionality through an interactive learning session and quiz. Working in teams,  students will assemble a functional quadcopter from scratch by preparing the frame, mounting  motors, soldering electronic components, and integrating an ESP32-based flight control  system. The workshop will also cover software calibration, motor-propeller configuration,  troubleshooting techniques, and flight testing. The event culminates in an exciting flight  challenge where teams demonstrate their drone's stability, hovering capability, and landing  precision. Participants will also gain insights into advanced drone technologies, firmware  development, and future enhancements, making this workshop an engaging blend of  mechanical design, electronics, programming, and practical aerospace engineering.",
+    "scope": "internal_only",
+    "category": "General",
+    "tagline": "Innovation at full Throttle",
+    "is_team": false,
+    "scores": {
+      "robotics": 90,
+      "iot": 50,
+      "ai_ml": 20,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 25,
+      "cybersecurity": 0,
+      "electronics": 75,
+      "cad_design": 30,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 50
+    },
+    "tags": [
+      "single-day",
+      "workshop-style",
+      "hands-on",
+      "beginner-friendly",
+      "team-based",
+      "internal-only"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 6,
+      "label": "1 day (6h)"
     }
   },
   {
@@ -6195,49 +6686,6 @@
     }
   },
   {
-    "id": "71aae966-e230-482f-9eb9-9b891adfc30a",
-    "name": "AgriVate",
-    "type": "Hackathon",
-    "club": "VIT School of Agricultural Innovations and Advanced Learning",
-    "start_date": "2026-09-16T09:00:00Z",
-    "end_date": "2026-09-17T19:00:00Z",
-    "venue": "PRP 621",
-    "team_size": "2-3",
-    "price": 0,
-    "short_description": "AgriVate – Cultivating Tomorrow's Technology is a 36-hour hackathon that brings together innovators to create technology-driven solutions for contemporary agricultural challenges. Covering precision farming, smart automation, and climate-resilient practices, participants will develop impactful prototypes that promote sustainable agriculture and contribute to the future of global food security.",
-    "scope": "internal_only",
-    "category": "Premium",
-    "tagline": "\"Cultivating Tomorrow's Technology🌱\"",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "free",
-      "internal-only",
-      "solo",
-      "hackathon",
-      "multi-day",
-      "premium"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 34,
-      "label": "2 days (34h)"
-    }
-  },
-  {
     "id": "e2c8ae62-2a18-4604-913c-fbf0de725ade",
     "name": "LAUNCHPAD'26",
     "type": "Entrepreneurship / Management event",
@@ -6327,13 +6775,13 @@
     "club": "THE AI & ML CLUB - TAM",
     "start_date": "2026-09-18T08:00:00Z",
     "end_date": "2026-09-19T08:00:00Z",
-    "venue": "Shakespeare Gallery - I",
+    "venue": "Shakespeare Gallery - I, TT311",
     "team_size": "2-4",
     "price": 250,
-    "short_description": "Code Cortex 3.0 is a 36-hour AI/ML hackathon open to all students. Choose from curated tracks spanning finance, medicine, Drone Tech and Aviation and Security each built around a real dataset and problem space. While allowing you to explore your own idea through the Open Innovation track. Build something that works, explain what it does, and show what you learned. No prior experience needed. Just build something you want to see exist.",
+    "short_description": "Code Cortex 3.0 is a 30-hour AI/ML hackathon open to all students. Choose from curated tracks spanning finance, medicine, Drone Tech and Aviation and Security each built around a real dataset and problem space. While allowing you to explore your own idea through the Open Innovation track. Build something that works, explain what it does, and show what you learned. No prior experience needed. Just build something you want to see exist.",
     "scope": "both",
     "category": "Premium",
-    "tagline": "36 Hours. One Idea. Zero Limits.",
+    "tagline": "30 Hours. One Idea. Zero Limits.",
     "is_team": true,
     "scores": {
       "robotics": 41,
@@ -6614,19 +7062,19 @@
     }
   },
   {
-    "id": "6f1889eb-a0d3-49fa-89f0-6b73d1a30fe4",
-    "name": "The Micro-Habitat: The Micro Living Challenge",
-    "type": "Competition",
-    "club": "School of Architecture",
-    "start_date": "2026-09-18T09:00:00Z",
+    "id": "e6dc6d03-57e4-4e14-a935-28c4fcf08371",
+    "name": "AI²: Building AI Systems with AI",
+    "type": "Workshop",
+    "club": "School of Computer Science and Engineering",
+    "start_date": "2026-09-18T10:00:00Z",
     "end_date": "2026-09-18T18:00:00Z",
-    "venue": "MGB 302",
-    "team_size": "2",
-    "price": 0,
-    "short_description": "As urban spaces shrink and sustainability becomes crucial, micro-living has evolved from a trend into a necessity and an attempt towards SDG-11 Sustainable cities and communities. Participants are challenged to design a self-contained, single-occupant Tiny Home / Micro-Studio with a maximum footprint of 40 square meters. Participants can assume a hypothetical site of not more than 80 square meters of any shape.",
-    "scope": "internal_only",
+    "venue": "SJT 217",
+    "team_size": "1",
+    "price": 210,
+    "short_description": "A hands-on workshop on building modern AI systems through a real-world financial research use case inspired by CalQuity.",
+    "scope": "both",
     "category": "Premium",
-    "tagline": "-",
+    "tagline": "Learn the AI stack by building a real-world agent, with AI as your development partner.",
     "is_team": false,
     "scores": {
       "robotics": 0,
@@ -6643,16 +7091,16 @@
       "general_fun": 0
     },
     "tags": [
-      "free",
-      "internal-only",
+      "paid",
+      "open-to-all",
       "solo",
-      "competitive",
+      "workshop",
       "premium"
     ],
     "duration": {
       "days": 1,
-      "hours": 9,
-      "label": "9h"
+      "hours": 8,
+      "label": "8h"
     }
   },
   {
@@ -6820,6 +7268,86 @@
     }
   },
   {
+    "id": "0615fb4d-78b0-4a7c-bc52-ba4cccee2ee7",
+    "name": "Purble Place 2.0",
+    "type": "Others",
+    "club": "CULINARY CLUB",
+    "start_date": "2026-09-18T10:00:00Z",
+    "end_date": "2026-09-18T19:00:00Z",
+    "venue": "MGB113 + MGB114",
+    "team_size": "2-4",
+    "price": 200,
+    "short_description": "Purble Place is a timed, hands-on cake-decorating competition designed to foster artistic expression, resource management, and creative design among participants. Taking inspiration from the classic digital simulation, the event translates conceptual design into a physical medium.",
+    "scope": "both",
+    "category": "General",
+    "tagline": "Turning Simplicity into Sweet Art",
+    "is_team": true,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "team-based"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 9,
+      "label": "9h"
+    }
+  },
+  {
+    "id": "02fe0783-1b61-461c-b306-fc8c118f9609",
+    "name": "Escape Room",
+    "type": "Others",
+    "club": "TREKKING CLUB",
+    "start_date": "2026-09-18T11:00:00Z",
+    "end_date": "2026-09-19T17:00:00Z",
+    "venue": "SJT102",
+    "team_size": "3-5",
+    "price": 200,
+    "short_description": "Escape Room is an immersive, team-based adventure where participants enter specially designed themed rooms inspired by Stranger Things and Harry Potter. Solve thrilling puzzles, decode hidden clues, crack mysteries, and unlock challenges to escape before time runs out. Test your logic, teamwork, communication, and decision-making under pressure in a fun, fast-paced, and competitive experience filled with excitement and adventure.",
+    "scope": "both",
+    "category": "General",
+    "tagline": "Crack the Clues. Conquer the Clock.",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 40,
+      "webdev": 5,
+      "cybersecurity": 0,
+      "electronics": 10,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 90
+    },
+    "tags": [
+      "multi-day",
+      "overnight",
+      "team-based"
+    ],
+    "duration": {
+      "days": 2,
+      "hours": 30,
+      "label": "2 days (30h)"
+    }
+  },
+  {
     "id": "eb25cd9f-ac59-4e72-820c-fb6e064c78de",
     "name": "TruthLens",
     "type": "Competition",
@@ -6902,49 +7430,6 @@
     }
   },
   {
-    "id": "53911736-8397-4ac9-a429-a9b7476112cb",
-    "name": "AGENT-A-THON 2026",
-    "type": "Hackathon",
-    "club": "School of Computer Science and Engineering",
-    "start_date": "2026-09-18T20:00:00Z",
-    "end_date": "2026-09-19T20:00:00Z",
-    "venue": "PRP 117,117a,118,118a",
-    "team_size": "1-4",
-    "price": 200,
-    "short_description": "AGENT-A-THON 2026 is a 24-hour hackathon dedicated to Agentic AI, where students, developers, and innovators collaborate to build autonomous AI solutions addressing real-world problems. Participants will design intelligent agents, develop functional prototypes, and present innovative solutions to expert judges while competing for exciting prizes. The event encourages creativity, teamwork, technical excellence, and industry engagement, fostering the next generation of AI innovators.",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Where Autonomous Intelligence Meets Innovation",
-    "is_team": false,
-    "scores": {
-      "robotics": 15,
-      "iot": 0,
-      "ai_ml": 95,
-      "hackathons": 85,
-      "startups": 0,
-      "webdev": 30,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 8,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 10
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "hackathon-style",
-      "hands-on",
-      "premium",
-      "team-based"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 24,
-      "label": "2 days (24h)"
-    }
-  },
-  {
     "id": "d36998e6-f27e-406f-9f93-f20b3c302762",
     "name": "StarParty",
     "type": "Others",
@@ -6983,45 +7468,6 @@
       "days": 2,
       "hours": 29,
       "label": "2 days (29h)"
-    }
-  },
-  {
-    "id": "7c9f85e5-fd95-4a99-adb5-92e4fdf329a8",
-    "name": "VANTAGE – Visionary Assembly for New Technology, Advocacy, and Global Ethics",
-    "type": "Entrepreneurship and Management",
-    "club": "DEBATE SOCIETY",
-    "start_date": "2026-09-19T09:00:00Z",
-    "end_date": "2026-09-19T18:00:00Z",
-    "venue": "TT 204",
-    "team_size": "Solo",
-    "price": 125,
-    "short_description": "VANTAGE(Visionary Assembly for New Technology, Advocacy, and Global Ethics)  is a one-day flagship event by the Debate Society that brings together technology, policy, and public speaking. It features a keynote by an industry or policy leader, followed by a Turncoat Speaking Competition where participants argue both sides of AI and technology governance motions. Through critical thinking and persuasive speaking, VANTAGE challenges participants to engage with the most pressing technological issues of our time.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Ethos Pathos Logos",
-    "is_team": false,
-    "scores": {
-      "robotics": 20,
-      "iot": 0,
-      "ai_ml": 20,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 20,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 30
-    },
-    "tags": [
-      "single-day",
-      "solo"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 9,
-      "label": "1 day (9h)"
     }
   },
   {
@@ -7148,156 +7594,33 @@
     }
   },
   {
-    "id": "0b4d9380-2aec-40a6-9655-ff136ddae1af",
-    "name": "Ecopreneurs",
-    "type": "Hackathon",
-    "club": "NATIONAL ASSOCIATION OF STUDENTS OF ARCHITECTURE (NASA)",
-    "start_date": "2026-09-19T10:00:00Z",
-    "end_date": "2026-09-20T15:00:00Z",
-    "venue": "MGB 111",
-    "team_size": "Solo",
-    "price": 169,
-    "short_description": "Ecopreneurs is a 2-day Sustainability Product Design Hackathon that brings together students from diverse disciplines to create innovative solutions for environmental and societal challenges. Aligned with SDGs 7, 9, 11, 12, and 13, the event focuses on sustainable product innovation. Day 1 involves ideation, research, and design development, while Day 2 focuses on prototype development and pitching to an expert jury. The hackathon encourages interdisciplinary collaboration, creativity, entrepreneurship, and impact-driven design, providing participants with a platform to transform ideas into practical, sustainable solutions.",
-    "scope": "Internal_only",
-    "category": "General",
-    "tagline": "Where sustainability meets entreuprenership",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "hackathon",
-      "multi-day"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 29,
-      "label": "2 days (29h)"
-    }
-  },
-  {
-    "id": "1828435b-761f-4be3-a092-1cbd32edaacd",
-    "name": "Exploring AI, IoT and Cybersecurity for the Digital Era",
-    "type": "Workshop",
-    "club": "School of Computer Science Engineering and Information Systems",
-    "start_date": "2026-09-19T10:00:00Z",
-    "end_date": "2026-09-19T17:00:00Z",
-    "venue": "SJT 107,108",
-    "team_size": "Solo",
-    "price": 170,
-    "short_description": "Exploring AI, IoT and Cybersecurity for the Digital Era is a hands-on workshop introducing students to three transformative technologies shaping the future. Through live demonstrations, practical examples, and interactive sessions, participants will explore AI, smart IoT systems, cybersecurity, ethical hacking, digital forensics, and AI-driven cyber defense. The workshop also highlights career opportunities, certifications, internships, research, and innovation pathways for building a future-ready technology career.",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Explore. Innovate. Secure. Shape the Digital Future.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "workshop",
-      "premium"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 7,
-      "label": "7h"
-    }
-  },
-  {
-    "id": "1ccb7a9f-d95f-4a99-b0cd-161d64567793",
-    "name": "Soul Scribe",
+    "id": "3adec322-2f9f-44e2-8736-0be594a1b2fd",
+    "name": "Ctrl + Alt + Confuse",
     "type": "Others",
-    "club": "ENGLISH LITERARY ASSOCIATION (ELA)",
-    "start_date": "2026-09-19T10:00:00Z",
+    "club": "CUBING CLUB",
+    "start_date": "2026-09-19T09:00:00Z",
     "end_date": "2026-09-19T13:00:00Z",
-    "venue": "MGR 224",
-    "team_size": "Solo",
+    "venue": "TT 332",
+    "team_size": "1-4",
     "price": 100,
-    "short_description": "This event is designed to evaluate participants’ creativity, narrative development and adaptability in storytelling. The event is divided into 2 rounds.",
+    "short_description": "Ctrl + Alt + Confuse is a fun-filled strategy event where teams tackle dynamic challenges with constantly changing rules, hidden objectives, and unexpected twists. Success depends on adaptability, teamwork, and quick decision-making under pressure.",
     "scope": "both",
     "category": "General",
-    "tagline": "A lore that demands your soul",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 20
-    },
-    "tags": [
-      "single-day",
-      "solo"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 3,
-      "label": "1 day (3h)"
-    }
-  },
-  {
-    "id": "8376bca8-624e-4337-b114-1800b7d6b216",
-    "name": "The Hexagon Protocol",
-    "type": "Others",
-    "club": "THE SOCIETY OF PETROLEUM ENGINEERS (SPE)",
-    "start_date": "2026-09-19T10:00:00Z",
-    "end_date": "2026-09-19T14:00:00Z",
-    "venue": "SMV 123",
-    "team_size": "4-5",
-    "price": 200,
-    "short_description": "Think you've got what it takes to solve the unknown? The Hexagon Protocol invites you to embark on a thrilling adventure where every stage reveals new clues, fresh challenges, and unexpected twists. Work with your team to think critically, make strategic decisions, and adapt to an ever-changing game. Every choice shapes your journey, and every challenge brings you closer to uncovering the mystery. Gather your team, embrace the adventure, and discover if you can crack the protocol.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Decode the Unknown. Conquer the Challenge.",
+    "tagline": "Think Fast. Adapt Faster. Expect Absolute Chaos.",
     "is_team": true,
     "scores": {
       "robotics": 0,
       "iot": 0,
       "ai_ml": 0,
       "hackathons": 0,
-      "startups": 40,
-      "webdev": 5,
+      "startups": 0,
+      "webdev": 10,
       "cybersecurity": 0,
-      "electronics": 0,
+      "electronics": 10,
       "cad_design": 0,
       "gaming": 0,
       "finance": 0,
-      "general_fun": 60
+      "general_fun": 15
     },
     "tags": [
       "single-day",
@@ -7310,44 +7633,45 @@
     }
   },
   {
-    "id": "8b554858-9b66-4037-ad14-82a19e13c84a",
-    "name": "Humanity Through Lens",
+    "id": "40492b89-2f55-4fd8-982b-691a6d4c4e65",
+    "name": "Yellow Tape 5.0",
     "type": "Competition",
-    "club": "NATIONAL SERVICE SCHEME (NSS)",
-    "start_date": "2026-09-19T10:00:00Z",
-    "end_date": "2026-09-19T15:00:00Z",
-    "venue": "TT 335",
-    "team_size": "1-3",
-    "price": 127,
-    "short_description": "Humanity Through Lens is an NSS photography competition that encourages participants to capture powerful moments of kindness, community service, environmental conservation, and social responsibility. Through compelling photographs and meaningful captions, participants showcase real-life stories that inspire positive change. The event aims to promote empathy, creativity, and social awareness while highlighting the impact of small actions in building a better society.",
-    "scope": "both",
+    "club": "SOCIETY FOR BIOLOGICAL ENGINEERING (SBE)",
+    "start_date": "2026-09-19T09:00:00Z",
+    "end_date": "2026-09-19T18:00:00Z",
+    "venue": "PRP 304 + 306",
+    "team_size": "3-5",
+    "price": 200,
+    "short_description": "A crime has been committed, and the truth lies hidden within the evidence. Step into the shoes of a forensic investigator, analyze the clues, reconstruct the sequence of events, and identify the culprit before time runs out. Every detail matters, and every decision brings you closer to solving the case.",
+    "scope": "internal_only",
     "category": "General",
-    "tagline": "Every Picture Tells a Story of Change",
-    "is_team": false,
+    "tagline": "Everyone's a suspect. No one's safe.",
+    "is_team": true,
     "scores": {
-      "robotics": 8,
-      "iot": 20,
+      "robotics": 0,
+      "iot": 0,
       "ai_ml": 20,
       "hackathons": 0,
       "startups": 0,
-      "webdev": 10,
-      "cybersecurity": 0,
+      "webdev": 0,
+      "cybersecurity": 20,
       "electronics": 0,
       "cad_design": 0,
-      "gaming": 25,
-      "finance": 0,
+      "gaming": 0,
+      "finance": 15,
       "general_fun": 50
     },
     "tags": [
       "single-day",
       "competitive",
       "hands-on",
-      "team-based"
+      "team-based",
+      "internal-only"
     ],
     "duration": {
       "days": 1,
-      "hours": 5,
-      "label": "1 day (5h)"
+      "hours": 11,
+      "label": "1 day (11h)"
     }
   },
   {
@@ -7430,129 +7754,6 @@
     }
   },
   {
-    "id": "084f4d0b-7cbb-47e7-8d72-62011ecb2d82",
-    "name": "Smart Cobots: AI in Modern Industrial Automation",
-    "type": "Workshop",
-    "club": "School of Electronics Engineering",
-    "start_date": "2026-09-19T10:30:00Z",
-    "end_date": "2026-09-19T17:00:00Z",
-    "venue": "TT 630",
-    "team_size": "Solo",
-    "price": 300,
-    "short_description": "This one-day technical workshop introduces participants to AI driven Collaborative Robots (Cobots) and their applications in Industry 4.0. Through expert sessions and live demonstrations, attendees will explore how Artificial Intelligence, IoT, and cloud technologies are transforming industrial automation. The workshop equips students with practical insights into intelligent manufacturing, human robot collaboration, and future career opportunities in smart industries.",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Empowering the Future of Manufacturing with AI-Driven Collaborative Robotics.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "workshop",
-      "premium"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 7,
-      "label": "7h"
-    }
-  },
-  {
-    "id": "882a4ff6-c77f-43e6-8e0b-4be8ffc51d7a",
-    "name": "OPERATION BELLA CIAO: THE MATHEMATICAL HEIST",
-    "type": "Competition",
-    "club": "MATHVERSE CLUB",
-    "start_date": "2026-09-19T14:00:00Z",
-    "end_date": "2026-09-19T18:00:00Z",
-    "venue": "TT 331",
-    "team_size": "4-5",
-    "price": 120,
-    "short_description": "The legendary mastermind The Professor has planned the biggest heist in history. A secret mathematical key containing billions in digital assets is locked inside the Royal Mathematical Mint. Teams become members of the heist crew — Tokyo, Berlin, Nairobi, Denver, Rio, Helsinki, and Lisbon — and must break through five high-security mathematical barriers before the authorities trace their location. Mission Structure 🏦 Phase 1 – Professor’s Cipher 🎭 Phase 2 – Inspector’s Interrogation 💰 Phase 3 – Berlin’s Vault Lock 🎲 Phase 4 – Tokyo’s Risk Matrix 🌐 Phase 5 – Rio’s Network Breach 🔓 Final Heist – The Mint Vault Each completed phase reveals a piece of The Professor’s Master Code. Teams must combine all collected fragments to unlock the Royal Mint’s final vault and secure the stolen treasure before the countdown reaches zero.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "OPERATION BELLA CIAO: THE MATHEMATICAL HEIST",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 40,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 25,
-      "cybersecurity": 10,
-      "electronics": 10,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 50
-    },
-    "tags": [
-      "single-day",
-      "competitive",
-      "team-based"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 4,
-      "label": "1 day (4h)"
-    }
-  },
-  {
-    "id": "4359da2e-b3d2-4e7e-a1e3-d679328a5341",
-    "name": "Modelling Minds 2.0",
-    "type": "Hackathon",
-    "club": "VIT MATHEMATICAL ASSOCIATION (VITMAS)",
-    "start_date": "2026-09-19T16:00:00Z",
-    "end_date": "2026-09-20T08:00:00Z",
-    "venue": "Homi Baba Gallery, SJT 107 + 108",
-    "team_size": "1-4",
-    "price": 200,
-    "short_description": "Modelling Minds 2.0 goes beyond theoretical knowledge by encouraging participants to develop practical, scalable, and innovative AI solutions under time constraints. Whether you're exploring Machine Learning for the first time or building advanced AI agents, this event provides an exciting platform to learn, compete, and showcase your problem-solving abilities.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "From Data to Decisions, From Agents to Action.",
-    "is_team": false,
-    "scores": {
-      "robotics": 8,
-      "iot": 0,
-      "ai_ml": 80,
-      "hackathons": 60,
-      "startups": 0,
-      "webdev": 10,
-      "cybersecurity": 0,
-      "electronics": 10,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 10
-    },
-    "tags": [
-      "multi-day",
-      "hackathon-style",
-      "hands-on",
-      "team-based"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 16,
-      "label": "2 days (16h)"
-    }
-  },
-  {
     "id": "dc056333-e09f-4af4-9b48-9943ea6b5c0c",
     "name": "Design Dev",
     "type": "Hackathon",
@@ -7591,45 +7792,6 @@
       "days": 2,
       "hours": 6,
       "label": "2 days (6h)"
-    }
-  },
-  {
-    "id": "3b6d2b09-7723-4622-9774-cc461523bf8f",
-    "name": "Access Denied",
-    "type": "Others",
-    "club": "STUDENTS ASSOCIATION OF BIO-ENGINEERING SCIENCE AND TECHNOLOGY (SABEST)",
-    "start_date": "2026-09-20T08:00:00Z",
-    "end_date": "2026-09-20T19:00:00Z",
-    "venue": "SMV 102",
-    "team_size": "3-4",
-    "price": 150,
-    "short_description": "Access denied is an immersive biotechnology escape room event that combines puzzles, quizzes, riddles,  and analytical problems, drawing from diverse disciplines within biotechnology. It  encourages participants to view familiar concepts from entirely new perspectives, requiring  logic, creativity, and critical thinking. However, there’s a catch, every challenge solved  unlocks the next, turning the experience into a high-stakes escape room where only those  who keep up can progress.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Crack the Code, Unlock the Truth",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 70,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 25,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 50
-    },
-    "tags": [
-      "single-day",
-      "team-based"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 11,
-      "label": "1 day (11h)"
     }
   },
   {
@@ -7714,128 +7876,6 @@
       "days": 1,
       "hours": 12,
       "label": "1 day (12h)"
-    }
-  },
-  {
-    "id": "0629102b-cc5f-4992-8921-2e55df1cb2f8",
-    "name": "CookOff 11",
-    "type": "Competition",
-    "club": "CODECHEF - VIT",
-    "start_date": "2026-09-20T09:00:00Z",
-    "end_date": "2026-09-20T16:00:00Z",
-    "venue": "Anna Auditorium,Bhagat Singh Gallery",
-    "team_size": "Solo",
-    "price": 150,
-    "short_description": "GraVITas' longest-running competitive coding event is back for its 11th edition! With its all-new format, CookOff 11 is set to push veterans and rising stars alike to achieve algorithmic feats they thought impossible. CookOff 11 is a high-stakes arena of logic, speed, and structural elegance. We invite you to be a part of its legacy.",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Learn. Code. Simplify.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 5,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 10
-    },
-    "tags": [
-      "single-day",
-      "competitive",
-      "premium",
-      "solo"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 8,
-      "label": "1 day (8h)"
-    }
-  },
-  {
-    "id": "0b35e5a3-90f2-49ad-8cb7-89f44435b0de",
-    "name": "Raaz-e-Qatl",
-    "type": "Competition",
-    "club": "CUBING CLUB",
-    "start_date": "2026-09-20T09:00:00Z",
-    "end_date": "2026-09-20T13:00:00Z",
-    "venue": "MGB 307",
-    "team_size": "1-4",
-    "price": 150,
-    "short_description": "Raaz-e-Qatl is an immersive murder mystery where teams become detectives, analyze clues, uncover hidden connections, and race against time to identify the culprit. With twists, red herrings, and shocking revelations at every turn, only the sharpest minds will unravel the truth.",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "Yeh hai gumraahon ka rasta, Muskaanein jhooti hai",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "internal-only",
-      "team-based",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 4,
-      "label": "4h"
-    }
-  },
-  {
-    "id": "0c277ace-df04-4e1c-a785-8bd8d840f539",
-    "name": "The Lost Manuscript",
-    "type": "Others",
-    "club": "THE NEXT CHAPTER - BOOK CLUB",
-    "start_date": "2026-09-20T09:00:00Z",
-    "end_date": "2026-09-20T16:00:00Z",
-    "venue": "CDMM 303 + 304",
-    "team_size": "3-4",
-    "price": 200,
-    "short_description": "Days before the release of his final manuscript, a celebrated horror novelist vanishes without a trace. In his study lies an unfinished novel about an author haunted by the certainty that someone is plotting his murder. As teams unlock chapters through cryptic puzzles and hidden clues, the fiction begins to echo reality with unsettling precision. Was the manuscript merely a story or a desperate warning left behind before the author disappeared?",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "Follow the trail. Finish the tale. Face the truth.",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 20,
-      "ai_ml": 40,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 70
-    },
-    "tags": [
-      "single-day",
-      "team-based",
-      "internal-only"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 7,
-      "label": "1 day (7h)"
     }
   },
   {
@@ -7968,7 +8008,7 @@
     "club": "VIT Business School",
     "start_date": "2026-09-20T09:00:00Z",
     "end_date": "2026-09-20T18:00:00Z",
-    "venue": "PRP 462",
+    "venue": "PRP 669",
     "team_size": "2-3",
     "price": 100,
     "short_description": "Short Description In Knot and Strand, efficiency is an illusion and every choice leaves a mark. Teams step into a controlled trial of resource allocation and calculated risk, where blind bids, hidden hazards, and blueprint assembly dictate who advances. With no element of chance, your carried-over decisions will either build your passage or seal your fate. Long Description Nothing in Knot and Strand happens by accident. Designed as a multi-stage arena of pure strategy, participants enter a unified space to test their capacity for foresight, resource management, and composure under pressure. With zero reliance on luck, your team’s survival across three escalating phases depends entirely on what you spend, what you risk, and what you leave behind.  * Round 1: First Light – The trial begins in silence. Teams are handed cryptic blueprints and kits polluted with deceptive decoys. You must filter the noise and assemble the core structure to claim initial advantages for the journey ahead because early mistakes will follow you.  * Round 2: Chiral Network – The map opens, but the path is shrouded. Teams place sealed bids to secure scarce delivery contracts before the terrain turns against them. Once routes are locked, hidden hazard zones reveal themselves forcing teams to surrender resources or decipher silent puzzles to keep moving.  * Round 3: One Last Mile – Only those who managed their assets wisely reach the final stretch. No fresh supplies are granted; you must survive on what you have preserved. With all hazards exposed and a single high-value objective on the line, a live auction forces a final, transparent gamble to determine who emerges victorious.",
@@ -8460,7 +8500,7 @@
     "start_date": "2026-09-20T16:00:00Z",
     "end_date": "2026-09-20T20:00:00Z",
     "venue": "Foodys(Inside half)",
-    "team_size": "8-10",
+    "team_size": "1",
     "price": 0,
     "short_description": "MIRAI: The Humanoid Experience is a flagship event at Gravitas 2026, VIT Vellore, bringing a first-of-its-kind humanoid tics experience to the campus. For the very first time, attendees will witness live humanoid ts, AI-driven demonstrations, interactive exhibits, and emerging technologies in one immersive event. Designed to inspire innovation and curiosity, MIRAI offers a unique opportunity to explore the future of tics, artificial intelligence, and automation while engaging with one of South India's most exciting technology showcases.",
     "scope": "both",
