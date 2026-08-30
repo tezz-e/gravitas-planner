@@ -1815,7 +1815,7 @@
     "club": "STUDENTS ASSOCIATION OF BIO-ENGINEERING SCIENCE AND TECHNOLOGY (SABEST)",
     "start_date": "2026-09-13T08:00:00Z",
     "end_date": "2026-09-13T19:00:00Z",
-    "venue": "SMV 102",
+    "venue": "CDMM 304",
     "team_size": "3-5",
     "price": 200,
     "short_description": "Keystone Protocol is an ideathon centered on the theme of resurrection biology. Participants will tackle the challenge of restoring a collapsing ecosystem by developing innovative solutions. Using concepts such as genetic engineering and ancestral trait tracing of organisms within the ecosystem, teams must adapt their strategies to an environment that evolves with every stage. Success will depend on the adaptability, feasibility, and effectiveness of the proposed solutions in rebuilding a stable and sustainable ecosystem.",
@@ -2065,7 +2065,7 @@
     "venue": "Kamraj Auditorium",
     "team_size": "1-4",
     "price": 170,
-    "short_description": "Hackulus is a 24-hour high-intensity hackathon organized by SIAM-VIT, bringing together 100+ student innovators to build impactful, real-world solutions. Participants compete across five tracks: AI & Mathematical Modelling, Fintech, Healthcare, VIT Centric, and Open Innovation. Through ideation pitches, technical evaluations, continuous development, and a final grand judging round, Hackulus challenges teams to transform creative ideas into functional prototypes while demonstrating technical expertise, collaboration, originality, and practical impact.",
+    "short_description": "Hackulus is a 24-hour high-intensity hackathon organized by SIAM-VIT x IoThinC, bringing together 100+ student innovators to build impactful, real-world solutions. Participants compete across five tracks: IOT, Creative Tech, FinTech, Cybersecurity, VIT Centric, Environments Sustainability. Through ideation pitches, technical evaluations, continuous development, and a final grand judging round, Hackulus challenges teams to transform creative ideas into functional prototypes while demonstrating technical expertise, collaboration, originality, and practical impact.",
     "scope": "Both",
     "category": "General",
     "tagline": "Hackulus, your 24 hours to build, break, and revolutionize",
@@ -2597,7 +2597,7 @@
     "id": "d440eb17-cc8b-4651-943a-1d449a2efeee",
     "name": "Redefine",
     "type": "Hackathon",
-    "club": "IEEE COMPUTER SOCIETY",
+    "club": "IEEE-CS",
     "start_date": "2026-09-16T08:00:00Z",
     "end_date": "2026-09-17T08:00:00Z",
     "venue": "Sarojini Naidi Gallery",
@@ -3559,6 +3559,47 @@
     }
   },
   {
+    "id": "11d14c6f-548e-42a2-8b03-ea556c06ad8b",
+    "name": "Operation signal chase",
+    "type": "Competition",
+    "club": "VIT AMATEUR RADIO CLUB (VARC)",
+    "start_date": "2026-09-18T09:00:00Z",
+    "end_date": "2026-09-18T17:00:00Z",
+    "venue": "TT 619",
+    "team_size": "3-5",
+    "price": 150,
+    "short_description": "Operation Signal Chase is a Morse-code-based treasure hunt where participants decode hidden messages, solve clues, navigate through designated locations, and complete challenges along the way. Each clue leads to the next stage, with the ultimate goal of locating the hidden ham radio. The event combines amateur radio, Morse communication, logical thinking, teamwork, and exploration in an exciting signal-based adventure.",
+    "scope": "Internal_only",
+    "category": "General",
+    "tagline": "Decode the Signal. Chase the Clue. Find the Radio.",
+    "is_team": true,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "team-based",
+      "competitive"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 8,
+      "label": "8h"
+    }
+  },
+  {
     "id": "152fa645-fe5b-4a1e-aed1-986769227b78",
     "name": "RoboInvest",
     "type": "Hackathon",
@@ -4268,7 +4309,7 @@
     "club": "TOASTMASTERS INTERNATIONAL",
     "start_date": "2026-09-18T09:00:00Z",
     "end_date": "2026-09-18T18:00:00Z",
-    "venue": "TT 332 + 333, TT 312",
+    "venue": "TT 332 + 333",
     "team_size": "Solo",
     "price": 84,
     "short_description": "Crisis Inc 3.0 is an immersive corporate crisis simulation that challenges participants to tackle real-world organizational problems through problem-solving, analytical thinking, teamwork, quick thinking, and presentation skills.\nParticipants take on key corporate roles across HR, PR, R&D, and Finance, working individually and as a team to analyse crisis situations, develop solutions, defend their decisions, and respond to unexpected changes.",
@@ -4593,6 +4634,48 @@
       "days": 1,
       "hours": 8,
       "label": "1 day (8h)"
+    }
+  },
+  {
+    "id": "6f1889eb-a0d3-49fa-89f0-6b73d1a30fe4",
+    "name": "The Micro-Habitat: The Micro Living Challenge",
+    "type": "Competition",
+    "club": "School of Architecture",
+    "start_date": "2026-09-18T09:00:00Z",
+    "end_date": "2026-09-18T18:00:00Z",
+    "venue": "MGB 302",
+    "team_size": "2",
+    "price": 0,
+    "short_description": "As urban spaces shrink and sustainability becomes crucial, micro-living has evolved from a trend into a necessity and an attempt towards SDG-11 Sustainable cities and communities. Participants are challenged to design a self-contained, single-occupant Tiny Home / Micro-Studio with a maximum footprint of 40 square meters. Participants can assume a hypothetical site of not more than 80 square meters of any shape.",
+    "scope": "internal_only",
+    "category": "Premium",
+    "tagline": "-",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "free",
+      "internal-only",
+      "solo",
+      "competitive",
+      "premium"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 9,
+      "label": "9h"
     }
   },
   {
@@ -5425,45 +5508,6 @@
       "days": 1,
       "hours": 8,
       "label": "8h"
-    }
-  },
-  {
-    "id": "eb4a3115-55cb-4551-8f23-873e422c7625",
-    "name": "Becoming I Ideathon",
-    "type": "Others",
-    "club": "BECOMING I FOUNDATION",
-    "start_date": "2026-09-18T10:00:00Z",
-    "end_date": "2026-09-18T16:00:00Z",
-    "venue": "TT 621",
-    "team_size": "3-4",
-    "price": 200,
-    "short_description": "The Becoming I Foundation presents the BECOMING I iDEATHON, a thrilling 6-hour Gravitas innovation sprint. Choose from five real-world topics and race against the clock to design a comprehensive socio-economic scheme that bridges profound social impact with strict economic viability. This high-energy event challenges you to think like a social entrepreneur and architect self-sustaining solutions for a better tomorrow. Pitch your blueprint and win exciting prizes, all on the exact same day!",
-    "scope": "both",
-    "category": "General",
-    "tagline": "6 Hours. 1 Idea. Infinite Impact",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 40,
-      "hackathons": 40,
-      "startups": 80,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 20,
-      "general_fun": 0
-    },
-    "tags": [
-      "single-day",
-      "team-based"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 6,
-      "label": "1 day (6h)"
     }
   },
   {
@@ -7684,6 +7728,47 @@
     }
   },
   {
+    "id": "5103c9a1-72dd-43a2-a11e-fc9a5cd9026a",
+    "name": "MOJO UNCHAINED: Take Two",
+    "type": "Hackathon",
+    "club": "VIT FILM SOCIETY (VFS)",
+    "start_date": "2026-09-19T14:00:00Z",
+    "end_date": "2026-09-19T19:00:00Z",
+    "venue": "Rajaji Hall",
+    "team_size": "1-8",
+    "price": 150,
+    "short_description": "Ever watched a movie scene and thought, “I wonder if I could make that”? Now’s your chance. Pick a scene you love and bring it to life with your team — recreate it shot-for-shot, or flip it with your own twists, style, and creativity. Learn the basics of filmmaking by actually making something, compete for cash prizes, and get your work judged by filmmakers. Not behind the camera? Come watch, experience the creations, and see what you could make yourself.",
+    "scope": "Both",
+    "category": "General",
+    "tagline": "Recreate the scene. Rewrite the rules. Make it yours.",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "solo",
+      "hackathon"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 5,
+      "label": "5h"
+    }
+  },
+  {
     "id": "882a4ff6-c77f-43e6-8e0b-4be8ffc51d7a",
     "name": "OPERATION BELLA CIAO: THE MATHEMATICAL HEIST",
     "type": "Competition",
@@ -8012,6 +8097,46 @@
     }
   },
   {
+    "id": "a55dd80f-87bd-4239-83aa-4e73269d7ce5",
+    "name": "INFRANOVA - IDEATHON",
+    "type": "others",
+    "club": "INTERNATIONAL ASSOCIATION OF AUTOMATION AND ROBOTICS IN CONSTRUCTION (IAARC)",
+    "start_date": "2026-09-20T08:00:00Z",
+    "end_date": "2026-09-20T13:00:00Z",
+    "venue": "Bhagat Singh Gallery",
+    "team_size": "2-4",
+    "price": 180,
+    "short_description": "INFRANOVA is an ideathon focused on developing innovative and practical solutions for proactive infrastructure maintenance. Participants will identify ways to address real-world civil infrastructure challenges using interdisciplinary approaches such as AI, IoT, GIS, robotics, data analytics, automation, and sustainable engineering. Teams will progress from idea submission to prototype development and finally present their solution before a panel of experts.",
+    "scope": "Both",
+    "category": "General",
+    "tagline": "Your Idea. Your Innovation. Your Impact.",
+    "is_team": true,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "team-based"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 5,
+      "label": "5h"
+    }
+  },
+  {
     "id": "e6fe3e95-8be8-4041-b026-4a7ef7c62728",
     "name": "Bioblunder 2.0",
     "type": "Hackathon",
@@ -8305,7 +8430,7 @@
     "club": "LEO CLUB x YOGA  CLUB",
     "start_date": "2026-09-20T09:00:00Z",
     "end_date": "2026-09-20T16:00:00Z",
-    "venue": "PRP 111",
+    "venue": "PRP Balcony 2nd floor",
     "team_size": "Solo",
     "price": 169,
     "short_description": "Design a mirror that's as unique as you! Decorate your own mini mirror using charms, beads, clay creations, pearls, and more to match your personal aesthetic. Whether it's cute, classy, quirky, or completely you, take home a one-of-a-kind keepsake that reflects your creativity. No experience needed just bring your imagination and let the magic begin.",
@@ -8583,47 +8708,6 @@
       "days": 1,
       "hours": 10,
       "label": "1 day (10h)"
-    }
-  },
-  {
-    "id": "f67e9026-59e3-4562-99b6-6918bc9abf82",
-    "name": "ISHRAE POWERHOUSE – The Ultimate Multi-Domain Challenge",
-    "type": "Competition",
-    "club": "THE INDIAN SOCIETY OF HEATING, REFRIGERATING AND AIR CONDITIONING ENGINEERS (ISHRAE)",
-    "start_date": "2026-09-20T10:00:00Z",
-    "end_date": "2026-09-20T20:00:00Z",
-    "venue": "SMV 122",
-    "team_size": "3-5",
-    "price": 150,
-    "short_description": "ISHRAE Powerhouse is a flagship event designed to bring together students from all branches and years through a combination of fun, creativity, problem-solving, teamwork, and engineering spirit. The event aims to maximize participation while subtly incorporating themes of energy efficiency, sustainability, cooling, and innovation, aligning with the vision of ISHRAE.",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "Innovate, Collaborate, Dominate",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "internal-only",
-      "solo",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 10,
-      "label": "10h"
     }
   },
   {
