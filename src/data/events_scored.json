@@ -3892,7 +3892,7 @@
   },
   {
     "id": "5edd20e8-e9cd-4984-8eb7-126809ec43e4",
-    "name": "Battle In Borderland 2.0",
+    "name": "260.0",
     "type": "Others",
     "club": "VIT SPARTANS",
     "start_date": "2026-09-18T09:00:00Z",
@@ -6710,48 +6710,6 @@
     }
   },
   {
-    "id": "5ee151dd-9b47-4fb2-a46a-4571aa1f92cf",
-    "name": "Case X",
-    "type": "Competition",
-    "club": "VIT Business School",
-    "start_date": "2026-09-19T09:00:00Z",
-    "end_date": "2026-09-19T18:00:00Z",
-    "venue": "PRP 462",
-    "team_size": "3-3",
-    "price": 100,
-    "short_description": "CASE X is a three-round business case competition that tests problem-solving, strategic thinking, creativity, and decision-making. Teams of 3 members progress through an interactive business challenge, strategic case analysis, and a final presentation with an unexpected crisis twist. Participants must identify business problems, develop innovative and feasible solutions, and defend their decisions under pressure.",
-    "scope": "internal_only",
-    "category": "Premium",
-    "tagline": "Decode the case, win the race, and secure your place!",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "internal-only",
-      "solo",
-      "competitive",
-      "premium"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 9,
-      "label": "9h"
-    }
-  },
-  {
     "id": "64f7e3a9-457d-46f2-af7f-ce6996de08b7",
     "name": "Glowchella",
     "type": "Competition",
@@ -8067,7 +8025,7 @@
     "venue": "SMV 102",
     "team_size": "3-4",
     "price": 150,
-    "short_description": "Access denied is an immersive biotechnology escape room event that combines puzzles, quizzes, riddles,  and analytical problems, drawing from diverse disciplines within biotechnology. It  encourages participants to view familiar concepts from entirely new perspectives, requiring  logic, creativity, and critical thinking. However, there’s a catch, every challenge solved  unlocks the next, turning the experience into a high-stakes escape room where only those  who keep up can progress.",
+    "short_description": "Access denied is an one and half hour immersive biotechnology escape room event that combines puzzles, quizzes, riddles, and analytical problems, drawing from diverse disciplines within biotechnology. It encourages participants to view familiar concepts from entirely new perspectives, requiring logic, creativity, and critical thinking. However, there’s a catch, every challenge solved unlocks the next, turning the experience into a high-stakes escape room where only those who keep up can progress.",
     "scope": "both",
     "category": "General",
     "tagline": "Crack the Code, Unlock the Truth",
