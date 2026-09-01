@@ -1,49 +1,5 @@
 [
   {
-    "id": "01fe0783-1b61-461c-b306-fc8c118f9607",
-    "name": "DevJams'26",
-    "type": "Hackathon",
-    "club": "GOOGLE DEVELOPERS STUDENT CLUB (GDSC)",
-    "start_date": "2026-08-29T08:00:00Z",
-    "end_date": "2026-08-31T13:00:00Z",
-    "venue": "Anna Auditorium, Shakespeare Gallery",
-    "team_size": "2-4",
-    "price": 0,
-    "short_description": "DevJams'26 is GDG's flagship beginner-friendly 48-hour hackathon that brings together student developers, designers, and innovators to transform ideas into impactful solutions. Participants work in teams, receive mentorship from industry professionals, take part in fun ice-breaker activities, and showcase their projects before an expert judging panel while competing for exciting prizes.",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Wham Bam Let’s DevJam!",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "free",
-      "open-to-all",
-      "team-based",
-      "hackathon",
-      "multi-day",
-      "overnight",
-      "premium"
-    ],
-    "duration": {
-      "days": 3,
-      "hours": 53,
-      "label": "3 days (53h)"
-    }
-  },
-  {
     "id": "7d5cee1c-0782-4893-a891-6eefcbde3622",
     "name": "Step Up Stars",
     "type": "Workshop",
@@ -222,7 +178,7 @@
     "club": "IEEE WOMEN IN ENGINEERING (IEEE-WIE)",
     "start_date": "2026-09-05T08:00:00Z",
     "end_date": "2026-09-06T20:00:00Z",
-    "venue": "VOC Gallery II",
+    "venue": "Era Seiyan Auditorium, VOC Gallery - II",
     "team_size": "3-5",
     "price": 150,
     "short_description": "WE Hack 5.0 is a 36-hour hackathon where engineers from every branch come together to build real solutions to real problems. Not just software. Not just CS. Mechanical, civil, biomedical, electrical, electronics, AI and more, all in one room, building together. 200+ participants. 4 cross-domain themes. One shot to build something that actually matters. You get 36 hours of non-stop building, 24/7 mentor access to keep you unblocked, and a seat at an exclusive networking dinner with industry professionals. The teams that show up ready to build walk away with more than a prize. Spots are limited. Build with us.",
@@ -351,7 +307,7 @@
     "club": "ASTRONOMY CLUB- VIT STELLAR",
     "start_date": "2026-09-05T09:00:00Z",
     "end_date": "2026-09-06T17:00:00Z",
-    "venue": "Sarojini Naidu Gallery, Era Sezhiyan Auditorium",
+    "venue": "CDMM 304, Rajaji Hall",
     "team_size": "4-5",
     "price": 1250,
     "short_description": "Ever wondered what it feels like to be part of a Mars mission? ROVARIS lets you step into the world of space technology through an exciting blend of learning, strategy, and hands-on rover building. Day 1 kicks off with an expert-led rover workshop followed by software-based mission challenges where strategy and teamwork are key. Day 2 brings the experience to life as participants build and operate their own rover on a Mars-inspired terrain, with each team getting to keep the rover they assemble. Learn, compete, build, and explore—all in one unforgettable experience. No prior knowledge required—just bring your curiosity and your team!",
@@ -1692,7 +1648,7 @@
     "start_date": "2026-09-12T14:00:00Z",
     "end_date": "2026-09-13T14:00:00Z",
     "venue": "Sarojini Naidu Gallery",
-    "team_size": "3-4",
+    "team_size": "1-4",
     "price": 179,
     "short_description": "HackQuest is not your ordinary hackathon—it’s a 24-hour mystery-box challenge where your problem statement is revealed only at the start. Build from scratch, tackle real-world twists, and earn points through AWS quizzes, puzzles, debugging challenges, and treasure hunts. Redeem your points for hints, mentor support, technical reviews, and strategic advantages. Test your coding, creativity, teamwork, adaptability, and cloud skills as requirements evolve. Think fast. Build smart. Adapt faster. Are you ready to crack the box?",
     "scope": "Both",
@@ -3892,7 +3848,7 @@
   },
   {
     "id": "5edd20e8-e9cd-4984-8eb7-126809ec43e4",
-    "name": "260.0",
+    "name": "Battle in Borderland 2.0",
     "type": "Others",
     "club": "VIT SPARTANS",
     "start_date": "2026-09-18T09:00:00Z",
@@ -4012,6 +3968,48 @@
       "days": 1,
       "hours": 11,
       "label": "1 day (11h)"
+    }
+  },
+  {
+    "id": "6f1889eb-a0d3-49fa-89f0-6b73d1a30fe4",
+    "name": "The Micro-Habitat: The Micro Living Challenge",
+    "type": "Competition",
+    "club": "School of Architecture",
+    "start_date": "2026-09-18T09:00:00Z",
+    "end_date": "2026-09-18T18:00:00Z",
+    "venue": "MGB 302",
+    "team_size": "2",
+    "price": 0,
+    "short_description": "As urban spaces shrink and sustainability becomes crucial, micro-living has evolved from a trend into a necessity and an attempt towards SDG-11 Sustainable cities and communities. Participants are challenged to design a self-contained, single-occupant Tiny Home / Micro-Studio with a maximum footprint of 40 square meters. Participants can assume a hypothetical site of not more than 80 square meters of any shape.",
+    "scope": "internal_only",
+    "category": "Premium",
+    "tagline": "-",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "free",
+      "internal-only",
+      "solo",
+      "competitive",
+      "premium"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 9,
+      "label": "9h"
     }
   },
   {
@@ -4634,48 +4632,6 @@
       "days": 1,
       "hours": 8,
       "label": "1 day (8h)"
-    }
-  },
-  {
-    "id": "6f1889eb-a0d3-49fa-89f0-6b73d1a30fe4",
-    "name": "The Micro-Habitat: The Micro Living Challenge",
-    "type": "Competition",
-    "club": "School of Architecture",
-    "start_date": "2026-09-18T09:00:00Z",
-    "end_date": "2026-09-18T18:00:00Z",
-    "venue": "MGB 302",
-    "team_size": "2",
-    "price": 0,
-    "short_description": "As urban spaces shrink and sustainability becomes crucial, micro-living has evolved from a trend into a necessity and an attempt towards SDG-11 Sustainable cities and communities. Participants are challenged to design a self-contained, single-occupant Tiny Home / Micro-Studio with a maximum footprint of 40 square meters. Participants can assume a hypothetical site of not more than 80 square meters of any shape.",
-    "scope": "internal_only",
-    "category": "Premium",
-    "tagline": "-",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "free",
-      "internal-only",
-      "solo",
-      "competitive",
-      "premium"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 9,
-      "label": "9h"
     }
   },
   {
@@ -5932,7 +5888,7 @@
     "start_date": "2026-09-18T14:00:00Z",
     "end_date": "2026-09-18T18:00:00Z",
     "venue": "TT 314",
-    "team_size": "5",
+    "team_size": "1-5",
     "price": 100,
     "short_description": "Ad-venture Unscripted Branding is a high-energy, non-technical marketing competition held during graVITas 2026 by the School of Social Sciences and Languages. Designed to test spontaneous thinking, brand intelligence, and creative content creation, participants battle through a fast-paced brand trivia round before taking on a surprise product challenge. Teams will have to pitch their mystery product live on stage or create a viral-style video reel from scratch. It is the ultimate playground to unleash your marketing IQ, sharp wit, and storytelling skills.",
     "scope": "internal_only",
