@@ -1,48 +1,5 @@
 [
   {
-    "id": "7d5cee1c-0782-4893-a891-6eefcbde3622",
-    "name": "Step Up Stars",
-    "type": "Workshop",
-    "club": "DANCE CLUB",
-    "start_date": "2026-09-01T10:00:00Z",
-    "end_date": "2026-09-02T17:00:00Z",
-    "venue": "Foodys (Inside Half)",
-    "team_size": "Solo",
-    "price": 100,
-    "short_description": "Step Up Stars is an exciting celebration of dance, creativity, and confidence, where school children come together to experience the joy of movement in a fun and welcoming environment. Filled with energetic dance sessions, engaging activities, and memorable experiences, the event encourages every child to dream big, express themselves fearlessly, and discover the star within.",
-    "scope": "external_only",
-    "category": "Premium",
-    "tagline": "where every step makes u shine",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "external-only",
-      "solo",
-      "workshop",
-      "multi-day",
-      "premium"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 31,
-      "label": "2 days (31h)"
-    }
-  },
-  {
     "id": "a5ccd154-b8bd-4ff3-be65-1c6d7cdb71f6",
     "name": "Cicada 2067",
     "type": "Competition",
@@ -512,6 +469,46 @@
     }
   },
   {
+    "id": "547bae1e-8aa9-408e-8d3d-fc8a0f933cfb",
+    "name": "IGNITE 1.0",
+    "type": "Entrepreneurship / Management event",
+    "club": "ENTREPRENEURSHIP CELL (E-CELL)",
+    "start_date": "2026-09-05T14:00:00Z",
+    "end_date": "2026-09-05T18:00:00Z",
+    "venue": "PRP Auditorium-2",
+    "team_size": "Solo",
+    "price": 0,
+    "short_description": "An interactive session where industry leaders and founders share practical lessons on innovation, leadership, and entrepreneurship. Discover what it takes to transform ideas into impactful businesses through real-world experiences and expert insights.",
+    "scope": "internal_only",
+    "category": "General",
+    "tagline": "Inspiring the Next Founders.",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "free",
+      "internal-only",
+      "solo"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 4,
+      "label": "4h"
+    }
+  },
+  {
     "id": "c35a1b63-2d37-4650-a8eb-1003a3328b02",
     "name": "RUN BEYOND LIMIT",
     "type": "Workshop",
@@ -642,7 +639,7 @@
     "start_date": "2026-09-06T09:00:00Z",
     "end_date": "2026-09-06T19:00:00Z",
     "venue": "Kamraj Auditorium",
-    "team_size": "3-4",
+    "team_size": "1-5",
     "price": 200,
     "short_description": "Regenesis is a dystopian-themed ideathon that challenges participants to tackle complex global crises in a post-apocalyptic world. Working in teams, participants will analyze scenario-based problem statements and develop innovative, scientifically grounded, and sustainable solutions to rebuild civilization. Success will depend on creativity, critical thinking, and the ability to transform bold ideas into practical innovations.",
     "scope": "Internal_only",
@@ -1181,48 +1178,6 @@
     }
   },
   {
-    "id": "e79f0238-ce76-4470-ab15-65680d815e8b",
-    "name": "Global Skills for Future Managers",
-    "type": "Workshop",
-    "club": "VIT Business School",
-    "start_date": "2026-09-11T09:00:00Z",
-    "end_date": "2026-09-11T16:00:00Z",
-    "venue": "PRP 669",
-    "team_size": "Solo",
-    "price": 150,
-    "short_description": "Global Skills for Future Managers – graVITas 2026 “Leading Across Borders, Cultures, and Technology” is a full-day, team-based workshop for MBA students, tentatively scheduled for 11 September 2026. It focuses on preparing future managers for an AI-driven global business environment through practical learning and competitions. � Global_Skills_for_Future_Managers_graVITas (2).pdf The event includes: AI & Digital Skills for managers AI-assisted, data-driven decision making AI Prompt Challenge to solve real business problems Strategic thinking and decision making International Business Expansion Case Study Global Manager Challenge involving negotiation, cultural communication, AI problem-solving, and supply-chain situations � � Global_Skills_for_Future_Managers_graVITas (2).pdf Global_Skills_for_Future_Managers_graVITas (2).pdf Overall, the event aims to develop AI proficiency, critical thinking, problem-solving, strategic decision-making, collaboration, and global management skills needed by future managers.",
-    "scope": "internal_only",
-    "category": "Premium",
-    "tagline": "“Leading Across Borders, Cultures, and Technology”",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "internal-only",
-      "solo",
-      "workshop",
-      "premium"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 7,
-      "label": "7h"
-    }
-  },
-  {
     "id": "6822754f-f495-47ea-ab86-3be231ce5c0d",
     "name": "LayerZero",
     "type": "Workshop",
@@ -1431,19 +1386,19 @@
     }
   },
   {
-    "id": "66b7d529-07da-4314-ad34-99e3401defca",
-    "name": "EcoVention",
-    "type": "Competition",
-    "club": "School of Architecture",
+    "id": "e79f0238-ce76-4470-ab15-65680d815e8b",
+    "name": "Global Skills for Future Managers",
+    "type": "Workshop",
+    "club": "VIT Business School",
     "start_date": "2026-09-12T09:00:00Z",
-    "end_date": "2026-09-12T17:00:00Z",
-    "venue": "MGB 111",
-    "team_size": "1-2",
-    "price": 0,
-    "short_description": "EcoVention challenges individuals or teams of two to develop a sustainable product -furniture, an acoustic panel, or any other building/interior element of their choice - using sustainable materials and a sustainable design approach, intended for use in a residential setup or a retail showroom (participant's choice).",
+    "end_date": "2026-09-12T16:00:00Z",
+    "venue": "PRP 669",
+    "team_size": "Solo",
+    "price": 100,
+    "short_description": "Global Skills for Future Managers – graVITas 2026 “Leading Across Borders, Cultures, and Technology” is a full-day, team-based workshop for MBA students, tentatively scheduled for 11 September 2026. It focuses on preparing future managers for an AI-driven global business environment through practical learning and competitions. � Global_Skills_for_Future_Managers_graVITas (2).pdf The event includes: AI & Digital Skills for managers AI-assisted, data-driven decision making AI Prompt Challenge to solve real business problems Strategic thinking and decision making International Business Expansion Case Study Global Manager Challenge involving negotiation, cultural communication, AI problem-solving, and supply-chain situations � � Global_Skills_for_Future_Managers_graVITas (2).pdf Global_Skills_for_Future_Managers_graVITas (2).pdf Overall, the event aims to develop AI proficiency, critical thinking, problem-solving, strategic decision-making, collaboration, and global management skills needed by future managers.",
     "scope": "internal_only",
     "category": "Premium",
-    "tagline": "Sustainable Product Design Challenge",
+    "tagline": "“Leading Across Borders, Cultures, and Technology”",
     "is_team": false,
     "scores": {
       "robotics": 0,
@@ -1460,16 +1415,16 @@
       "general_fun": 0
     },
     "tags": [
-      "free",
+      "paid",
       "internal-only",
       "solo",
-      "competitive",
+      "workshop",
       "premium"
     ],
     "duration": {
       "days": 1,
-      "hours": 8,
-      "label": "8h"
+      "hours": 7,
+      "label": "7h"
     }
   },
   {
@@ -1511,6 +1466,48 @@
       "days": 1,
       "hours": 9,
       "label": "9h"
+    }
+  },
+  {
+    "id": "66b7d529-07da-4314-ad34-99e3401defca",
+    "name": "EcoVention",
+    "type": "Competition",
+    "club": "School of Architecture",
+    "start_date": "2026-09-12T09:00:00Z",
+    "end_date": "2026-09-12T17:00:00Z",
+    "venue": "MGB 111",
+    "team_size": "1-2",
+    "price": 0,
+    "short_description": "EcoVention challenges individuals or teams of two to develop a sustainable product -furniture, an acoustic panel, or any other building/interior element of their choice - using sustainable materials and a sustainable design approach, intended for use in a residential setup or a retail showroom (participant's choice).",
+    "scope": "internal_only",
+    "category": "Premium",
+    "tagline": "Sustainable Product Design Challenge",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "free",
+      "internal-only",
+      "solo",
+      "competitive",
+      "premium"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 8,
+      "label": "8h"
     }
   },
   {
@@ -3091,6 +3088,50 @@
     }
   },
   {
+    "id": "2209ae1f-89d9-4255-980b-6d477f675b00",
+    "name": "ROBOWARS - 15KG",
+    "type": "Competition",
+    "club": "ROBOVITICS",
+    "start_date": "2026-09-18T08:00:00Z",
+    "end_date": "2026-09-20T20:00:00Z",
+    "venue": "Behind madras cafe",
+    "team_size": "5-10",
+    "price": 1500,
+    "short_description": "Robowars is the flagship combat robotics event of RoboVITics at GraVITas, VIT Vellore, and South India's largest combat robotics event. Teams from across the country design, build, and battle their custom robots across multiple weight categories in a professionally designed arena. The competition celebrates engineering excellence, innovation, and strategic thinking while delivering an electrifying experience for participants and spectators alike.",
+    "scope": "Both",
+    "category": "Premium",
+    "tagline": "Forge . Battle . Wreck",
+    "is_team": true,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "team-based",
+      "competitive",
+      "multi-day",
+      "overnight",
+      "premium"
+    ],
+    "duration": {
+      "days": 3,
+      "hours": 60,
+      "label": "3 days (60h)"
+    }
+  },
+  {
     "id": "2f72ffe0-7ecc-4682-b1b9-64f13870a45d",
     "name": "Aerodominator",
     "type": "Competition",
@@ -3171,6 +3212,50 @@
       "days": 2,
       "hours": 34,
       "label": "2 days (34h)"
+    }
+  },
+  {
+    "id": "737766cb-2ff4-4cc4-8826-038ea1fb9404",
+    "name": "ROBOWARS - 60KG",
+    "type": "Competition",
+    "club": "ROBOVITICS",
+    "start_date": "2026-09-18T08:00:00Z",
+    "end_date": "2026-09-20T20:00:00Z",
+    "venue": "Behind madras cafe",
+    "team_size": "5-10",
+    "price": 2000,
+    "short_description": "Robowars is the flagship combat robotics event of RoboVITics at GraVITas, VIT Vellore, and South India's largest combat robotics event. Teams from across the country design, build, and battle their custom robots across multiple weight categories in a professionally designed arena. The competition celebrates engineering excellence, innovation, and strategic thinking while delivering an electrifying experience for participants and spectators alike.",
+    "scope": "Both",
+    "category": "Premium",
+    "tagline": "Forge . Battle . Wreck",
+    "is_team": true,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "team-based",
+      "competitive",
+      "multi-day",
+      "overnight",
+      "premium"
+    ],
+    "duration": {
+      "days": 3,
+      "hours": 60,
+      "label": "3 days (60h)"
     }
   },
   {
@@ -3256,6 +3341,47 @@
       "days": 2,
       "hours": 36,
       "label": "2 days (36h)"
+    }
+  },
+  {
+    "id": "9aab3e52-b9e5-4969-8f77-19084f8001d5",
+    "name": "The RISC Factor",
+    "type": "Workshop",
+    "club": "IEEE ELECTRON DEVICES SOCIETY (IEEE -EDS)",
+    "start_date": "2026-09-18T08:00:00Z",
+    "end_date": "2026-09-18T20:00:00Z",
+    "venue": "SJT 107",
+    "team_size": "Solo",
+    "price": 296,
+    "short_description": "",
+    "scope": "internal_only",
+    "category": "General",
+    "tagline": "A HANDS-ON DIVE INTO RISC-V ARCHITECTURE",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "internal-only",
+      "solo",
+      "workshop"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 12,
+      "label": "12h"
     }
   },
   {
@@ -3426,6 +3552,50 @@
       "days": 2,
       "hours": 24,
       "label": "2 days (24h)"
+    }
+  },
+  {
+    "id": "eeeb9d16-8227-4456-b6ec-067d74a7d0fb",
+    "name": "ROBOWARS - 8KG",
+    "type": "Competition",
+    "club": "ROBOVITICS",
+    "start_date": "2026-09-18T08:00:00Z",
+    "end_date": "2026-09-20T20:00:00Z",
+    "venue": "Behind madras cafe",
+    "team_size": "5-10",
+    "price": 1000,
+    "short_description": "Robowars is the flagship combat robotics event of RoboVITics at GraVITas, VIT Vellore, and South India's largest combat robotics event. Teams from across the country design, build, and battle their custom robots across multiple weight categories in a professionally designed arena. The competition celebrates engineering excellence, innovation, and strategic thinking while delivering an electrifying experience for participants and spectators alike.",
+    "scope": "Both",
+    "category": "Premium",
+    "tagline": "Forge . Battle . Wreck",
+    "is_team": true,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "team-based",
+      "competitive",
+      "multi-day",
+      "overnight",
+      "premium"
+    ],
+    "duration": {
+      "days": 3,
+      "hours": 60,
+      "label": "3 days (60h)"
     }
   },
   {
@@ -4267,7 +4437,7 @@
     "start_date": "2026-09-18T09:00:00Z",
     "end_date": "2026-09-18T13:00:00Z",
     "venue": "MGR 224",
-    "team_size": "3-5",
+    "team_size": "1-5",
     "price": 250,
     "short_description": "An immersive strategy simulation where teams lead Indian states through decades of growth, balancing economic development, sustainability, resource management, and national challenges. Negotiate alliances, make impactful decisions, and build a thriving vision for India in 2050.",
     "scope": "both",
@@ -4881,48 +5051,6 @@
       "days": 3,
       "hours": 57,
       "label": "3 days (57h)"
-    }
-  },
-  {
-    "id": "6a445f9a-9bb0-4cf6-a025-1cbabcc4d1d7",
-    "name": "Claude code in Action: AI assisted development from idea to deployment",
-    "type": "Workshop",
-    "club": "School of Computer Science and Engineering",
-    "start_date": "2026-09-18T10:00:00Z",
-    "end_date": "2026-09-18T18:00:00Z",
-    "venue": "SJT 416",
-    "team_size": "1-3",
-    "price": 300,
-    "short_description": "A hands-on workshop on Ai-assisted software development using claude code .",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Build Smarter .Code Faster . Deploy Better",
-    "is_team": false,
-    "scores": {
-      "robotics": 8,
-      "iot": 10,
-      "ai_ml": 70,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 80,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 10
-    },
-    "tags": [
-      "single-day",
-      "workshop-style",
-      "hands-on",
-      "premium",
-      "team-based"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 8,
-      "label": "1 day (8h)"
     }
   },
   {
@@ -5672,6 +5800,48 @@
     }
   },
   {
+    "id": "6a445f9a-9bb0-4cf6-a025-1cbabcc4d1d7",
+    "name": "Claude code in Action: AI assisted development from idea to deployment",
+    "type": "Workshop",
+    "club": "School of Computer Science and Engineering",
+    "start_date": "2026-09-18T10:00:00Z",
+    "end_date": "2026-09-18T18:00:00Z",
+    "venue": "SJT 416",
+    "team_size": "1-3",
+    "price": 300,
+    "short_description": "A hands-on workshop on Ai-assisted software development using claude code .",
+    "scope": "both",
+    "category": "Premium",
+    "tagline": "Build Smarter .Code Faster . Deploy Better",
+    "is_team": false,
+    "scores": {
+      "robotics": 8,
+      "iot": 10,
+      "ai_ml": 70,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 80,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 10
+    },
+    "tags": [
+      "single-day",
+      "workshop-style",
+      "hands-on",
+      "premium",
+      "team-based"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 8,
+      "label": "1 day (8h)"
+    }
+  },
+  {
     "id": "5411e431-76d0-423c-b886-af30fdd0dfa1",
     "name": "Right! A Tune",
     "type": "Hackathon",
@@ -5836,6 +6006,47 @@
     }
   },
   {
+    "id": "7c776c94-636c-4d94-866f-d9228f2960b6",
+    "name": "Reframe",
+    "type": "Competition",
+    "club": "DESIGN CLUB - PIXELATE",
+    "start_date": "2026-09-18T13:00:00Z",
+    "end_date": "2026-09-18T20:00:00Z",
+    "venue": "TT 513",
+    "team_size": "1-3",
+    "price": 110,
+    "short_description": "Reframe is a UI/UX design challenge that pushes participants to rethink the familiar. Choose an existing website, reinvent it as a completely different product or service, and redesign its landing page while preserving its core visual identity. Showcase your creativity, problem-solving, and design thinking to transform the ordinary into something unexpected.",
+    "scope": "Both",
+    "category": "General",
+    "tagline": "Reimagine the Familiar",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "solo",
+      "competitive"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 7,
+      "label": "7h"
+    }
+  },
+  {
     "id": "058b2458-c6f6-4b87-adf7-76aeafd08afc",
     "name": "PCBify 2.0",
     "type": "Workshop",
@@ -5919,6 +6130,47 @@
       "days": 1,
       "hours": 4,
       "label": "4h"
+    }
+  },
+  {
+    "id": "1d5ce9b3-f82b-4b08-b26b-a81488e185e4",
+    "name": "Beat the Jammer",
+    "type": "Competition",
+    "club": "IEEE-MICROWAVE THEORY AND TECHNIQUES SOCIETY (IEEE-MTTS)",
+    "start_date": "2026-09-18T14:00:00Z",
+    "end_date": "2026-09-18T17:00:00Z",
+    "venue": "MGB 111",
+    "team_size": "1",
+    "price": 100,
+    "short_description": "Beat the Jammer is a fun, tech-themed team challenge where players locate the hidden music signal while avoiding interference from a jammer. Teams use teamwork, listening skills, and quick thinking to complete exciting rounds with increasing difficulty.",
+    "scope": "both",
+    "category": "General",
+    "tagline": "Every Beat Leads to Victory",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "solo",
+      "competitive"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 3,
+      "label": "3h"
     }
   },
   {
@@ -6086,47 +6338,6 @@
     }
   },
   {
-    "id": "0629102b-cc5f-4992-8921-2e55df1cb2f9",
-    "name": "Celestial Dive 5.0",
-    "type": "Workshop",
-    "club": "ASTRONOMY CLUB- VIT STELLAR",
-    "start_date": "2026-09-18T21:00:00Z",
-    "end_date": "2026-09-19T05:00:00Z",
-    "venue": "KC Lawn",
-    "team_size": "Solo",
-    "price": 550,
-    "short_description": "Celestial Dive 5.0 is a journey beyond Earth. Spend an unforgettable night exploring the cosmos through powerful telescopes, uncovering the mysteries of the universe through engaging astronomy sessions and experiencing immersive planetariums that bring space to life. Enhanced by a carefully crafted moonlit ambiance, every moment is designed to inspire wonder, curiosity and a deeper connection with the universe.",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "One Night - Infinite Wonders.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 15,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 20,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 70
-    },
-    "tags": [
-      "multi-day",
-      "workshop-style",
-      "premium",
-      "solo"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 8,
-      "label": "2 days (8h)"
-    }
-  },
-  {
     "id": "8e3664bc-3362-457b-a9bb-e6edd74aeb3a",
     "name": "CADEX",
     "type": "Hackathon",
@@ -6248,6 +6459,47 @@
       "days": 2,
       "hours": 29,
       "label": "2 days (29h)"
+    }
+  },
+  {
+    "id": "0629102b-cc5f-4992-8921-2e55df1cb2f9",
+    "name": "Celestial Dive 5.0",
+    "type": "Workshop",
+    "club": "ASTRONOMY CLUB- VIT STELLAR",
+    "start_date": "2026-09-18T21:00:00Z",
+    "end_date": "2026-09-19T05:00:00Z",
+    "venue": "KC Lawn",
+    "team_size": "Solo",
+    "price": 550,
+    "short_description": "Celestial Dive 5.0 is a journey beyond Earth. Spend an unforgettable night exploring the cosmos through powerful telescopes, uncovering the mysteries of the universe through engaging astronomy sessions and experiencing immersive planetariums that bring space to life. Enhanced by a carefully crafted moonlit ambiance, every moment is designed to inspire wonder, curiosity and a deeper connection with the universe.",
+    "scope": "both",
+    "category": "Premium",
+    "tagline": "One Night - Infinite Wonders.",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 15,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 20,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 70
+    },
+    "tags": [
+      "multi-day",
+      "workshop-style",
+      "premium",
+      "solo"
+    ],
+    "duration": {
+      "days": 2,
+      "hours": 8,
+      "label": "2 days (8h)"
     }
   },
   {
@@ -6627,6 +6879,48 @@
     }
   },
   {
+    "id": "40492b89-2f55-4fd8-982b-691a6d4c4e65",
+    "name": "Yellow Tape 5.0",
+    "type": "Competition",
+    "club": "SOCIETY FOR BIOLOGICAL ENGINEERING (SBE)",
+    "start_date": "2026-09-19T09:00:00Z",
+    "end_date": "2026-09-19T18:00:00Z",
+    "venue": "PRP 304 + 305 + 306 + 308",
+    "team_size": "3-5",
+    "price": 200,
+    "short_description": "A crime has been committed, and the truth lies hidden within the evidence. Step into the shoes of a forensic investigator, analyze the clues, reconstruct the sequence of events, and identify the culprit before time runs out. Every detail matters, and every decision brings you closer to solving the case.",
+    "scope": "internal_only",
+    "category": "General",
+    "tagline": "Everyone's a suspect. No one's safe.",
+    "is_team": true,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 20,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 20,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 15,
+      "general_fun": 50
+    },
+    "tags": [
+      "single-day",
+      "competitive",
+      "hands-on",
+      "team-based",
+      "internal-only"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 11,
+      "label": "1 day (11h)"
+    }
+  },
+  {
     "id": "519d56ff-ace2-4de9-aad5-6c19797a7855",
     "name": "Solar Heist",
     "type": "Others",
@@ -6634,7 +6928,7 @@
     "start_date": "2026-09-19T09:00:00Z",
     "end_date": "2026-09-19T13:00:00Z",
     "venue": "TT 331",
-    "team_size": "3-4",
+    "team_size": "1-5",
     "price": 250,
     "short_description": "Solar Heist is a story-driven mystery adventure where participants become Energy Detectives on a mission to recover a stolen clean-energy technology. Teams solve puzzles, decode clues, uncover hidden evidence, and complete interactive challenges inspired by renewable energy concepts. Combining teamwork, strategy, observation, and logical thinking, the event delivers an immersive experience that is both entertaining and educational.",
     "scope": "both",
@@ -7027,48 +7321,6 @@
       "days": 1,
       "hours": 4,
       "label": "1 day (4h)"
-    }
-  },
-  {
-    "id": "40492b89-2f55-4fd8-982b-691a6d4c4e65",
-    "name": "Yellow Tape 5.0",
-    "type": "Competition",
-    "club": "SOCIETY FOR BIOLOGICAL ENGINEERING (SBE)",
-    "start_date": "2026-09-19T09:00:00Z",
-    "end_date": "2026-09-19T18:00:00Z",
-    "venue": "PRP 304 + 305 + 306 + 308",
-    "team_size": "3-5",
-    "price": 200,
-    "short_description": "A crime has been committed, and the truth lies hidden within the evidence. Step into the shoes of a forensic investigator, analyze the clues, reconstruct the sequence of events, and identify the culprit before time runs out. Every detail matters, and every decision brings you closer to solving the case.",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "Everyone's a suspect. No one's safe.",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 20,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 20,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 15,
-      "general_fun": 50
-    },
-    "tags": [
-      "single-day",
-      "competitive",
-      "hands-on",
-      "team-based",
-      "internal-only"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 11,
-      "label": "1 day (11h)"
     }
   },
   {
@@ -8176,6 +8428,47 @@
     }
   },
   {
+    "id": "0b35e5a3-90f2-49ad-8cb7-89f44435b0de",
+    "name": "Raaz-e-Qatl",
+    "type": "Competition",
+    "club": "CUBING CLUB",
+    "start_date": "2026-09-20T09:00:00Z",
+    "end_date": "2026-09-20T13:00:00Z",
+    "venue": "MGB 306 + MGB 307",
+    "team_size": "1-4",
+    "price": 150,
+    "short_description": "Raaz-e-Qatl is an immersive murder mystery where teams become detectives, analyze clues, uncover hidden connections, and race against time to identify the culprit. With twists, red herrings, and shocking revelations at every turn, only the sharpest minds will unravel the truth.",
+    "scope": "internal_only",
+    "category": "General",
+    "tagline": "Yeh hai gumraahon ka rasta, Muskaanein jhooti hai",
+    "is_team": true,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "internal-only",
+      "team-based",
+      "competitive"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 4,
+      "label": "4h"
+    }
+  },
+  {
     "id": "0c277ace-df04-4e1c-a785-8bd8d840f539",
     "name": "The Lost Manuscript",
     "type": "Others",
@@ -8459,47 +8752,6 @@
       "days": 1,
       "hours": 9,
       "label": "9h"
-    }
-  },
-  {
-    "id": "0b35e5a3-90f2-49ad-8cb7-89f44435b0de",
-    "name": "Raaz-e-Qatl",
-    "type": "Competition",
-    "club": "CUBING CLUB",
-    "start_date": "2026-09-20T09:00:00Z",
-    "end_date": "2026-09-20T13:00:00Z",
-    "venue": "MGB 306 + MGB 307",
-    "team_size": "1-4",
-    "price": 150,
-    "short_description": "Raaz-e-Qatl is an immersive murder mystery where teams become detectives, analyze clues, uncover hidden connections, and race against time to identify the culprit. With twists, red herrings, and shocking revelations at every turn, only the sharpest minds will unravel the truth.",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "Yeh hai gumraahon ka rasta, Muskaanein jhooti hai",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "internal-only",
-      "team-based",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 4,
-      "label": "4h"
     }
   },
   {
