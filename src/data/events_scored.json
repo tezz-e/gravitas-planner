@@ -2134,6 +2134,48 @@
     }
   },
   {
+    "id": "d6298a00-f9c0-4012-a405-5f9f619f3b32",
+    "name": "ForgeAi",
+    "type": "Hackathon",
+    "club": "Pro-Events",
+    "start_date": "2026-09-14T09:00:00Z",
+    "end_date": "2026-09-15T19:00:00Z",
+    "venue": "Anna Auditorium",
+    "team_size": "2-5",
+    "price": 0,
+    "short_description": "ForgeAi is an intensive overnight AI hackathon where participants go beyond simply building an AI solution. Teams will build their idea, evaluate it using PRISM by Block Convey, identify real weaknesses, improve their system, and prove the improvement with measurable evidence. Participants will receive a dedicated 120-minute PRISM session, access to free PRISM credits, and expert guidance to help them integrate AI evaluation into their solutions. The hackathon culminates in final evaluations and live pitches, with a $500 first prize contingent on meaningful PRISM usage and paid internship opportunities for impressive participant profiles. Powered by Block Convey",
+    "scope": "internal only",
+    "category": "pro",
+    "tagline": "BUILD IT. BREAK IT. FIX IT. PROVE IT.",
+    "is_team": true,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "free",
+      "open-to-all",
+      "team-based",
+      "hackathon",
+      "multi-day"
+    ],
+    "duration": {
+      "days": 2,
+      "hours": 34,
+      "label": "2 days (34h)"
+    }
+  },
+  {
     "id": "037be30d-5f01-413d-9c0d-4a1bccfea238",
     "name": "Hydro Clash (Women)",
     "type": "Competition",
