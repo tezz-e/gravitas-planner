@@ -215,46 +215,6 @@
     }
   },
   {
-    "id": "4f0a6ada-40c9-4626-af30-afce5ac10b3a",
-    "name": "Jumanji: The Outbreak",
-    "type": "Others",
-    "club": "ALPHA BIO CELL (ABC)",
-    "start_date": "2026-09-05T09:00:00Z",
-    "end_date": "2026-09-05T20:00:00Z",
-    "venue": "Foody's",
-    "team_size": "3-5",
-    "price": 100,
-    "short_description": "An ancient pathogen has escaped from the Temple of the Jaguar, and the only cure is the mythical \"Eye of the Jaguar.\" Teams of 3 to 5 players must take on the roles of iconic characters and race against time. Solve cryptic clues, collect secret letters, and unlock the final challenge before the deadly infection consumes you forever.",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "Find the Eye of the Jaguar or become part of the jungle forever!",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 20,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 20
-    },
-    "tags": [
-      "single-day",
-      "team-based",
-      "internal-only"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 11,
-      "label": "1 day (11h)"
-    }
-  },
-  {
     "id": "02fc269d-2915-4339-8ae1-d180d7a0525c",
     "name": "Robosprint",
     "type": "Workshop",
@@ -503,45 +463,6 @@
       "days": 2,
       "hours": 35,
       "label": "2 days (35h)"
-    }
-  },
-  {
-    "id": "a92988fb-2e07-4c14-abba-d4fcdb3bf042",
-    "name": "Survival Showdown",
-    "type": "Others",
-    "club": "THE AI & ML CLUB - TAM",
-    "start_date": "2026-09-06T08:00:00Z",
-    "end_date": "2026-09-06T20:00:00Z",
-    "venue": "CDMM 105",
-    "team_size": "4-5",
-    "price": 200,
-    "short_description": "Survival Showdown is an immersive escape room event themed around an abandoned hospital where teams of 4–5 members race against time to solve puzzles, uncover hidden clues, and complete challenging tasks. Designed to test teamwork, logical reasoning, communication, and decision-making under pressure, the event rewards the team that successfully escapes in the shortest time while following all game rules and overcoming thrilling challenges.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "The Hospital was abandoned. The secrets weren't",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 10,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 60
-    },
-    "tags": [
-      "single-day",
-      "team-based"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 12,
-      "label": "1 day (12h)"
     }
   },
   {
@@ -4018,46 +3939,6 @@
     }
   },
   {
-    "id": "6bd53992-f9c0-494c-a62b-b96e22486836",
-    "name": "SEASON ZERO 2.0",
-    "type": "Others",
-    "club": "THE BIOTECH RESEARCH SOCIETY INDIA (BRSI)",
-    "start_date": "2026-09-18T09:00:00Z",
-    "end_date": "2026-09-18T20:00:00Z",
-    "venue": "SMV 122 + SMV 123",
-    "team_size": "3-5",
-    "price": 150,
-    "short_description": "Step into Season Zero 2.0, an unforgettable multi-genre adventure designed to push your limits! Face your deepest fears in a terrifying horror escape room to banish an ancient mansion's curse. Defy reality in an mind-bending sci-fi room where split teams must solve puzzles across time. Finally, sprint through buildings in a high-stakes crime hunt to outsmart a killer before time runs out. Three pulse-pounding zones. One ultimate test of courage, brains, and teamwork. Are you ready?",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Where Reality Ends, The Game Begins..",
-    "is_team": false,
-    "scores": {
-      "robotics": 8,
-      "iot": 20,
-      "ai_ml": 20,
-      "hackathons": 10,
-      "startups": 20,
-      "webdev": 10,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 80
-    },
-    "tags": [
-      "single-day",
-      "hands-on",
-      "team-based"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 11,
-      "label": "1 day (11h)"
-    }
-  },
-  {
     "id": "6f1889eb-a0d3-49fa-89f0-6b73d1a30fe4",
     "name": "The Micro-Habitat: The Micro Living Challenge",
     "type": "Competition",
@@ -4222,46 +4103,6 @@
       "days": 1,
       "hours": 17,
       "label": "17h"
-    }
-  },
-  {
-    "id": "91d766da-c563-4bc0-9666-e4dd5956b0bc",
-    "name": "Alice in Borderland",
-    "type": "others",
-    "club": "International Association of Automation and Robotics In Civil (IAARC@VIT)",
-    "start_date": "2026-09-18T09:00:00Z",
-    "end_date": "2026-09-18T14:00:00Z",
-    "venue": "CDMM 401",
-    "team_size": "3-4",
-    "price": 130,
-    "short_description": "Enter the Borderland, where every game tests a different side of your strength, intelligence, teamwork, and strategy. Inspired by Alice in Borderland, teams will battle through four thrilling arenas, collect the suits, and race toward victory. Expect unexpected twists, intense challenges, and moments where every decision matters. Gather your team, step into the game, and prove you have what it takes to conquer the Borderland.",
-    "scope": "Both",
-    "category": "General",
-    "tagline": "Four Suits. One Chance. No Way Back.",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "team-based"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 5,
-      "label": "5h"
     }
   },
   {
@@ -5677,46 +5518,6 @@
     }
   },
   {
-    "id": "2e0ab295-916e-4188-a808-7b45fe731e83",
-    "name": "Tangled",
-    "type": "Workshop",
-    "club": "SMILE OVER STRESS (SOS)",
-    "start_date": "2026-09-18T10:00:00Z",
-    "end_date": "2026-09-18T16:00:00Z",
-    "venue": "TT 305",
-    "team_size": "Solo",
-    "price": 170,
-    "short_description": "Get ready to roll, twist, stitch, and create! 🎨🧶 Tangled is the ultimate creative escape where clay meets crochet in one exciting workshop. Whether you're sculpting adorable clay creations or learning trendy crochet designs, this is your chance to unleash your inner artist, make something uniquely yours, and have an amazing time doing it. No experience needed—just bring your creativity and good vibes!",
-    "scope": "both",
-    "category": "General",
-    "tagline": "One Workshop. Two Crafts. Endless Fun. ✨",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 20,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 60
-    },
-    "tags": [
-      "single-day",
-      "workshop-style",
-      "solo"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 6,
-      "label": "1 day (6h)"
-    }
-  },
-  {
     "id": "6a445f9a-9bb0-4cf6-a025-1cbabcc4d1d7",
     "name": "Claude code in Action: AI assisted development from idea to deployment",
     "type": "Workshop",
@@ -5839,87 +5640,6 @@
       "days": 1,
       "hours": 8,
       "label": "8h"
-    }
-  },
-  {
-    "id": "cce43785-37a5-408a-b218-4e6e4df1cea1",
-    "name": "NERF WARS",
-    "type": "Competition",
-    "club": "TREKKING CLUB",
-    "start_date": "2026-09-18T11:00:00Z",
-    "end_date": "2026-09-19T17:00:00Z",
-    "venue": "SJT 112 +113, SJT 103 + 104",
-    "team_size": "3-5",
-    "price": 175,
-    "short_description": "Nerf Wars is an action-packed combat-style team challenge that tests speed, strategy, teamwork, and tactical decision-making. Participants compete in teams of 3–5 members and battle for control of a single domination zone located at the center of the battlefield.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Capture the zone,Dominate the battlefield!",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 5,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 30
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "competitive",
-      "team-based"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 30,
-      "label": "2 days (30h)"
-    }
-  },
-  {
-    "id": "02fe0783-1b61-461c-b306-fc8c118f9609",
-    "name": "Escape Room",
-    "type": "Others",
-    "club": "TREKKING CLUB",
-    "start_date": "2026-09-18T11:00:00Z",
-    "end_date": "2026-09-19T17:00:00Z",
-    "venue": "SJT102",
-    "team_size": "3-5",
-    "price": 200,
-    "short_description": "Escape Room is an immersive, team-based adventure where participants enter specially designed themed rooms inspired by Stranger Things and Harry Potter. Solve thrilling puzzles, decode hidden clues, crack mysteries, and unlock challenges to escape before time runs out. Test your logic, teamwork, communication, and decision-making under pressure in a fun, fast-paced, and competitive experience filled with excitement and adventure.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Crack the Clues. Conquer the Clock.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 40,
-      "webdev": 5,
-      "cybersecurity": 0,
-      "electronics": 10,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 90
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "team-based"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 30,
-      "label": "2 days (30h)"
     }
   },
   {
@@ -6798,46 +6518,6 @@
     }
   },
   {
-    "id": "175e5fdc-f0f0-40f4-9ac4-c69766336866",
-    "name": "Let's Glow, Picasso!",
-    "type": "Others",
-    "club": "LEO CLUB",
-    "start_date": "2026-09-19T09:00:00Z",
-    "end_date": "2026-09-19T16:00:00Z",
-    "venue": "TT 513",
-    "team_size": "1-2",
-    "price": 170,
-    "short_description": "Get ready for a fun-filled painting experience where creativity meets teamwork! In pairs, participants will take turns painting while blindfolded, guided by their partner through words, actions, and gestures. Using vibrant acrylic and glow-in-the-dark paints, create a unique artwork that comes to life under UV light. Trust your partner, embrace the chaos, and let your creativity glow. Best of all, you'll get to take home your glowing masterpiece as a memorable keepsake!",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Let Your Creativity Glow.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 60,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 10,
-      "cybersecurity": 0,
-      "electronics": 10,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 100
-    },
-    "tags": [
-      "single-day",
-      "take-home-kit",
-      "team-based"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 7,
-      "label": "1 day (7h)"
-    }
-  },
-  {
     "id": "40492b89-2f55-4fd8-982b-691a6d4c4e65",
     "name": "Yellow Tape 5.0",
     "type": "Competition",
@@ -7200,47 +6880,6 @@
       "days": 1,
       "hours": 10,
       "label": "1 day (10h)"
-    }
-  },
-  {
-    "id": "0f24052e-4fd2-45f1-9225-d4f922df3184",
-    "name": "Techno Treasure Hunt",
-    "type": "Competition",
-    "club": "IEEE-MICROWAVE THEORY AND TECHNIQUES SOCIETY (IEEE-MTTS)",
-    "start_date": "2026-09-19T09:00:00Z",
-    "end_date": "2026-09-19T17:00:00Z",
-    "venue": "TT 539 + TT Basketball Court",
-    "team_size": "1-5",
-    "price": 120,
-    "short_description": "The Great Treasure Hunt is a fun team game where clues, riddles and puzzles are used at various points around the campus to guide the teams to the treasure. It tests the abilities of teamwork, logical thinking, observation and time management as teams compete to discover the hidden treasure. The first team to successfully complete all the challenges in the shortest period of time will be the winner.",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "NA",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 5,
-      "startups": 0,
-      "webdev": 10,
-      "cybersecurity": 0,
-      "electronics": 15,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 70
-    },
-    "tags": [
-      "single-day",
-      "competitive",
-      "team-based",
-      "internal-only"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 8,
-      "label": "1 day (8h)"
     }
   },
   {
@@ -8428,46 +8067,6 @@
     }
   },
   {
-    "id": "0c277ace-df04-4e1c-a785-8bd8d840f539",
-    "name": "The Lost Manuscript",
-    "type": "Others",
-    "club": "THE NEXT CHAPTER - BOOK CLUB",
-    "start_date": "2026-09-20T09:00:00Z",
-    "end_date": "2026-09-20T16:00:00Z",
-    "venue": "CDMM 303 + 304",
-    "team_size": "3-4",
-    "price": 200,
-    "short_description": "Days before the release of his final manuscript, a celebrated horror novelist vanishes without a trace. In his study lies an unfinished novel about an author haunted by the certainty that someone is plotting his murder. As teams unlock chapters through cryptic puzzles and hidden clues, the fiction begins to echo reality with unsettling precision. Was the manuscript merely a story or a desperate warning left behind before the author disappeared?",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "Follow the trail. Finish the tale. Face the truth.",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 20,
-      "ai_ml": 40,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 70
-    },
-    "tags": [
-      "single-day",
-      "team-based",
-      "internal-only"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 7,
-      "label": "1 day (7h)"
-    }
-  },
-  {
     "id": "5153008f-68b9-469d-8052-b53fcbf49a34",
     "name": "ABSOLUTE CINEMA",
     "type": "Workshop",
@@ -8587,46 +8186,6 @@
       "days": 1,
       "hours": 9,
       "label": "1 day (9h)"
-    }
-  },
-  {
-    "id": "c2754d64-8298-43f8-b246-554f14a597d7",
-    "name": "Mirror Mirror On The Wall",
-    "type": "Others",
-    "club": "LEO CLUB x YOGA  CLUB",
-    "start_date": "2026-09-20T09:00:00Z",
-    "end_date": "2026-09-20T16:00:00Z",
-    "venue": "PRP Balcony 2nd floor",
-    "team_size": "Solo",
-    "price": 169,
-    "short_description": "Design a mirror that's as unique as you! Decorate your own mini mirror using charms, beads, clay creations, pearls, and more to match your personal aesthetic. Whether it's cute, classy, quirky, or completely you, take home a one-of-a-kind keepsake that reflects your creativity. No experience needed just bring your imagination and let the magic begin.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Craft a Mirror as Unique as You!!",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 10,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 60
-    },
-    "tags": [
-      "single-day",
-      "take-home-kit",
-      "solo"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 7,
-      "label": "1 day (7h)"
     }
   },
   {
