@@ -1,44 +1,43 @@
 [
   {
-    "id": "2f85050f-088b-4b28-a5c7-26f7973ba95e",
-    "name": "Star Wars: New Horizons",
-    "type": "Competition",
-    "club": "INDIAN INSTITUTE OF CHEMICAL ENGINEERS (IICHE)",
-    "start_date": "2026-09-04T13:00:00Z",
-    "end_date": "2026-09-04T19:00:00Z",
-    "venue": "SMV 110",
-    "team_size": "1-5",
-    "price": 130,
-    "short_description": "Build. Battle. Become the Empire. A Star Wars-themed Chemical Engineering showdown — 14 teams construct factories, unlock weapons, and battle across 8 rounds.",
-    "scope": "internal_only",
+    "id": "b36d1661-f49d-451f-980f-f262a5d92594",
+    "name": "THE COSMOS PROTOCOL",
+    "type": "Hackathon",
+    "club": "THE BIOTECH RESEARCH SOCIETY INDIA (BRSI)",
+    "start_date": "2026-09-05T08:00:00Z",
+    "end_date": "2026-09-06T18:00:00Z",
+    "venue": "VOC Gallery - II, Kamraj Auditorium",
+    "team_size": "3-5",
+    "price": 200,
+    "short_description": "Something came back from the mission that wasn't supposed to be alive. Now the colony is failing and a crew member is down. The Cosmos Protocol is a 2-day computational biology hackathon where you either decode an unknown alien-origin organism from raw gene sequences, or design a computational antibody to save an infected crew member. Day 1 you investigate. Day 2 every team converges on the same crisis and defends their answer. No wet lab. No coding required. No prior experience needed. Just science under pressure.",
+    "scope": "both",
     "category": "General",
-    "tagline": "\"Build. Battle. Become the Empire.\"",
+    "tagline": "Discovery has Consequences",
     "is_team": false,
     "scores": {
-      "robotics": 16,
+      "robotics": 0,
       "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
+      "ai_ml": 30,
+      "hackathons": 70,
       "startups": 0,
       "webdev": 20,
       "cybersecurity": 0,
       "electronics": 0,
       "cad_design": 0,
       "gaming": 0,
-      "finance": 0,
+      "finance": 15,
       "general_fun": 0
     },
     "tags": [
-      "single-day",
-      "competitive",
-      "hands-on",
-      "team-based",
-      "internal-only"
+      "multi-day",
+      "overnight",
+      "hackathon-style",
+      "team-based"
     ],
     "duration": {
-      "days": 1,
-      "hours": 6,
-      "label": "1 day (6h)"
+      "days": 2,
+      "hours": 34,
+      "label": "2 days (34h)"
     }
   },
   {
@@ -127,47 +126,6 @@
       "days": 2,
       "hours": 36,
       "label": "2 days (36h)"
-    }
-  },
-  {
-    "id": "b36d1661-f49d-451f-980f-f262a5d92594",
-    "name": "THE COSMOS PROTOCOL",
-    "type": "Hackathon",
-    "club": "THE BIOTECH RESEARCH SOCIETY INDIA (BRSI)",
-    "start_date": "2026-09-05T08:00:00Z",
-    "end_date": "2026-09-06T18:00:00Z",
-    "venue": "VOC Gallery - II, Kamraj Auditorium",
-    "team_size": "3-5",
-    "price": 200,
-    "short_description": "Something came back from the mission that wasn't supposed to be alive. Now the colony is failing and a crew member is down. The Cosmos Protocol is a 2-day computational biology hackathon where you either decode an unknown alien-origin organism from raw gene sequences, or design a computational antibody to save an infected crew member. Day 1 you investigate. Day 2 every team converges on the same crisis and defends their answer. No wet lab. No coding required. No prior experience needed. Just science under pressure.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Discovery has Consequences",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 30,
-      "hackathons": 70,
-      "startups": 0,
-      "webdev": 20,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 15,
-      "general_fun": 0
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "hackathon-style",
-      "team-based"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 34,
-      "label": "2 days (34h)"
     }
   },
   {
@@ -297,88 +255,6 @@
       "days": 2,
       "hours": 33,
       "label": "2 days (33h)"
-    }
-  },
-  {
-    "id": "978534df-bb80-41bd-8aa0-674c9e20008c",
-    "name": "The Architectural Ideology Charette",
-    "type": "Competition",
-    "club": "School of Architecture",
-    "start_date": "2026-09-05T10:00:00Z",
-    "end_date": "2026-09-05T13:00:00Z",
-    "venue": "MGB 111",
-    "team_size": "3-4",
-    "price": 0,
-    "short_description": "Partcipants must deconstruct its socio-economic impact of the era and the architects work through two core deliverables: a 3-Minute Abstract Short Film capturing human kinetics, lighting, and spatial scale, and a Simple Abstract Physical Model that serves as a three-dimensional manifestation of how that era's ideology organizes or divides society.",
-    "scope": "internal_only",
-    "category": "Premium",
-    "tagline": "Contemporary Architectural ideology competition",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "free",
-      "internal-only",
-      "solo",
-      "competitive",
-      "premium"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 3,
-      "label": "3h"
-    }
-  },
-  {
-    "id": "547bae1e-8aa9-408e-8d3d-fc8a0f933cfb",
-    "name": "IGNITE 1.0",
-    "type": "Entrepreneurship / Management event",
-    "club": "ENTREPRENEURSHIP CELL (E-CELL)",
-    "start_date": "2026-09-05T14:00:00Z",
-    "end_date": "2026-09-05T18:00:00Z",
-    "venue": "Dr. Ambedkar Auditorium",
-    "team_size": "Solo",
-    "price": 0,
-    "short_description": "An interactive session where industry leaders and founders share practical lessons on innovation, leadership, and entrepreneurship. Discover what it takes to transform ideas into impactful businesses through real-world experiences and expert insights.",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "Inspiring the Next Founders.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "free",
-      "internal-only",
-      "solo"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 4,
-      "label": "4h"
     }
   },
   {
@@ -1342,48 +1218,6 @@
       "days": 2,
       "hours": 32,
       "label": "2 days (32h)"
-    }
-  },
-  {
-    "id": "afa2131a-36c8-4ea5-9c5f-63e10ac085a4",
-    "name": "Operation Root Cause",
-    "type": "Competition",
-    "club": "SOCIETY OF  MANUFACTURING ENGINEERS (SME)",
-    "start_date": "2026-09-12T10:00:00Z",
-    "end_date": "2026-09-13T17:00:00Z",
-    "venue": "CDMM 105",
-    "team_size": "3-5",
-    "price": 150,
-    "short_description": "Operation Root Cause is a technical treasure hunt where teams investigate a crashed prototype by solving manufacturing and material-related challenges across seven field stations. Teams of 3–5 members race across campus, analyze evidence, collect physical clues, scan QR codes, and tackle surprise system failures. The fastest team to identify the root cause and complete the mission wins the competition.",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "Race. Investigate. Solve. Save the Prototype.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 20,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 5,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 30,
-      "gaming": 0,
-      "finance": 30,
-      "general_fun": 40
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "competitive",
-      "team-based",
-      "internal-only"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 31,
-      "label": "2 days (31h)"
     }
   },
   {
@@ -2720,47 +2554,6 @@
     }
   },
   {
-    "id": "4152a5e6-8f18-4b71-ad95-95047544ff51",
-    "name": "Flip The Script",
-    "type": "Competition",
-    "club": "ANIMATION CLUB",
-    "start_date": "2026-09-17T10:00:00Z",
-    "end_date": "2026-09-17T14:00:00Z",
-    "venue": "PRP 440A & 440B",
-    "team_size": "Solo",
-    "price": 175,
-    "short_description": "A fast-paced 2D flipbook workshop and competition.",
-    "scope": "Both",
-    "category": "General",
-    "tagline": "See you on the Flip Side!",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 4,
-      "label": "4h"
-    }
-  },
-  {
     "id": "ed74df3a-f091-4442-9b8f-bc42158e92c9",
     "name": "Aqua Arena (MEN)",
     "type": "Competition",
@@ -3224,47 +3017,6 @@
     }
   },
   {
-    "id": "9aab3e52-b9e5-4969-8f77-19084f8001d5",
-    "name": "The RISC Factor",
-    "type": "Workshop",
-    "club": "IEEE ELECTRON DEVICES SOCIETY (IEEE -EDS)",
-    "start_date": "2026-09-18T08:00:00Z",
-    "end_date": "2026-09-18T20:00:00Z",
-    "venue": "SJT 107",
-    "team_size": "Solo",
-    "price": 296,
-    "short_description": "",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "A HANDS-ON DIVE INTO RISC-V ARCHITECTURE",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "internal-only",
-      "solo",
-      "workshop"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 12,
-      "label": "12h"
-    }
-  },
-  {
     "id": "b74457fe-c7f9-446c-988e-f8a936806d8f",
     "name": "Nebula",
     "type": "Workshop",
@@ -3434,6 +3186,48 @@
       "days": 3,
       "hours": 60,
       "label": "3 days (60h)"
+    }
+  },
+  {
+    "id": "00c4b7e1-8fa3-4c92-b6d9-0a7e51c38f24",
+    "name": "LaserTag",
+    "type": "others",
+    "club": "Computer Society of India (CSI)",
+    "start_date": "2026-09-18T09:00:00Z",
+    "end_date": "2026-09-20T18:00:00Z",
+    "venue": "GDN G07, CDMM 213",
+    "team_size": "Solo",
+    "price": 297,
+    "short_description": "Step into the arena, sink a coin, and let the lasers fly! LaserTag is a fast-paced 5v5 battle where teamwork, strategy, and sharp reflexes turn every second into a chance to score. Under UV lights and surrounded by vibrant artwork, you’ll navigate the arena, outsmart your opponents, and chase victory one tag at a time. \nWhether you’re a veteran looking to extend your streak or picking up a laser blaster for the first time, everyone has a shot at becoming the MVP. Gather your squad, lock your scopes, and get ready for a neon showdown.",
+    "scope": "Both",
+    "category": "General",
+    "tagline": "From Pixels to Pew Pew",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "solo",
+      "multi-day",
+      "overnight"
+    ],
+    "duration": {
+      "days": 3,
+      "hours": 57,
+      "label": "3 days (57h)"
     }
   },
   {
@@ -4479,48 +4273,6 @@
     }
   },
   {
-    "id": "f168f975-b28d-4d36-aa38-4c497cf6a54b",
-    "name": "LaserTag",
-    "type": "others",
-    "club": "Computer Society of India (CSI)",
-    "start_date": "2026-09-18T09:00:00Z",
-    "end_date": "2026-09-20T18:00:00Z",
-    "venue": "GDN G07, CDMM 213",
-    "team_size": "Solo",
-    "price": 297,
-    "short_description": "Step into the arena, sink a coin, and let the lasers fly! LaserTag is a fast-paced 5v5 battle where teamwork, strategy, and sharp reflexes turn every second into a chance to score. Under UV lights and surrounded by vibrant artwork, you’ll navigate the arena, outsmart your opponents, and chase victory one tag at a time. \nWhether you’re a veteran looking to extend your streak or picking up a laser blaster for the first time, everyone has a shot at becoming the MVP. Gather your squad, lock your scopes, and get ready for a neon showdown.",
-    "scope": "Both",
-    "category": "General",
-    "tagline": "From Pixels to Pew Pew",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "multi-day",
-      "overnight"
-    ],
-    "duration": {
-      "days": 3,
-      "hours": 57,
-      "label": "3 days (57h)"
-    }
-  },
-  {
     "id": "f7094dc4-a83d-4f7b-9158-35fe34555ad4",
     "name": "Money Heist: Blueprint Vault — Tower Edition",
     "type": "Competition",
@@ -4904,7 +4656,7 @@
     "end_date": "2026-09-19T18:00:00Z",
     "venue": "PRP 347",
     "team_size": "1",
-    "price": 250,
+    "price": 296,
     "short_description": "A two-day hands-on workshop exploring how Artificial Intelligence is shaping the future of immersive media. Participants will work with Computer Vision, Predictive AI, Spatial Computing and Large Language Models (LLMs) to create practical solutions for XR, gaming and interactive media. The workshop focuses on real-world applications, guided learning and hands-on project development, giving participants an opportunity to understand emerging technologies and build intelligent media experiences.",
     "scope": "both",
     "category": "Premium",
@@ -6922,6 +6674,47 @@
     }
   },
   {
+    "id": "00d9a2f6-3c8b-49e1-9f47-6b2d80a5ce13",
+    "name": "ForkThis",
+    "type": "Competition",
+    "club": "Computer Society of India (CSI)",
+    "start_date": "2026-09-19T10:00:00Z",
+    "end_date": "2026-09-19T19:00:00Z",
+    "venue": "Kamaraj Auditorium",
+    "team_size": "Solo",
+    "price": 212,
+    "short_description": "ForkThis is CSI-VIT's flagship open-source event, with Day 1 dedicated to an offline workshop focused on mastering Git and GitHub. Conducted by CSI core members, the session enhances workplace competencies through theory, hands-on demonstrations, and real-world implementation of version control. The workshop covers repositories, branching, commits, and pull requests, and also features an exclusive guest speaker session by an industry expert, sharing valuable insights on open-source development and career opportunities.\n\nDays 2 and 3 feature a two-day online open-source competition where participants will work on bug-fix projects across multiple difficulty levels. They will submit their solutions through GitHub, compete on a live leaderboard, and stand a chance to win exciting prize money while applying the concepts learned during the workshop in a practical setting.",
+    "scope": "Both",
+    "category": "General",
+    "tagline": "Git. Set. Fork.",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "solo",
+      "competitive"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 9,
+      "label": "9h"
+    }
+  },
+  {
     "id": "0931a96d-8983-4174-9b3d-005169bfabd6",
     "name": "Blitz Battle Arena – Online Swiss Chess Championship",
     "type": "Competition",
@@ -7286,47 +7079,6 @@
       "days": 1,
       "hours": 9,
       "label": "1 day (9h)"
-    }
-  },
-  {
-    "id": "d1025b14-bd0b-4651-9d23-e4a01daf2a7a",
-    "name": "ForkThis",
-    "type": "Competition",
-    "club": "Computer Society of India (CSI)",
-    "start_date": "2026-09-19T10:00:00Z",
-    "end_date": "2026-09-19T19:00:00Z",
-    "venue": "Kamaraj Auditorium",
-    "team_size": "Solo",
-    "price": 212,
-    "short_description": "ForkThis is CSI-VIT's flagship open-source event, with Day 1 dedicated to an offline workshop focused on mastering Git and GitHub. Conducted by CSI core members, the session enhances workplace competencies through theory, hands-on demonstrations, and real-world implementation of version control. The workshop covers repositories, branching, commits, and pull requests, and also features an exclusive guest speaker session by an industry expert, sharing valuable insights on open-source development and career opportunities.\n\nDays 2 and 3 feature a two-day online open-source competition where participants will work on bug-fix projects across multiple difficulty levels. They will submit their solutions through GitHub, compete on a live leaderboard, and stand a chance to win exciting prize money while applying the concepts learned during the workshop in a practical setting.",
-    "scope": "Both",
-    "category": "General",
-    "tagline": "Git. Set. Fork.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 9,
-      "label": "9h"
     }
   },
   {
@@ -8477,7 +8229,7 @@
   },
   {
     "id": "17b42ee2-acdd-4aa0-8efb-7250c6e9178a",
-    "name": "Introduction to Linux",
+    "name": "250.0",
     "type": "Workshop",
     "club": "INTERNET OF THINGS COMMUNITY (IOTHINC)",
     "start_date": "2026-09-20T14:00:00Z",
@@ -8637,47 +8389,6 @@
       "days": 1,
       "hours": 4,
       "label": "4h"
-    }
-  },
-  {
-    "id": "ee69a109-1c42-4154-be56-895d7a7e0497",
-    "name": "Prompt Pursuit",
-    "type": "Competition",
-    "club": "MOZILLA FIREFOX",
-    "start_date": "2026-09-20T14:00:00Z",
-    "end_date": "2026-09-20T19:00:00Z",
-    "venue": "Dr. Ambedkar Auditorium",
-    "team_size": "2-4",
-    "price": 250,
-    "short_description": "Prompt Pursuit is a unique AI-powered challenge where participants are shown AI-generated \nimages and must reverse-engineer the prompts used to create them. Contestants will analyze visual details, artistic styles, compositions, and contextual cues to craft prompts that most closely recreate the original output. The event tests creativity, observation skills, and understanding of generative AI systems, offering a fresh perspective on prompt engineering. With multiple rounds of increasing difficulty, participants will compete to uncover the hidden instructions behind stunning AI-generated visuals, making Prompt Pursuit an engaging blend of technology, logic, and imagination.",
-    "scope": "Both",
-    "category": "General",
-    "tagline": "Decode the Image. Discover the prompt.",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "team-based",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 5,
-      "label": "5h"
     }
   },
   {
