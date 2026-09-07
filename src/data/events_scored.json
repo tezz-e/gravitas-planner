@@ -129,50 +129,6 @@
     }
   },
   {
-    "id": "3cd06454-d26e-4770-83ec-1f222f9d19ab",
-    "name": "Rovaris",
-    "type": "Workshop",
-    "club": "ASTRONOMY CLUB- VIT STELLAR",
-    "start_date": "2026-09-05T09:00:00Z",
-    "end_date": "2026-09-06T17:00:00Z",
-    "venue": "PRP 539, Rajaji Hall",
-    "team_size": "4-5",
-    "price": 1250,
-    "short_description": "Ever wondered what it feels like to be part of a Mars mission? ROVARIS lets you step into the world of space technology through an exciting blend of learning, strategy, and hands-on rover building. Day 1 kicks off with an expert-led rover workshop followed by software-based mission challenges where strategy and teamwork are key. Day 2 brings the experience to life as participants build and operate their own rover on a Mars-inspired terrain, with each team getting to keep the rover they assemble. Learn, compete, build, and explore—all in one unforgettable experience. No prior knowledge required—just bring your curiosity and your team!",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Build the Rover. Conquer the Terrain.",
-    "is_team": false,
-    "scores": {
-      "robotics": 70,
-      "iot": 0,
-      "ai_ml": 40,
-      "hackathons": 5,
-      "startups": 0,
-      "webdev": 55,
-      "cybersecurity": 0,
-      "electronics": 20,
-      "cad_design": 50,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 30
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "workshop-style",
-      "hands-on",
-      "take-home-kit",
-      "premium",
-      "team-based"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 32,
-      "label": "2 days (32h)"
-    }
-  },
-  {
     "id": "02fc269d-2915-4339-8ae1-d180d7a0525c",
     "name": "Robosprint",
     "type": "Workshop",
@@ -255,47 +211,6 @@
       "days": 2,
       "hours": 33,
       "label": "2 days (33h)"
-    }
-  },
-  {
-    "id": "c35a1b63-2d37-4650-a8eb-1003a3328b02",
-    "name": "RUN BEYOND LIMIT",
-    "type": "Workshop",
-    "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-06T06:00:00Z",
-    "end_date": "2026-09-06T07:00:00Z",
-    "venue": "VIT CAMPUS",
-    "team_size": "1",
-    "price": 0,
-    "short_description": "Run Beyond Limits is an engaging marathon workshop that combines physical endurance, fitness awareness, and practical knowledge about running. Participants will learn about warm-up techniques, running posture, pacing, hydration, injury prevention, and endurancebuilding strategies before participating in a guided running activity. The workshop aims to promote fitness, discipline, healthy lifestyles, and awareness about safe running practices among students.",
-    "scope": "internal",
-    "category": "General",
-    "tagline": "Run. Endure. Conquer.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "free",
-      "open-to-all",
-      "solo",
-      "workshop"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 1,
-      "label": "1h"
     }
   },
   {
@@ -4146,47 +4061,6 @@
       "days": 3,
       "hours": 57,
       "label": "3 days (57h)"
-    }
-  },
-  {
-    "id": "e0a715b1-41ca-48d4-bc5e-bc7990714276",
-    "name": "Aerovision 2.0",
-    "type": "Workshop",
-    "club": "AMERICAN SOCIETY OF MECHANICAL ENGINEERS (ASME)",
-    "start_date": "2026-09-18T09:00:00Z",
-    "end_date": "2026-09-19T02:00:00Z",
-    "venue": "SMV 116",
-    "team_size": "1-4",
-    "price": 300,
-    "short_description": "Ever looked at a plane and wondered how it actually stays up there? AeroVision 2.0 is where you find out -  and then design one yourself. No prior aerospace knowledge needed, just show up curious. You'll go from aerodynamics 101 to hands-on with XFLR5 and Fusion 360, then put it all to the test in an overnight ideathon where your team designs, analyses, and pitches an original aircraft concept. It's the perfect first step into aerospace — real tools, real learning, real prizes (including a SolidWorks license) waiting at the finish line.",
-    "scope": "Both",
-    "category": "General",
-    "tagline": "Where Ideas Take Flight - Design, Simulate, Soar.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "workshop"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 17,
-      "label": "17h"
     }
   },
   {
@@ -8229,7 +8103,7 @@
   },
   {
     "id": "17b42ee2-acdd-4aa0-8efb-7250c6e9178a",
-    "name": "250.0",
+    "name": "Introduction to Linux",
     "type": "Workshop",
     "club": "INTERNET OF THINGS COMMUNITY (IOTHINC)",
     "start_date": "2026-09-20T14:00:00Z",
