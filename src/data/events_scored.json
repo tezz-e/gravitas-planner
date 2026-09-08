@@ -1,190 +1,18 @@
 [
   {
-    "id": "b36d1661-f49d-451f-980f-f262a5d92594",
-    "name": "THE COSMOS PROTOCOL",
+    "id": "41260d73-14d7-4747-961f-ab886f9834cf",
+    "name": "Godrej Enterprises Group Hackathon Challenge",
     "type": "Hackathon",
-    "club": "THE BIOTECH RESEARCH SOCIETY INDIA (BRSI)",
-    "start_date": "2026-09-05T08:00:00Z",
-    "end_date": "2026-09-06T18:00:00Z",
-    "venue": "VOC Gallery - II, Kamraj Auditorium",
+    "club": "School of Computer Science and Engineering",
+    "start_date": "2026-08-27T00:00:00Z",
+    "end_date": "2026-09-18T00:00:00Z",
+    "venue": "CDC Panel Room",
     "team_size": "3-5",
-    "price": 200,
-    "short_description": "Something came back from the mission that wasn't supposed to be alive. Now the colony is failing and a crew member is down. The Cosmos Protocol is a 2-day computational biology hackathon where you either decode an unknown alien-origin organism from raw gene sequences, or design a computational antibody to save an infected crew member. Day 1 you investigate. Day 2 every team converges on the same crisis and defends their answer. No wet lab. No coding required. No prior experience needed. Just science under pressure.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Discovery has Consequences",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 30,
-      "hackathons": 70,
-      "startups": 0,
-      "webdev": 20,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 15,
-      "general_fun": 0
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "hackathon-style",
-      "team-based"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 34,
-      "label": "2 days (34h)"
-    }
-  },
-  {
-    "id": "5e59066f-d6d4-4807-a972-e8378389ffb7",
-    "name": "Hands on robotics",
-    "type": "Workshop",
-    "club": "RoboVITics",
-    "start_date": "2026-09-05T08:00:00Z",
-    "end_date": "2026-09-06T20:00:00Z",
-    "venue": "Shakespeare Gallery - I",
-    "team_size": "Solo",
-    "price": 840,
-    "short_description": "Dive into the exciting world of robotics with this interactive 2-day workshop! The experience begins with a solid grounding in microcontrollers and communication protocols, applying these concepts through beginner-friendly projects using the ESP32. The participants will create and code their custom webpage with an interactive User-Interface. Everything comes together by building a 2-wheel-drive robot from scratch and linking it directly to a smartphone. By the end of this workshop, participants will have built a fully functional robot that responds in real time to smartphone tilt-to-steer controls.",
+    "price": 0,
+    "short_description": "",
     "scope": "internal_only",
     "category": "Premium",
-    "tagline": "Build, code, and command your own t in just 2 days!",
-    "is_team": false,
-    "scores": {
-      "robotics": 90,
-      "iot": 75,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 55,
-      "cybersecurity": 0,
-      "electronics": 60,
-      "cad_design": 10,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 45
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "workshop-style",
-      "hands-on",
-      "beginner-friendly",
-      "premium",
-      "solo",
-      "internal-only"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 35,
-      "label": "2 days (35h)"
-    }
-  },
-  {
-    "id": "8b5089ef-e645-400d-a08d-0b087b2e6d51",
-    "name": "WE Hack 5.0",
-    "type": "Hackathon",
-    "club": "IEEE WOMEN IN ENGINEERING (IEEE-WIE)",
-    "start_date": "2026-09-05T08:00:00Z",
-    "end_date": "2026-09-06T19:00:00Z",
-    "venue": "Homi Baba Gallery, Sarojini Naidu Gallery, VOC Gallery - II",
-    "team_size": "3-5",
-    "price": 150,
-    "short_description": "WE Hack 5.0 is a 36-hour hackathon where engineers from every branch come together to build real solutions to real problems. Not just software. Not just CS. Mechanical, civil, biomedical, electrical, electronics, AI and more, all in one room, building together. 200+ participants. 4 cross-domain themes. One shot to build something that actually matters. You get 36 hours of non-stop building, 24/7 mentor access to keep you unblocked, and a seat at an exclusive networking dinner with industry professionals. The teams that show up ready to build walk away with more than a prize. Spots are limited. Build with us.",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Where WE build what’s next.",
-    "is_team": true,
-    "scores": {
-      "robotics": 24,
-      "iot": 0,
-      "ai_ml": 40,
-      "hackathons": 85,
-      "startups": 0,
-      "webdev": 30,
-      "cybersecurity": 0,
-      "electronics": 30,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 10
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "hackathon-style",
-      "hands-on",
-      "premium",
-      "team-based"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 36,
-      "label": "2 days (36h)"
-    }
-  },
-  {
-    "id": "02fc269d-2915-4339-8ae1-d180d7a0525c",
-    "name": "Robosprint",
-    "type": "Workshop",
-    "club": "IEEE -COMMUNICATIONS SOCIETY (IEEE-COMSOC)",
-    "start_date": "2026-09-05T10:00:00Z",
-    "end_date": "2026-09-06T18:00:00Z",
-    "venue": "MB 210 (seminar hall)",
-    "team_size": "Solo",
-    "price": 699,
-    "short_description": "This hands-on workshop introduces students to the fundamentals of electronics through the process of building real-world hardware projects from scratch. Participants will learn core electronic concepts, understand the logic behind hardware and software integration, write the code that powers their projects, and assemble a fully functional prototype. The workshop also includes an introduction to 3D printing, enabling students to design and fabricate custom components, providing a complete end-to-end product development experience.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Build. Code. Create. From First Circuit to Functional Prototype.",
-    "is_team": false,
-    "scores": {
-      "robotics": 60,
-      "iot": 40,
-      "ai_ml": 0,
-      "hackathons": 20,
-      "startups": 8,
-      "webdev": 50,
-      "cybersecurity": 0,
-      "electronics": 90,
-      "cad_design": 41,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 10
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "workshop-style",
-      "hands-on",
-      "beginner-friendly",
-      "solo"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 32,
-      "label": "2 days (32h)"
-    }
-  },
-  {
-    "id": "4da21e17-096a-4947-b62f-6dfb1e6c132e",
-    "name": "HackXpertise 3.0",
-    "type": "Hackathon",
-    "club": "IEEE - TECHNOLOGY AND ENGINEERING MANAGEMENT SOCIETY ( IEEE-TEMS)",
-    "start_date": "2026-09-05T10:00:00Z",
-    "end_date": "2026-09-06T18:00:00Z",
-    "venue": "Kamraj Auditorium, CDMM 213",
-    "team_size": "2-4",
-    "price": 200,
-    "short_description": "HackXpertise is a flagship event organized by the IEEE TEMS Chapter, VIT Vellore, during graVITas. It is a 2 day event with a Figma workshop on the first day and a hackathon on the second day.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Innovation Begins with Expertise.",
+    "tagline": "-",
     "is_team": false,
     "scores": {
       "robotics": 0,
@@ -201,100 +29,18 @@
       "general_fun": 0
     },
     "tags": [
-      "paid",
-      "open-to-all",
+      "free",
+      "internal-only",
       "solo",
       "hackathon",
-      "multi-day"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 33,
-      "label": "2 days (33h)"
-    }
-  },
-  {
-    "id": "2eec8af0-d7cc-49f3-96cf-a10f75de29a8",
-    "name": "HackVerse 2026",
-    "type": "Competition",
-    "club": "School of Computer Science and Engineering",
-    "start_date": "2026-09-06T08:00:00Z",
-    "end_date": "2026-09-07T21:00:00Z",
-    "venue": "TT 513",
-    "team_size": "2",
-    "price": 300,
-    "short_description": "HackVerse 2026 is a 24-hour national-level Capture The Flag (CTF) competition focused on practical cybersecurity skills. Participants compete in teams of two and solve 60 challenges across Web Security, Cryptography, Reverse Engineering, Digital Forensics, Binary Exploitation, OSINT, Steganography, and other security domains. The competition encourages ethical hacking, teamwork, analytical thinking, and responsible security practices.",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Solve Cyber Challenges. Capture Flags. Lead the Board.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "competitive",
       "multi-day",
+      "overnight",
       "premium"
     ],
     "duration": {
-      "days": 2,
-      "hours": 35,
-      "label": "2 days (35h)"
-    }
-  },
-  {
-    "id": "752e4f07-d7ff-47f1-aa22-d7cc3b548c52",
-    "name": "Through Their Eyes",
-    "type": "Workshop",
-    "club": "ANOKHA",
-    "start_date": "2026-09-06T11:00:00Z",
-    "end_date": "2026-09-06T17:00:00Z",
-    "venue": "TT 331",
-    "team_size": "2",
-    "price": 110,
-    "short_description": "Ready to see the world differently? Step into the shoes of a visually impaired person and take on exciting blindfolded challenges that will test your senses in ways you never imagined. Finish by creating your own beaded bracelet—and take home a unique keepsake along with a whole new perspective. Think you can do it?",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "Experience a world without sight",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "internal-only",
-      "solo",
-      "workshop"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 6,
-      "label": "6h"
+      "days": 22,
+      "hours": 528,
+      "label": "22 days (528h)"
     }
   },
   {
@@ -339,88 +85,6 @@
       "days": 3,
       "hours": 51,
       "label": "3 days (51h)"
-    }
-  },
-  {
-    "id": "9023a025-f930-4937-95c7-24437c43c24f",
-    "name": "Bad Idea Billionaires 2.0",
-    "type": "Competition",
-    "club": "ODISHA LITERARY ASSOCIATION (UTKAL SAMAJ)",
-    "start_date": "2026-09-06T14:00:00Z",
-    "end_date": "2026-09-06T20:00:00Z",
-    "venue": "MGB 111",
-    "team_size": "2-4",
-    "price": 169,
-    "short_description": "Tech Edition challenges participants to transform the most absurd, impractical, and technically flawed technology concepts into convincing unicorn startup pitches. Armed with technical jargon, innovation frameworks, and persuasive storytelling, teams must sell ideas that should never work—but somehow do. The crazier the concept, the greater the challenge of making judges believe it's the next breakthrough in technology.",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "Innovative the impossible. Pitch the ridiculous.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 20,
-      "hackathons": 0,
-      "startups": 70,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 50
-    },
-    "tags": [
-      "single-day",
-      "competitive",
-      "team-based",
-      "internal-only"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 7,
-      "label": "1 day (7h)"
-    }
-  },
-  {
-    "id": "921fd71c-c043-4669-9858-9522bc33d996",
-    "name": "Eyes of Ender",
-    "type": "Competition",
-    "club": "AMERICAN INSTITUTE OF CHEMICAL ENGINEERS (AICHE)",
-    "start_date": "2026-09-06T18:00:00Z",
-    "end_date": "2026-09-07T06:00:00Z",
-    "venue": "SMV G26 + SMV G26A",
-    "team_size": "1-5",
-    "price": 200,
-    "short_description": "Eyes of Ender is an immersive overnight Minecraft-inspired adventure where teams enter a block-based world of resource collection, problem-solving, strategy, and scientific challenges. Participants progress through stages like Mining, Crafting Table, Villager Trading, Enchantment Table, and Brewing Stand while applying creativity, teamwork, and innovation. The journey concludes in The End, where teams battle the Ender Dragon and compete to claim the legendary Dragon Egg as their final reward.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "From Blocks to Brews, One Legendary Night.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 12,
-      "label": "12h"
     }
   },
   {
@@ -506,6 +170,47 @@
       "days": 1,
       "hours": 11,
       "label": "11h"
+    }
+  },
+  {
+    "id": "6dc45644-e36b-48f1-b219-4ea3351b3335",
+    "name": "Godrej Enterprises Group Keynote Session",
+    "type": "Other Events",
+    "club": "School of Computer Science and Engineering",
+    "start_date": "2026-09-08T14:00:00Z",
+    "end_date": "2026-09-08T16:00:00Z",
+    "venue": "Online",
+    "team_size": "1",
+    "price": 0,
+    "short_description": "",
+    "scope": "",
+    "category": "Premium",
+    "tagline": "-",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "free",
+      "open-to-all",
+      "solo",
+      "premium"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 2,
+      "label": "2h"
     }
   },
   {
@@ -971,7 +676,7 @@
   },
   {
     "id": "e79f0238-ce76-4470-ab15-65680d815e8b",
-    "name": "Global Skills for Future Managers",
+    "name": "WORKSHOP ON POWER BI",
     "type": "Workshop",
     "club": "VIT Business School",
     "start_date": "2026-09-12T09:00:00Z",
@@ -1100,7 +805,7 @@
     "type": "Others",
     "club": "VISUAL BLOGGER'S CLUB",
     "start_date": "2026-09-12T10:00:00Z",
-    "end_date": "2026-09-13T18:00:00Z",
+    "end_date": "2026-09-12T18:00:00Z",
     "venue": "CDMM 304",
     "team_size": "1-4",
     "price": 150,
@@ -3606,48 +3311,6 @@
     }
   },
   {
-    "id": "62823f83-a3ab-48ed-a82c-837e7f661e89",
-    "name": "Blockchain Unchained: Technology, Trends, and Tomorrow",
-    "type": "Workshop",
-    "club": "School of Computer Science and Engineering",
-    "start_date": "2026-09-18T09:00:00Z",
-    "end_date": "2026-09-18T18:00:00Z",
-    "venue": "TT 311",
-    "team_size": "Solo",
-    "price": 250,
-    "short_description": "“Blockchain Unchained: Technology, Trends, and Tomorrow” is a one-day workshop that introduces participants to blockchain fundamentals, its role in security, real-world applications, and career opportunities. It also helps participants understand how blockchain can address real-world problems and its growing importance in everyday life.",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Blockchain Unchained: Technology, Trends, and  Tomorrow",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "workshop",
-      "premium"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 9,
-      "label": "9h"
-    }
-  },
-  {
     "id": "6f1889eb-a0d3-49fa-89f0-6b73d1a30fe4",
     "name": "The Micro-Habitat: The Micro Living Challenge",
     "type": "Competition",
@@ -4061,6 +3724,47 @@
       "days": 3,
       "hours": 57,
       "label": "3 days (57h)"
+    }
+  },
+  {
+    "id": "e0a715b1-41ca-48d4-bc5e-bc7990714276",
+    "name": "Aerovision 2.0",
+    "type": "Workshop",
+    "club": "AMERICAN SOCIETY OF MECHANICAL ENGINEERS (ASME)",
+    "start_date": "2026-09-18T09:00:00Z",
+    "end_date": "2026-09-19T02:00:00Z",
+    "venue": "SMV 116",
+    "team_size": "1-4",
+    "price": 300,
+    "short_description": "Ever looked at a plane and wondered how it actually stays up there? AeroVision 2.0 is where you find out -  and then design one yourself. No prior aerospace knowledge needed, just show up curious. You'll go from aerodynamics 101 to hands-on with XFLR5 and Fusion 360, then put it all to the test in an overnight ideathon where your team designs, analyses, and pitches an original aircraft concept. It's the perfect first step into aerospace — real tools, real learning, real prizes (including a SolidWorks license) waiting at the finish line.",
+    "scope": "Both",
+    "category": "General",
+    "tagline": "Where Ideas Take Flight - Design, Simulate, Soar.",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "solo",
+      "workshop"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 17,
+      "label": "17h"
     }
   },
   {
@@ -4527,7 +4231,7 @@
     "type": "Workshop",
     "club": "School of Computer Science and Engineering",
     "start_date": "2026-09-18T10:00:00Z",
-    "end_date": "2026-09-19T18:00:00Z",
+    "end_date": "2026-09-19T17:00:00Z",
     "venue": "PRP 347",
     "team_size": "1",
     "price": 296,
@@ -5643,48 +5347,6 @@
     }
   },
   {
-    "id": "8e3664bc-3362-457b-a9bb-e6edd74aeb3a",
-    "name": "CADEX",
-    "type": "Hackathon",
-    "club": "AMERICAN SOCIETY OF MECHANICAL ENGINEERS (ASME)",
-    "start_date": "2026-09-18T21:00:00Z",
-    "end_date": "2026-09-19T09:00:00Z",
-    "venue": "Kamaraj Auditorium",
-    "team_size": "1-4",
-    "price": 300,
-    "short_description": "Cadathon with finance constraint in which price of components fluctuates on the basis of supply and demand.",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Dream.Bid.Design",
-    "is_team": true,
-    "scores": {
-      "robotics": 8,
-      "iot": 0,
-      "ai_ml": 20,
-      "hackathons": 60,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 10,
-      "cad_design": 85,
-      "gaming": 0,
-      "finance": 40,
-      "general_fun": 0
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "hackathon-style",
-      "premium",
-      "team-based"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 24,
-      "label": "2 days (24h)"
-    }
-  },
-  {
     "id": "c7a283fd-dcd8-4f23-ae56-f107dff0dcfa",
     "name": "Beyond XI : FIFA Football Auction",
     "type": "Competition",
@@ -6110,7 +5772,7 @@
     "start_date": "2026-09-19T08:00:00Z",
     "end_date": "2026-09-19T20:00:00Z",
     "venue": "PRP 250",
-    "team_size": "3-5",
+    "team_size": "1-3",
     "price": 150,
     "short_description": "MedTech Roulette challenges teams to solve real-world healthcare problems using randomly assigned technologies. Design, prototype, and defend your solution as clinical curveballs and stakeholder hurdles put your innovation to the ultimate test.",
     "scope": "Both",
@@ -6870,47 +6532,6 @@
       "days": 1,
       "hours": 5,
       "label": "1 day (5h)"
-    }
-  },
-  {
-    "id": "a9f7c8c1-db16-42a9-9f39-e8cd2db10c55",
-    "name": "BlockPitch 2026 – Blockchain Innovation Challenge",
-    "type": "Hackathon",
-    "club": "School of Computer Science and Engineering",
-    "start_date": "2026-09-19T10:00:00Z",
-    "end_date": "2026-09-19T17:00:00Z",
-    "venue": "SJT 315, 316",
-    "team_size": "2-4",
-    "price": 212,
-    "short_description": "BlockPitch 2026 – Blockchain Innovation Challenge is a one-day idea-pitching hackathon conducted as part of the technical symposium. The event provides participants with an opportunity to identify real-world problems and propose innovative blockchain-based solutions.",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Ideathon - Blockchain Idea Pitching Hackathon",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 60,
-      "hackathons": 60,
-      "startups": 70,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 25,
-      "finance": 75,
-      "general_fun": 20
-    },
-    "tags": [
-      "single-day",
-      "hackathon-style",
-      "premium",
-      "team-based"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 7,
-      "label": "1 day (7h)"
     }
   },
   {
