@@ -44,50 +44,6 @@
     }
   },
   {
-    "id": "0eba5a6f-2687-416c-acd7-c51419433366",
-    "name": "Code2Create 7.0",
-    "type": "Hackathon",
-    "club": "ASSOCIATION FOR COMPUTING MACHINERY (ACM)",
-    "start_date": "2026-09-06T13:00:00Z",
-    "end_date": "2026-09-08T13:00:00Z",
-    "venue": "Anna Auditorium",
-    "team_size": "2-5",
-    "price": 0,
-    "short_description": "Code2Create 7.0 is ACM-VIT's legacy 48-hour national hackathon and one of VIT's largest student-led technical events. Built around the idea of turning \"\"what if\"\" into \"\"what's next,\"\" it brings together hundreds of passionate developers, designers, and innovators from leading institutions across India to collaborate, compete, and create technology that addresses real-world challenges. With carefully curated problem statements, dedicated mentorship from industry experts, multiple evaluation rounds, and a competitive final showcase, Code2Create provides participants with an immersive platform to transform bold ideas into impactful solutions while learning, networking, and pushing the boundaries of innovation.\nDon't just code for the vibes, Code2Create!",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Don’t just code for the vibes, Code2Create.",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "free",
-      "open-to-all",
-      "team-based",
-      "hackathon",
-      "multi-day",
-      "overnight",
-      "premium"
-    ],
-    "duration": {
-      "days": 3,
-      "hours": 51,
-      "label": "3 days (51h)"
-    }
-  },
-  {
     "id": "822b6785-6cde-48a3-affc-35e0364d30a1",
     "name": "REBORN x BGMI",
     "type": "Competition",
@@ -129,88 +85,6 @@
       "days": 3,
       "hours": 58,
       "label": "3 days (58h)"
-    }
-  },
-  {
-    "id": "fc1e07f0-b0ea-409d-9fdc-dd39f8c43e7f",
-    "name": "Project Renaissance",
-    "type": "Competition",
-    "club": "Spanish Literary Association & French Literary Association",
-    "start_date": "2026-09-08T09:00:00Z",
-    "end_date": "2026-09-08T20:00:00Z",
-    "venue": "SMV 309 + SMV 310",
-    "team_size": "1-4",
-    "price": 150,
-    "short_description": "Project Renaissance is an immersive, beginner-friendly kingdom-themed innovation challenge that brings together strategists, creators, and problem-solvers to transform historical issues into inventive solutions. Acting as the elite task force, participants embark on a thrilling treasure hunt to uncover hidden kingdom secrets, forge their strategies during a high-stakes ideathon and bring their projects to life before defending their solutions in the final review phase in front of a royal council, all while competing for ultimate prizes  at the end.",
-    "scope": "Internal_only",
-    "category": "General",
-    "tagline": "Reviving Civilizations Through Innovation.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 11,
-      "label": "11h"
-    }
-  },
-  {
-    "id": "6dc45644-e36b-48f1-b219-4ea3351b3335",
-    "name": "Godrej Enterprises Group Keynote Session",
-    "type": "Other Events",
-    "club": "School of Computer Science and Engineering",
-    "start_date": "2026-09-08T14:00:00Z",
-    "end_date": "2026-09-08T16:00:00Z",
-    "venue": "Online",
-    "team_size": "1",
-    "price": 0,
-    "short_description": "",
-    "scope": "",
-    "category": "Premium",
-    "tagline": "-",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "free",
-      "open-to-all",
-      "solo",
-      "premium"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 2,
-      "label": "2h"
     }
   },
   {
@@ -684,7 +558,7 @@
     "venue": "PRP 759",
     "team_size": "Solo",
     "price": 100,
-    "short_description": "Global Skills for Future Managers – graVITas 2026 “Leading Across Borders, Cultures, and Technology” is a full-day, team-based workshop for MBA students, tentatively scheduled for 11 September 2026. It focuses on preparing future managers for an AI-driven global business environment through practical learning and competitions. � Global_Skills_for_Future_Managers_graVITas (2).pdf The event includes: AI & Digital Skills for managers AI-assisted, data-driven decision making AI Prompt Challenge to solve real business problems Strategic thinking and decision making International Business Expansion Case Study Global Manager Challenge involving negotiation, cultural communication, AI problem-solving, and supply-chain situations � � Global_Skills_for_Future_Managers_graVITas (2).pdf Global_Skills_for_Future_Managers_graVITas (2).pdf Overall, the event aims to develop AI proficiency, critical thinking, problem-solving, strategic decision-making, collaboration, and global management skills needed by future managers.",
+    "short_description": "Explore Power BI fundamentals, business intelligence, data cleaning, and transformation while learning to create interactive dashboards and effective visualizations. Participants will learn to identify trends, generate meaningful business insights, and apply analytics to real-world decision-making. The session will provide practical exposure to transforming raw data into actionable insights.",
     "scope": "internal_only",
     "category": "Premium",
     "tagline": "“Leading Across Borders, Cultures, and Technology”",
@@ -924,88 +798,6 @@
       "days": 1,
       "hours": 24,
       "label": "1 day (24h)"
-    }
-  },
-  {
-    "id": "00ee1bdd-63a2-4a1d-abd1-5c66a31a27cd",
-    "name": "VIT RUNFEST 2026 WOMEN",
-    "type": "Competition",
-    "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-13T06:00:00Z",
-    "end_date": "2026-09-13T07:00:00Z",
-    "venue": "VIT CAMPUS",
-    "team_size": "1",
-    "price": 0,
-    "short_description": "VIT RunFest 2026 is a competitive marathon event designed to promote fitness, endurance, discipline, and sportsmanship among students. Participants will compete individually on a designated route, with rankings determined by completion time. The event aims to provide an exciting and challenging running experience while encouraging students to push their limits and embrace a healthy lifestyle.",
-    "scope": "internal",
-    "category": "General",
-    "tagline": "Run. Endure. Conquer.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "free",
-      "open-to-all",
-      "solo",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 1,
-      "label": "1h"
-    }
-  },
-  {
-    "id": "01ee1bdd-63a2-4a1d-abd1-5c66a31a27cd",
-    "name": "VIT RUNFEST 2026 MEN",
-    "type": "Competition",
-    "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-13T06:00:00Z",
-    "end_date": "2026-09-13T07:00:00Z",
-    "venue": "VIT CAMPUS",
-    "team_size": "1",
-    "price": 0,
-    "short_description": "VIT RunFest 2026 is a competitive marathon event designed to promote fitness, endurance, discipline, and sportsmanship among students. Participants will compete individually on a designated route, with rankings determined by completion time. The event aims to provide an exciting and challenging running experience while encouraging students to push their limits and embrace a healthy lifestyle.",
-    "scope": "internal",
-    "category": "General",
-    "tagline": "Run. Endure. Conquer.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "free",
-      "open-to-all",
-      "solo",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 1,
-      "label": "1h"
     }
   },
   {
@@ -1715,6 +1507,88 @@
     }
   },
   {
+    "id": "00ee1bdd-63a2-4a1d-abd1-5c66a31a27cd",
+    "name": "VIT RUNFEST 2026 WOMEN",
+    "type": "Competition",
+    "club": "Esports, Creative and TechnoSports Committee",
+    "start_date": "2026-09-16T05:30:00Z",
+    "end_date": "2026-09-16T07:30:00Z",
+    "venue": "VIT CAMPUS",
+    "team_size": "1",
+    "price": 0,
+    "short_description": "VIT RunFest 2026 is a competitive marathon event designed to promote fitness, endurance, discipline, and sportsmanship among students. Participants will compete individually on a designated route, with rankings determined by completion time. The event aims to provide an exciting and challenging running experience while encouraging students to push their limits and embrace a healthy lifestyle.",
+    "scope": "internal",
+    "category": "General",
+    "tagline": "Run. Endure. Conquer.",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "free",
+      "open-to-all",
+      "solo",
+      "competitive"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 1,
+      "label": "1h"
+    }
+  },
+  {
+    "id": "01ee1bdd-63a2-4a1d-abd1-5c66a31a27cd",
+    "name": "VIT RUNFEST 2026 MEN",
+    "type": "Competition",
+    "club": "Esports, Creative and TechnoSports Committee",
+    "start_date": "2026-09-16T05:30:00Z",
+    "end_date": "2026-09-16T07:30:00Z",
+    "venue": "VIT CAMPUS",
+    "team_size": "1",
+    "price": 0,
+    "short_description": "VIT RunFest 2026 is a competitive marathon event designed to promote fitness, endurance, discipline, and sportsmanship among students. Participants will compete individually on a designated route, with rankings determined by completion time. The event aims to provide an exciting and challenging running experience while encouraging students to push their limits and embrace a healthy lifestyle.",
+    "scope": "internal",
+    "category": "General",
+    "tagline": "Run. Endure. Conquer.",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "free",
+      "open-to-all",
+      "solo",
+      "competitive"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 1,
+      "label": "1h"
+    }
+  },
+  {
     "id": "0615fb4d-78b0-4a7c-bc52-ba4cccee2ee6",
     "name": "Clueminati 4.0",
     "type": "Others",
@@ -1795,47 +1669,6 @@
       "days": 2,
       "hours": 30,
       "label": "2 days (30h)"
-    }
-  },
-  {
-    "id": "7ec6bae7-8ed6-4f81-8baa-596b0c983cb4",
-    "name": "HackGrid",
-    "type": "Hackathon",
-    "club": "Advanced Developers Group (ADG)",
-    "start_date": "2026-09-16T08:00:00Z",
-    "end_date": "2026-09-17T06:00:00Z",
-    "venue": "Bhagat Singh Gallery, Homi Baba Gallery",
-    "team_size": "2-5",
-    "price": 200,
-    "short_description": "HackGrid ’26 is a pre-fest hackathon for Gravitas, VIT’s annual technical fest, designed to simulate the experience of building a real startup. Participants build SaaS solutions for real-world problems while balancing technology, creativity, and business strategy.",
-    "scope": "Both",
-    "category": "General",
-    "tagline": "BID.BUILD.COMPETE",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "hackathon"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 22,
-      "label": "22h"
     }
   },
   {
@@ -5182,6 +5015,46 @@
     }
   },
   {
+    "id": "eb25cd9f-ac59-4e72-820c-fb6e064c78de",
+    "name": "TruthLens",
+    "type": "Competition",
+    "club": "FIFTH (5TH)PILLAR",
+    "start_date": "2026-09-18T14:00:00Z",
+    "end_date": "2026-09-18T18:00:00Z",
+    "venue": "TT 331",
+    "team_size": "1-4",
+    "price": 150,
+    "short_description": "TruthLens is an investigation-based challenge where teams act as special investigators tasked with uncovering corruption in a Smart City project. Participants progress through multiple rounds, completing challenges to unlock new evidence and gradually piece together the case. By the end, teams must identify where the corruption occurred, determine the main culprit, and present a well-supported investigation based on the evidence collected.",
+    "scope": "both",
+    "category": "General",
+    "tagline": "Follow the money",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 10,
+      "ai_ml": 20,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 45,
+      "general_fun": 50
+    },
+    "tags": [
+      "single-day",
+      "competitive",
+      "team-based"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 4,
+      "label": "1 day (4h)"
+    }
+  },
+  {
     "id": "a1b239ae-ca41-4ca0-a39f-820a8c367815",
     "name": "VINHACK",
     "type": "Hackathon",
@@ -5221,46 +5094,6 @@
       "days": 2,
       "hours": 35,
       "label": "2 days (35h)"
-    }
-  },
-  {
-    "id": "eb25cd9f-ac59-4e72-820c-fb6e064c78de",
-    "name": "TruthLens",
-    "type": "Competition",
-    "club": "FIFTH (5TH)PILLAR",
-    "start_date": "2026-09-18T14:00:00Z",
-    "end_date": "2026-09-18T18:00:00Z",
-    "venue": "TT 331",
-    "team_size": "1-4",
-    "price": 150,
-    "short_description": "TruthLens is an investigation-based challenge where teams act as special investigators tasked with uncovering corruption in a Smart City project. Participants progress through multiple rounds, completing challenges to unlock new evidence and gradually piece together the case. By the end, teams must identify where the corruption occurred, determine the main culprit, and present a well-supported investigation based on the evidence collected.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Follow the money",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 10,
-      "ai_ml": 20,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 45,
-      "general_fun": 50
-    },
-    "tags": [
-      "single-day",
-      "competitive",
-      "team-based"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 4,
-      "label": "1 day (4h)"
     }
   },
   {
@@ -6302,7 +6135,7 @@
     "team_size": "1-4",
     "price": 169,
     "short_description": "Ecopreneurs is a 2-day Sustainability Product Design Hackathon that brings together students from diverse disciplines to create innovative solutions for environmental and societal challenges. Aligned with SDGs 7, 9, 11, 12, and 13, the event focuses on sustainable product innovation. Day 1 involves ideation, research, and design development, while Day 2 focuses on prototype development and pitching to an expert jury. The hackathon encourages interdisciplinary collaboration, creativity, entrepreneurship, and impact-driven design, providing participants with a platform to transform ideas into practical, sustainable solutions.",
-    "scope": "Internal_only",
+    "scope": "both",
     "category": "General",
     "tagline": "Where sustainability meets entreuprenership",
     "is_team": false,
