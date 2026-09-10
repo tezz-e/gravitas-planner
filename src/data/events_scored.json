@@ -44,50 +44,6 @@
     }
   },
   {
-    "id": "822b6785-6cde-48a3-affc-35e0364d30a1",
-    "name": "REBORN x BGMI",
-    "type": "Competition",
-    "club": "TAG",
-    "start_date": "2026-09-07T09:00:00Z",
-    "end_date": "2026-09-09T19:00:00Z",
-    "venue": "MB 210",
-    "team_size": "4",
-    "price": 150,
-    "short_description": "🔥 Drop. Loot. Survive. Conquer.The ultimate campus BGMI showdown is here! Fight your way through the intense Group Stages to secure your spot in the Grand Finals, where the leaderboard resets and every squad gets a fresh chance at glory. Earn crucial finish points and survival points, outplay every lobby, and prove you have what it takes to claim the title, “Champions of the Campus”. 🏆⚔️",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Rising from the Ashes!",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "team-based",
-      "competitive",
-      "multi-day",
-      "overnight",
-      "premium"
-    ],
-    "duration": {
-      "days": 3,
-      "hours": 58,
-      "label": "3 days (58h)"
-    }
-  },
-  {
     "id": "7c28d075-f9f9-4305-be87-10deeb186514",
     "name": "F1 Championship",
     "type": "Competition",
@@ -128,47 +84,6 @@
       "days": 2,
       "hours": 34,
       "label": "2 days (34h)"
-    }
-  },
-  {
-    "id": "ecf3b145-55a1-4aa0-966f-719df207984b",
-    "name": "Think Tank Sessions",
-    "type": "Tech Talk",
-    "club": "GRAVITAS",
-    "start_date": "2026-09-09T11:00:00Z",
-    "end_date": "2026-09-09T13:00:00Z",
-    "venue": "Channa Reddy Auditorium",
-    "team_size": "1",
-    "price": 0,
-    "short_description": "Think Tank Sessions is an innovation-focused platform that brings together students, faculty, researchers, and industry professionals to explore ideas in new product development. The session will feature idea presentations, panel and thematic discussions, brainstorming, and collaboration on research, intellectual property, and commercialization, encouraging interdisciplinary collaboration and transforming promising ideas into impactful products and ventures.",
-    "scope": "internal_only",
-    "category": "Premium",
-    "tagline": "Building innovation platforms for new product development",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "free",
-      "internal-only",
-      "solo",
-      "premium"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 2,
-      "label": "2h"
     }
   },
   {
@@ -338,6 +253,47 @@
       "days": 2,
       "hours": 32,
       "label": "2 days (32h)"
+    }
+  },
+  {
+    "id": "c8f14ac4-2234-4e10-a858-b1a53f81df8a",
+    "name": "MetaBox '26",
+    "type": "Technical competition",
+    "club": "School of Architecture",
+    "start_date": "2026-09-11T09:00:00Z",
+    "end_date": "2026-09-11T12:00:00Z",
+    "venue": "MGB 208",
+    "team_size": "3-5",
+    "price": 0,
+    "short_description": "",
+    "scope": "internal_only",
+    "category": "Premium",
+    "tagline": "Prefabricated Housing Challenge",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "free",
+      "internal-only",
+      "solo",
+      "premium"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 3,
+      "label": "3h"
     }
   },
   {
@@ -549,48 +505,6 @@
     }
   },
   {
-    "id": "e79f0238-ce76-4470-ab15-65680d815e8b",
-    "name": "WORKSHOP ON POWER BI",
-    "type": "Workshop",
-    "club": "VIT Business School",
-    "start_date": "2026-09-12T09:00:00Z",
-    "end_date": "2026-09-12T13:00:00Z",
-    "venue": "PRP 759",
-    "team_size": "Solo",
-    "price": 100,
-    "short_description": "Explore Power BI fundamentals, business intelligence, data cleaning, and transformation while learning to create interactive dashboards and effective visualizations. Participants will learn to identify trends, generate meaningful business insights, and apply analytics to real-world decision-making. The session will provide practical exposure to transforming raw data into actionable insights.",
-    "scope": "internal_only",
-    "category": "Premium",
-    "tagline": "“Leading Across Borders, Cultures, and Technology”",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "internal-only",
-      "solo",
-      "workshop",
-      "premium"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 7,
-      "label": "7h"
-    }
-  },
-  {
     "id": "f0aad801-842b-4b18-99b1-e6055f5d6ddd",
     "name": "MyoSync",
     "type": "Workshop",
@@ -715,47 +629,45 @@
     }
   },
   {
-    "id": "eda4c7c5-1661-41db-a0e3-f6d3d687430a",
-    "name": "Dream Team 8.0",
-    "type": "Competition",
-    "club": "DREAM MERCHANTS",
-    "start_date": "2026-09-12T13:00:00Z",
-    "end_date": "2026-09-13T17:00:00Z",
-    "venue": "CDMM 213, Homi Baba Gallery",
-    "team_size": "1-5",
-    "price": 280,
-    "short_description": "Dream Team 8.0 is an IPL-style auction simulation where participants take on the role of franchise owners and compete to build the strongest cricket squad within a fixed budget. Through strategic bidding, resource management, and player evaluation, teams must assemble a balanced squad while navigating competitive auction dynamics and unique challenges. The event combines cricket knowledge, analytical thinking, and decision-making in an engaging franchise-management experience\nCompete for exciting cash prizes, showcase your auctioning skills, and prove you have what it takes to build the ultimate Dream Team!",
+    "id": "e79f0238-ce76-4470-ab15-65680d815e8b",
+    "name": "WORKSHOP ON POWER BI",
+    "type": "Workshop",
+    "club": "VIT Business School",
+    "start_date": "2026-09-12T10:00:00Z",
+    "end_date": "2026-09-12T16:00:00Z",
+    "venue": "PRP 759",
+    "team_size": "Solo",
+    "price": 100,
+    "short_description": "Explore Power BI fundamentals, business intelligence, data cleaning, and transformation while learning to create interactive dashboards and effective visualizations. Participants will learn to identify trends, generate meaningful business insights, and apply analytics to real-world decision-making. The session will provide practical exposure to transforming raw data into actionable insights.",
     "scope": "internal_only",
     "category": "Premium",
-    "tagline": "Buy the Best . Beat the Rest",
-    "is_team": true,
+    "tagline": "“Leading Across Borders, Cultures, and Technology”",
+    "is_team": false,
     "scores": {
-      "robotics": 8,
+      "robotics": 0,
       "iot": 0,
       "ai_ml": 0,
-      "hackathons": 5,
-      "startups": 10,
-      "webdev": 10,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
       "cybersecurity": 0,
-      "electronics": 10,
-      "cad_design": 10,
+      "electronics": 0,
+      "cad_design": 0,
       "gaming": 0,
-      "finance": 20,
-      "general_fun": 50
+      "finance": 0,
+      "general_fun": 0
     },
     "tags": [
-      "multi-day",
-      "overnight",
-      "competitive",
-      "hands-on",
-      "premium",
-      "team-based",
-      "internal-only"
+      "paid",
+      "internal-only",
+      "solo",
+      "workshop",
+      "premium"
     ],
     "duration": {
-      "days": 2,
-      "hours": 31,
-      "label": "2 days (31h)"
+      "days": 1,
+      "hours": 7,
+      "label": "7h"
     }
   },
   {
@@ -798,6 +710,50 @@
       "days": 1,
       "hours": 24,
       "label": "1 day (24h)"
+    }
+  },
+  {
+    "id": "eda4c7c5-1661-41db-a0e3-f6d3d687430a",
+    "name": "Dream Team 8.0",
+    "type": "Competition",
+    "club": "DREAM MERCHANTS",
+    "start_date": "2026-09-12T15:00:00Z",
+    "end_date": "2026-09-13T17:00:00Z",
+    "venue": "CDMM 213, Homi Baba Gallery",
+    "team_size": "1-5",
+    "price": 280,
+    "short_description": "Dream Team 8.0 is an IPL-style auction simulation where participants take on the role of franchise owners and compete to build the strongest cricket squad within a fixed budget. Through strategic bidding, resource management, and player evaluation, teams must assemble a balanced squad while navigating competitive auction dynamics and unique challenges. The event combines cricket knowledge, analytical thinking, and decision-making in an engaging franchise-management experience\nCompete for exciting cash prizes, showcase your auctioning skills, and prove you have what it takes to build the ultimate Dream Team!",
+    "scope": "internal_only",
+    "category": "Premium",
+    "tagline": "Buy the Best . Beat the Rest",
+    "is_team": true,
+    "scores": {
+      "robotics": 8,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 5,
+      "startups": 10,
+      "webdev": 10,
+      "cybersecurity": 0,
+      "electronics": 10,
+      "cad_design": 10,
+      "gaming": 0,
+      "finance": 20,
+      "general_fun": 50
+    },
+    "tags": [
+      "multi-day",
+      "overnight",
+      "competitive",
+      "hands-on",
+      "premium",
+      "team-based",
+      "internal-only"
+    ],
+    "duration": {
+      "days": 2,
+      "hours": 31,
+      "label": "2 days (31h)"
     }
   },
   {
@@ -1756,49 +1712,6 @@
     }
   },
   {
-    "id": "cab0613c-32a8-4af3-8533-92df3ff128a2",
-    "name": "SENSORA 2.0",
-    "type": "Hackathon",
-    "club": "THE INSTRUMENT SOCIETY OF INDIA (ISOI)",
-    "start_date": "2026-09-16T09:00:00Z",
-    "end_date": "2026-09-17T20:00:00Z",
-    "venue": "Shakespeare Gallery - I",
-    "team_size": "1-4",
-    "price": 250,
-    "short_description": "Sensora 2.0 is where the sharpest minds compete to build what's next. Over two intense days, teams go head-to-head in a 36-hour hackathon — backed by expert-led workshops and industry talks that sharpen their edge. Distinguished speakers and judges from top companies mentor participants as ideas become prototypes. Spanning IoT, AI, Healthcare Tech, and Embedded systems, It is the arena where bold ideas are tested and future tech leaders make their mark. Think fast. Build faster. Compete to win.",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Build. Break. Belong. Sensora 2.0 hits different",
-    "is_team": true,
-    "scores": {
-      "robotics": 30,
-      "iot": 90,
-      "ai_ml": 20,
-      "hackathons": 80,
-      "startups": 0,
-      "webdev": 30,
-      "cybersecurity": 0,
-      "electronics": 60,
-      "cad_design": 8,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 10
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "hackathon-style",
-      "hands-on",
-      "premium",
-      "team-based"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 35,
-      "label": "2 days (35h)"
-    }
-  },
-  {
     "id": "96d438b5-8291-416c-90ec-95297a68a486",
     "name": "GameSmith",
     "type": "Workshop",
@@ -1879,6 +1792,49 @@
       "days": 1,
       "hours": 3,
       "label": "3h"
+    }
+  },
+  {
+    "id": "cab0613c-32a8-4af3-8533-92df3ff128a2",
+    "name": "SENSORA 2.0",
+    "type": "Hackathon",
+    "club": "THE INSTRUMENT SOCIETY OF INDIA (ISOI)",
+    "start_date": "2026-09-16T10:00:00Z",
+    "end_date": "2026-09-17T20:00:00Z",
+    "venue": "Shakespeare Gallery - I",
+    "team_size": "1-4",
+    "price": 250,
+    "short_description": "Sensora 2.0 is where the sharpest minds compete to build what's next. Over two intense days, teams go head-to-head in a 36-hour hackathon — backed by expert-led workshops and industry talks that sharpen their edge. Distinguished speakers and judges from top companies mentor participants as ideas become prototypes. Spanning IoT, AI, Healthcare Tech, and Embedded systems, It is the arena where bold ideas are tested and future tech leaders make their mark. Think fast. Build faster. Compete to win.",
+    "scope": "both",
+    "category": "Premium",
+    "tagline": "Build. Break. Belong. Sensora 2.0 hits different",
+    "is_team": true,
+    "scores": {
+      "robotics": 30,
+      "iot": 90,
+      "ai_ml": 20,
+      "hackathons": 80,
+      "startups": 0,
+      "webdev": 30,
+      "cybersecurity": 0,
+      "electronics": 60,
+      "cad_design": 8,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 10
+    },
+    "tags": [
+      "multi-day",
+      "overnight",
+      "hackathon-style",
+      "hands-on",
+      "premium",
+      "team-based"
+    ],
+    "duration": {
+      "days": 2,
+      "hours": 35,
+      "label": "2 days (35h)"
     }
   },
   {
@@ -4435,7 +4391,7 @@
     "type": "Hackathon",
     "club": "DANCE CLUB",
     "start_date": "2026-09-18T10:00:00Z",
-    "end_date": "2026-09-20T21:00:00Z",
+    "end_date": "2026-09-20T20:00:00Z",
     "venue": "Foodys (Inside half, Cake cutting area), Greenos",
     "team_size": "4-10",
     "price": 170,
@@ -7717,6 +7673,47 @@
       "days": 1,
       "hours": 4,
       "label": "4h"
+    }
+  },
+  {
+    "id": "ee69a109-1c42-4154-be56-895d7a7e0497",
+    "name": "Prompt Pursuit",
+    "type": "Competition",
+    "club": "MOZILLA FIREFOX",
+    "start_date": "2026-09-20T14:00:00Z",
+    "end_date": "2026-09-20T19:00:00Z",
+    "venue": "Dr. Ambedkar Auditorium",
+    "team_size": "2-4",
+    "price": 170,
+    "short_description": "Prompt Pursuit is a unique AI-powered challenge where participants are shown AI-generated \nimages and must reverse-engineer the prompts used to create them. Contestants will analyze visual details, artistic styles, compositions, and contextual cues to craft prompts that most closely recreate the original output. The event tests creativity, observation skills, and understanding of generative AI systems, offering a fresh perspective on prompt engineering. With multiple rounds of increasing difficulty, participants will compete to uncover the hidden instructions behind stunning AI-generated visuals, making Prompt Pursuit an engaging blend of technology, logic, and imagination.",
+    "scope": "Both",
+    "category": "General",
+    "tagline": "Decode the Image. Discover the prompt.",
+    "is_team": true,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "team-based",
+      "competitive"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 5,
+      "label": "5h"
     }
   },
   {
