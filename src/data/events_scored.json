@@ -44,49 +44,6 @@
     }
   },
   {
-    "id": "7c28d075-f9f9-4305-be87-10deeb186514",
-    "name": "F1 Championship",
-    "type": "Competition",
-    "club": "SOCIETY OF AUTOMOTIVE ENGINEERS (SAE)",
-    "start_date": "2026-09-09T09:00:00Z",
-    "end_date": "2026-09-10T19:00:00Z",
-    "venue": "SMV 309,310",
-    "team_size": "Solo",
-    "price": 200,
-    "short_description": "An intense three-day F1 racing tournament featuring 200 drivers competing through qualifiers, a wildcard race, semi-finals, and a grand final. Participants will battle for progression across multiple races, with the fastest drivers advancing through each stage. From 10 qualifier races to the final 20-driver championship race, the tournament tests speed, consistency, and racecraft to determine the  ultimate F1 champion",
-    "scope": "internal_only",
-    "category": "Premium",
-    "tagline": "Race Hard. Become the Champion",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "internal-only",
-      "solo",
-      "competitive",
-      "multi-day",
-      "premium"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 34,
-      "label": "2 days (34h)"
-    }
-  },
-  {
     "id": "05dbaa54-4f90-4ec0-abc6-b07b3fc1f5ca",
     "name": "Agentic AI Bootcamp",
     "type": "Workshop",
@@ -262,7 +219,7 @@
     "club": "School of Architecture",
     "start_date": "2026-09-11T09:00:00Z",
     "end_date": "2026-09-11T12:00:00Z",
-    "venue": "MGB 208",
+    "venue": "MGB 111",
     "team_size": "3-5",
     "price": 0,
     "short_description": "",
@@ -333,49 +290,6 @@
       "beginner-friendly",
       "solo",
       "internal-only"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 36,
-      "label": "2 days (36h)"
-    }
-  },
-  {
-    "id": "a1387ff3-2ff1-44d5-807a-8882a5f0fd31",
-    "name": "Hackbattle",
-    "type": "Hackathon",
-    "club": "IEEE COMPUTER SOCIETY (IEEE-CS)",
-    "start_date": "2026-09-12T08:00:00Z",
-    "end_date": "2026-09-13T20:00:00Z",
-    "venue": "Anna Auditorium",
-    "team_size": "2-5",
-    "price": 200,
-    "short_description": "HackBattle is a dynamic 36-hour hackathon where innovators, creators, and problem solvers come together to code, collaborate, and compete. This overnight coding marathon is a fast paced journey of turning ideas into reality, tackling real world challenges, and building impactful solutions that push creativity and technical skill to the next level. Alongside the competition, participants will enjoy inspiring sessions from industry leaders, offering expert insights, practical guidance, and valuable networking. More than just an event, HackBattle is a vibrant celebration of innovation, teamwork, and the unstoppable energy of technology.",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Hack it till you make it",
-    "is_team": true,
-    "scores": {
-      "robotics": 8,
-      "iot": 0,
-      "ai_ml": 20,
-      "hackathons": 95,
-      "startups": 0,
-      "webdev": 40,
-      "cybersecurity": 30,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 20
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "hackathon-style",
-      "hands-on",
-      "premium",
-      "team-based"
     ],
     "duration": {
       "days": 2,
@@ -502,6 +416,93 @@
       "days": 1,
       "hours": 11,
       "label": "1 day (11h)"
+    }
+  },
+  {
+    "id": "a1387ff3-2ff1-44d5-807a-8882a5f0fd31",
+    "name": "Hackbattle",
+    "type": "Hackathon",
+    "club": "IEEE COMPUTER SOCIETY (IEEE-CS)",
+    "start_date": "2026-09-12T09:00:00Z",
+    "end_date": "2026-09-13T20:00:00Z",
+    "venue": "Anna Auditorium",
+    "team_size": "2-5",
+    "price": 200,
+    "short_description": "HackBattle is a dynamic 36-hour hackathon where innovators, creators, and problem solvers come together to code, collaborate, and compete. This overnight coding marathon is a fast paced journey of turning ideas into reality, tackling real world challenges, and building impactful solutions that push creativity and technical skill to the next level. Alongside the competition, participants will enjoy inspiring sessions from industry leaders, offering expert insights, practical guidance, and valuable networking. More than just an event, HackBattle is a vibrant celebration of innovation, teamwork, and the unstoppable energy of technology.",
+    "scope": "both",
+    "category": "Premium",
+    "tagline": "Hack it till you make it",
+    "is_team": true,
+    "scores": {
+      "robotics": 8,
+      "iot": 0,
+      "ai_ml": 20,
+      "hackathons": 95,
+      "startups": 0,
+      "webdev": 40,
+      "cybersecurity": 30,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 20
+    },
+    "tags": [
+      "multi-day",
+      "overnight",
+      "hackathon-style",
+      "hands-on",
+      "premium",
+      "team-based"
+    ],
+    "duration": {
+      "days": 2,
+      "hours": 36,
+      "label": "2 days (36h)"
+    }
+  },
+  {
+    "id": "eda4c7c5-1661-41db-a0e3-f6d3d687430a",
+    "name": "Dream Team 8.0",
+    "type": "Competition",
+    "club": "DREAM MERCHANTS",
+    "start_date": "2026-09-12T09:00:00Z",
+    "end_date": "2026-09-13T17:00:00Z",
+    "venue": "PRP 539, Homi Baba Gallery",
+    "team_size": "1-5",
+    "price": 280,
+    "short_description": "Dream Team 8.0 is an IPL-style auction simulation where participants take on the role of franchise owners and compete to build the strongest cricket squad within a fixed budget. Through strategic bidding, resource management, and player evaluation, teams must assemble a balanced squad while navigating competitive auction dynamics and unique challenges. The event combines cricket knowledge, analytical thinking, and decision-making in an engaging franchise-management experience\nCompete for exciting cash prizes, showcase your auctioning skills, and prove you have what it takes to build the ultimate Dream Team!",
+    "scope": "internal_only",
+    "category": "Premium",
+    "tagline": "Buy the Best . Beat the Rest",
+    "is_team": true,
+    "scores": {
+      "robotics": 8,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 5,
+      "startups": 10,
+      "webdev": 10,
+      "cybersecurity": 0,
+      "electronics": 10,
+      "cad_design": 10,
+      "gaming": 0,
+      "finance": 20,
+      "general_fun": 50
+    },
+    "tags": [
+      "multi-day",
+      "overnight",
+      "competitive",
+      "hands-on",
+      "premium",
+      "team-based",
+      "internal-only"
+    ],
+    "duration": {
+      "days": 2,
+      "hours": 31,
+      "label": "2 days (31h)"
     }
   },
   {
@@ -710,50 +711,6 @@
       "days": 1,
       "hours": 24,
       "label": "1 day (24h)"
-    }
-  },
-  {
-    "id": "eda4c7c5-1661-41db-a0e3-f6d3d687430a",
-    "name": "Dream Team 8.0",
-    "type": "Competition",
-    "club": "DREAM MERCHANTS",
-    "start_date": "2026-09-12T15:00:00Z",
-    "end_date": "2026-09-13T17:00:00Z",
-    "venue": "CDMM 213, Homi Baba Gallery",
-    "team_size": "1-5",
-    "price": 280,
-    "short_description": "Dream Team 8.0 is an IPL-style auction simulation where participants take on the role of franchise owners and compete to build the strongest cricket squad within a fixed budget. Through strategic bidding, resource management, and player evaluation, teams must assemble a balanced squad while navigating competitive auction dynamics and unique challenges. The event combines cricket knowledge, analytical thinking, and decision-making in an engaging franchise-management experience\nCompete for exciting cash prizes, showcase your auctioning skills, and prove you have what it takes to build the ultimate Dream Team!",
-    "scope": "internal_only",
-    "category": "Premium",
-    "tagline": "Buy the Best . Beat the Rest",
-    "is_team": true,
-    "scores": {
-      "robotics": 8,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 5,
-      "startups": 10,
-      "webdev": 10,
-      "cybersecurity": 0,
-      "electronics": 10,
-      "cad_design": 10,
-      "gaming": 0,
-      "finance": 20,
-      "general_fun": 50
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "competitive",
-      "hands-on",
-      "premium",
-      "team-based",
-      "internal-only"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 31,
-      "label": "2 days (31h)"
     }
   },
   {
@@ -1001,48 +958,6 @@
       "days": 1,
       "hours": 5,
       "label": "5h"
-    }
-  },
-  {
-    "id": "3a1cb222-ec60-44b8-a420-79ea61df69b0",
-    "name": "Hackulus",
-    "type": "Hackathon",
-    "club": "Society for Industrial and Applied Mathematics (SIAM)",
-    "start_date": "2026-09-14T08:00:00Z",
-    "end_date": "2026-09-15T08:00:00Z",
-    "venue": "Kamraj Auditorium",
-    "team_size": "1-4",
-    "price": 170,
-    "short_description": "Hackulus is a 24-hour high-intensity hackathon organized by SIAM-VIT x IoThinC, bringing together 100+ student innovators to build impactful, real-world solutions. Participants compete across five tracks: IOT, Creative Tech, FinTech, Cybersecurity, VIT Centric, Environments Sustainability. Through ideation pitches, technical evaluations, continuous development, and a final grand judging round, Hackulus challenges teams to transform creative ideas into functional prototypes while demonstrating technical expertise, collaboration, originality, and practical impact.",
-    "scope": "Both",
-    "category": "General",
-    "tagline": "Hackulus, your 24 hours to build, break, and revolutionize",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "hackathon",
-      "multi-day"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 24,
-      "label": "1 day (24h)"
     }
   },
   {
@@ -1545,46 +1460,6 @@
     }
   },
   {
-    "id": "0615fb4d-78b0-4a7c-bc52-ba4cccee2ee6",
-    "name": "Clueminati 4.0",
-    "type": "Others",
-    "club": "CODECHEF - VIT",
-    "start_date": "2026-09-16T08:00:00Z",
-    "end_date": "2026-09-16T14:00:00Z",
-    "venue": "Anna Auditorium",
-    "team_size": "4-5",
-    "price": 170,
-    "short_description": "Ragnarök is back, and this time the World Tree itself is breaking. Teams will be torn apart mid-briefing and flung into different realms: some hunting clues across campus, others battling through virtual worlds. Keys, relics, and weapons must be found separately before both halves can reunite. Will you gather what it takes to mend Yggdrasil before the realms collapse? Step in... if you dare.",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Scattered across realms, sworn to reunite.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 30
-    },
-    "tags": [
-      "single-day",
-      "premium",
-      "team-based"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 6,
-      "label": "1 day (6h)"
-    }
-  },
-  {
     "id": "2099d7e9-32e4-4cd8-8591-c64584eeb3e6",
     "name": "CASHFLOW 5.0",
     "type": "Competition",
@@ -1709,6 +1584,46 @@
       "days": 1,
       "hours": 24,
       "label": "1 day (24h)"
+    }
+  },
+  {
+    "id": "0615fb4d-78b0-4a7c-bc52-ba4cccee2ee6",
+    "name": "Clueminati 4.0",
+    "type": "Others",
+    "club": "CODECHEF - VIT",
+    "start_date": "2026-09-16T09:00:00Z",
+    "end_date": "2026-09-16T15:00:00Z",
+    "venue": "Anna Auditorium",
+    "team_size": "4-5",
+    "price": 170,
+    "short_description": "Ragnarök is back, and this time the World Tree itself is breaking. Teams will be torn apart mid-briefing and flung into different realms: some hunting clues across campus, others battling through virtual worlds. Keys, relics, and weapons must be found separately before both halves can reunite. Will you gather what it takes to mend Yggdrasil before the realms collapse? Step in... if you dare.",
+    "scope": "both",
+    "category": "Premium",
+    "tagline": "Scattered across realms, sworn to reunite.",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 30
+    },
+    "tags": [
+      "single-day",
+      "premium",
+      "team-based"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 6,
+      "label": "1 day (6h)"
     }
   },
   {
@@ -1926,7 +1841,7 @@
     "type": "Workshop",
     "club": "INTERNATIONAL SOCIETY OF AUTOMATION (ISA)",
     "start_date": "2026-09-17T09:00:00Z",
-    "end_date": "2026-09-17T14:00:00Z",
+    "end_date": "2026-09-17T13:00:00Z",
     "venue": "Kamraj Auditorium",
     "team_size": "Solo",
     "price": 250,
@@ -2431,7 +2346,7 @@
     "type": "Workshop",
     "club": "INDIAN SOCIETY FOR TECHNICAL EDUCATION (ISTE)",
     "start_date": "2026-09-18T08:00:00Z",
-    "end_date": "2026-09-19T07:00:00Z",
+    "end_date": "2026-09-18T20:00:00Z",
     "venue": "Sarojini Naidu Gallery",
     "team_size": "5",
     "price": 500,
@@ -2692,7 +2607,7 @@
     "start_date": "2026-09-18T09:00:00Z",
     "end_date": "2026-09-18T17:00:00Z",
     "venue": "Greeno",
-    "team_size": "5",
+    "team_size": "1-5",
     "price": 200,
     "short_description": "In a world pushed to the brink of collapse, survival isn’t just about making it through it’s about outsmarting the odds.\nThe Last of Us drops teams into an adrenaline fueled, post-invasion survival scenario where every decision counts. Navigating high stakes checkpoints toward a secure safe zone, your team must pool your collective wits, creativity, and practical problem-solving to overcome the unknown.\nAlong the way, every solved challenge rewards you with cryptic pieces of a puzzle. Assemble them correctly, and you'll forge a unique physical souvenir proof of your team's resilience and triumph.\nStep up, work together, and adapt on the fly. Will your team breach the safe zone, or will you get left behind?",
     "scope": "both",
@@ -2856,8 +2771,8 @@
     "type": "Competition",
     "club": "SOCIETY OF  MANUFACTURING ENGINEERS (SME)",
     "start_date": "2026-09-18T09:00:00Z",
-    "end_date": "2026-09-20T18:00:00Z",
-    "venue": "CDMM 103 + CDMM 105, CDMM 103 + CDMM 105, CDMM 103 + CDMM 105",
+    "end_date": "2026-09-19T18:00:00Z",
+    "venue": "CDMM 103 + CDMM 105, CDMM 103 + CDMM 105",
     "team_size": "1-4",
     "price": 200,
     "short_description": "Manufacture Your Dream is an exciting RC car building and racing event hosted by the Society of Manufacturing Engineers at graVITas 2026. Teams work together to assemble a remote-controlled car from scratch using provided materials and then race it on a custom track. The fastest combined time wins, and the top three teams receive cash prizes.",
@@ -2899,8 +2814,8 @@
     "club": "IEEE TEMS",
     "start_date": "2026-09-18T09:00:00Z",
     "end_date": "2026-09-18T16:00:00Z",
-    "venue": "SJT 315",
-    "team_size": "3-3",
+    "venue": "SJT 316",
+    "team_size": "1-3",
     "price": 200,
     "short_description": "CodeRush 4.0 is the flagship competitive coding event of IEEE TEMS at graVITas’25, featuring a unique relay-race style coding challenge. Teams of three participants will take turns coding, with each member continuing from where the previous teammate left off. The event is conducted under a strict time limit, testing participants’ coding skills, problem-solving ability, and teamwork under pressure.",
     "scope": "Both",
@@ -3809,7 +3724,7 @@
     "type": "Workshop",
     "club": "SPIC MACAY",
     "start_date": "2026-09-18T10:00:00Z",
-    "end_date": "2026-09-19T18:00:00Z",
+    "end_date": "2026-09-18T18:00:00Z",
     "venue": "MGB 101",
     "team_size": "Solo",
     "price": 150,
@@ -4186,7 +4101,7 @@
     "club": "THE NEXT CHAPTER - BOOK CLUB",
     "start_date": "2026-09-18T10:00:00Z",
     "end_date": "2026-09-18T17:00:00Z",
-    "venue": "SMV 217 + 218 + 219",
+    "venue": "SMV 219",
     "team_size": "Solo",
     "price": 200,
     "short_description": "Step into a world of fantasy, mystery, and adventure at our Dungeons & Dragons event!...",
@@ -5259,47 +5174,6 @@
     }
   },
   {
-    "id": "0dfffa6f-2687-416c-acd7-d514194333e7",
-    "name": "Game Of Tones",
-    "type": "Workshop",
-    "club": "INDIAN INSTITUTE OF CHEMICAL ENGINEERS (IICHE)",
-    "start_date": "2026-09-19T08:00:00Z",
-    "end_date": "2026-09-19T20:00:00Z",
-    "venue": "SMV 127",
-    "team_size": "2-5",
-    "price": 170,
-    "short_description": "Games of Tones is an interactive competition where science, sustainability, and Westerosi spirit collide. Your journey begins with an Oathtaking to place your team into an iconic Game of Thrones house. Craft eco-friendly paints from scratch, then clash in a Rapid Fire Round to win rare pigments and special additives like waterproofing or magnetic properties. Once tested, paint your house sigil on canvas, design a custom wooden keychain, and take home a vial of your handcrafted paint. When you play the Game of Tones, you either paint or you dye!",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "All must Paint! All must Dye!",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "internal-only",
-      "solo",
-      "workshop"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 12,
-      "label": "12h"
-    }
-  },
-  {
     "id": "4ac8210a-97b4-4d90-ad58-85e5faff3e20",
     "name": "Multipli Hackathon - Build. Innovate. Compete.",
     "type": "Hackathon",
@@ -5595,6 +5469,45 @@
     }
   },
   {
+    "id": "3adec322-2f9f-44e2-8736-0be594a1b2fd",
+    "name": "Ctrl + Alt + Confuse",
+    "type": "Others",
+    "club": "CUBING CLUB",
+    "start_date": "2026-09-19T09:00:00Z",
+    "end_date": "2026-09-19T13:00:00Z",
+    "venue": "TT 332  + TT 333",
+    "team_size": "1-4",
+    "price": 100,
+    "short_description": "Ctrl + Alt + Confuse is a fun-filled strategy event where teams tackle dynamic challenges with constantly changing rules, hidden objectives, and unexpected twists. Success depends on adaptability, teamwork, and quick decision-making under pressure.",
+    "scope": "both",
+    "category": "General",
+    "tagline": "Think Fast. Adapt Faster. Expect Absolute Chaos.",
+    "is_team": true,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 10,
+      "cybersecurity": 0,
+      "electronics": 10,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 15
+    },
+    "tags": [
+      "single-day",
+      "team-based"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 4,
+      "label": "1 day (4h)"
+    }
+  },
+  {
     "id": "40492b89-2f55-4fd8-982b-691a6d4c4e65",
     "name": "Yellow Tape 5.0",
     "type": "Competition",
@@ -5683,7 +5596,7 @@
     "start_date": "2026-09-19T09:00:00Z",
     "end_date": "2026-09-19T18:00:00Z",
     "venue": "SMV G26 + SMV G26A",
-    "team_size": "3-4",
+    "team_size": "1-4",
     "price": 200,
     "short_description": "GLOWCHELLA is a thrilling Squid Game inspired chemical engineering survival challenge where only the fastest and most creative teams survive. Face a series of exciting hands-on challenges involving glowing polymers, fragrance formulation, reaction optimization, and precision-based games. Every round tests your teamwork, strategy, and scientific skills as you battle for exclusive rewards, unforgettable souvenirs, and the ultimate title of Glowchella Champion.",
     "scope": "both",
@@ -5753,6 +5666,46 @@
       "days": 1,
       "hours": 9,
       "label": "1 day (9h)"
+    }
+  },
+  {
+    "id": "882a4ff6-c77f-43e6-8e0b-4be8ffc51d7a",
+    "name": "OPERATION BELLA CIAO: THE MATHEMATICAL HEIST",
+    "type": "Competition",
+    "club": "MATHVERSE CLUB",
+    "start_date": "2026-09-19T09:00:00Z",
+    "end_date": "2026-09-19T18:00:00Z",
+    "venue": "TT 331",
+    "team_size": "4-5",
+    "price": 120,
+    "short_description": "The legendary mastermind The Professor has planned the biggest heist in history. A secret mathematical key containing billions in digital assets is locked inside the Royal Mathematical Mint. Teams become members of the heist crew — Tokyo, Berlin, Nairobi, Denver, Rio, Helsinki, and Lisbon — and must break through five high-security mathematical barriers before the authorities trace their location. Mission Structure 🏦 Phase 1 – Professor’s Cipher 🎭 Phase 2 – Inspector’s Interrogation 💰 Phase 3 – Berlin’s Vault Lock 🎲 Phase 4 – Tokyo’s Risk Matrix 🌐 Phase 5 – Rio’s Network Breach 🔓 Final Heist – The Mint Vault Each completed phase reveals a piece of The Professor’s Master Code. Teams must combine all collected fragments to unlock the Royal Mint’s final vault and secure the stolen treasure before the countdown reaches zero.",
+    "scope": "both",
+    "category": "General",
+    "tagline": "OPERATION BELLA CIAO: THE MATHEMATICAL HEIST",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 40,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 25,
+      "cybersecurity": 10,
+      "electronics": 10,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 50
+    },
+    "tags": [
+      "single-day",
+      "competitive",
+      "team-based"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 4,
+      "label": "1 day (4h)"
     }
   },
   {
@@ -5957,45 +5910,6 @@
       "days": 1,
       "hours": 10,
       "label": "1 day (10h)"
-    }
-  },
-  {
-    "id": "3adec322-2f9f-44e2-8736-0be594a1b2fd",
-    "name": "Ctrl + Alt + Confuse",
-    "type": "Others",
-    "club": "CUBING CLUB",
-    "start_date": "2026-09-19T09:00:00Z",
-    "end_date": "2026-09-19T13:00:00Z",
-    "venue": "TT 332  + TT 333",
-    "team_size": "1-4",
-    "price": 100,
-    "short_description": "Ctrl + Alt + Confuse is a fun-filled strategy event where teams tackle dynamic challenges with constantly changing rules, hidden objectives, and unexpected twists. Success depends on adaptability, teamwork, and quick decision-making under pressure.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Think Fast. Adapt Faster. Expect Absolute Chaos.",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 10,
-      "cybersecurity": 0,
-      "electronics": 10,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 15
-    },
-    "tags": [
-      "single-day",
-      "team-based"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 4,
-      "label": "1 day (4h)"
     }
   },
   {
@@ -6330,7 +6244,7 @@
     "club": "CULINARY CLUB",
     "start_date": "2026-09-19T10:00:00Z",
     "end_date": "2026-09-19T19:00:00Z",
-    "venue": "MGB113 + MGB114",
+    "venue": "MGB113",
     "team_size": "2",
     "price": 150,
     "short_description": "Breadwinner is a high-intensity, board-game-based culinary simulation where teams compete through auctions, trading, negotiation, and strategic decision-making to acquire ingredients and assemble a complete sandwich. The event combines economics, risk-taking, strategy, creativity, and culinary skills under time pressure.",
@@ -6569,43 +6483,44 @@
     }
   },
   {
-    "id": "882a4ff6-c77f-43e6-8e0b-4be8ffc51d7a",
-    "name": "OPERATION BELLA CIAO: THE MATHEMATICAL HEIST",
-    "type": "Competition",
-    "club": "MATHVERSE CLUB",
-    "start_date": "2026-09-19T14:00:00Z",
-    "end_date": "2026-09-19T18:00:00Z",
-    "venue": "TT 331",
-    "team_size": "4-5",
-    "price": 120,
-    "short_description": "The legendary mastermind The Professor has planned the biggest heist in history. A secret mathematical key containing billions in digital assets is locked inside the Royal Mathematical Mint. Teams become members of the heist crew — Tokyo, Berlin, Nairobi, Denver, Rio, Helsinki, and Lisbon — and must break through five high-security mathematical barriers before the authorities trace their location. Mission Structure 🏦 Phase 1 – Professor’s Cipher 🎭 Phase 2 – Inspector’s Interrogation 💰 Phase 3 – Berlin’s Vault Lock 🎲 Phase 4 – Tokyo’s Risk Matrix 🌐 Phase 5 – Rio’s Network Breach 🔓 Final Heist – The Mint Vault Each completed phase reveals a piece of The Professor’s Master Code. Teams must combine all collected fragments to unlock the Royal Mint’s final vault and secure the stolen treasure before the countdown reaches zero.",
-    "scope": "both",
+    "id": "0dfffa6f-2687-416c-acd7-d514194333e7",
+    "name": "Game Of Tones",
+    "type": "Workshop",
+    "club": "INDIAN INSTITUTE OF CHEMICAL ENGINEERS (IICHE)",
+    "start_date": "2026-09-19T15:00:00Z",
+    "end_date": "2026-09-19T19:00:00Z",
+    "venue": "SMV 127",
+    "team_size": "2-5",
+    "price": 170,
+    "short_description": "Games of Tones is an interactive competition where science, sustainability, and Westerosi spirit collide. Your journey begins with an Oathtaking to place your team into an iconic Game of Thrones house. Craft eco-friendly paints from scratch, then clash in a Rapid Fire Round to win rare pigments and special additives like waterproofing or magnetic properties. Once tested, paint your house sigil on canvas, design a custom wooden keychain, and take home a vial of your handcrafted paint. When you play the Game of Tones, you either paint or you dye!",
+    "scope": "internal_only",
     "category": "General",
-    "tagline": "OPERATION BELLA CIAO: THE MATHEMATICAL HEIST",
+    "tagline": "All must Paint! All must Dye!",
     "is_team": false,
     "scores": {
       "robotics": 0,
       "iot": 0,
-      "ai_ml": 40,
+      "ai_ml": 0,
       "hackathons": 0,
       "startups": 0,
-      "webdev": 25,
-      "cybersecurity": 10,
-      "electronics": 10,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
       "cad_design": 0,
       "gaming": 0,
       "finance": 0,
-      "general_fun": 50
+      "general_fun": 0
     },
     "tags": [
-      "single-day",
-      "competitive",
-      "team-based"
+      "paid",
+      "internal-only",
+      "solo",
+      "workshop"
     ],
     "duration": {
       "days": 1,
-      "hours": 4,
-      "label": "1 day (4h)"
+      "hours": 12,
+      "label": "12h"
     }
   },
   {
@@ -6858,45 +6773,6 @@
     }
   },
   {
-    "id": "3b6d2b09-7723-4622-9774-cc461523bf8f",
-    "name": "Access Denied",
-    "type": "Others",
-    "club": "STUDENTS ASSOCIATION OF BIO-ENGINEERING SCIENCE AND TECHNOLOGY (SABEST)",
-    "start_date": "2026-09-20T08:00:00Z",
-    "end_date": "2026-09-20T19:00:00Z",
-    "venue": "SMV 102",
-    "team_size": "3-4",
-    "price": 150,
-    "short_description": "Access denied is an one and half hour immersive biotechnology escape room event that combines puzzles, quizzes, riddles, and analytical problems, drawing from diverse disciplines within biotechnology. It encourages participants to view familiar concepts from entirely new perspectives, requiring logic, creativity, and critical thinking. However, there’s a catch, every challenge solved unlocks the next, turning the experience into a high-stakes escape room where only those who keep up can progress.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Crack the Code, Unlock the Truth",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 70,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 25,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 50
-    },
-    "tags": [
-      "single-day",
-      "team-based"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 11,
-      "label": "1 day (11h)"
-    }
-  },
-  {
     "id": "a55dd80f-87bd-4239-83aa-4e73269d7ce5",
     "name": "INFRANOVA - IDEATHON",
     "type": "others",
@@ -6943,7 +6819,7 @@
     "club": "ALPHA BIO CELL (ABC)",
     "start_date": "2026-09-20T08:00:00Z",
     "end_date": "2026-09-20T20:00:00Z",
-    "venue": "Homi Baba Gallery",
+    "venue": "PRP 539",
     "team_size": "3-5",
     "price": 200,
     "short_description": "BioBlunder 2.0 is a reverse-engineering hackathon where participants are presented with a fully conceptualized biotechnology product, complete with documented limitations grounded in real biological, ecological, and engineering principles. Teams must critically evaluate the product, propose scientifically sound improvements, and be prepared to defend their reasoning as the scenario evolves. The event emphasizes analytical depth and adaptability over conventional ideation.",
@@ -7110,7 +6986,7 @@
     "start_date": "2026-09-20T09:00:00Z",
     "end_date": "2026-09-20T19:00:00Z",
     "venue": "Kamaraj Auditorium",
-    "team_size": "3-4",
+    "team_size": "1-4",
     "price": 200,
     "short_description": "Absolute Cinema is a workshop-style event where a simulated reactor meltdown has trapped teams of 3-4 participants in a time loop across iconic cinematic universes. Acting as elite chemical engineers, teams must use science, quick thinking, and teamwork to complete a series of unique STEM and chemistry experiments inspired by popular movies and shows like Stranger Things, Star Wars, and Jurassic Park. The ultimate goal is to solve these high-stakes laboratory challenges to repair the fractured timeline and escape the multiverse before time runs out.",
     "scope": "both",
@@ -7396,7 +7272,7 @@
     "club": "ANIMATION CLUB",
     "start_date": "2026-09-20T10:00:00Z",
     "end_date": "2026-09-20T20:00:00Z",
-    "venue": "SMV 309 & 310",
+    "venue": "SMV 110",
     "team_size": "Solo",
     "price": 200,
     "short_description": "An interactive workshop on Blender, the world's most popular free 3D animation software.",
@@ -7641,7 +7517,7 @@
     "club": "SOLAR ENERGY SOCIETY OF INDIA (SESI)",
     "start_date": "2026-09-20T14:00:00Z",
     "end_date": "2026-09-20T18:00:00Z",
-    "venue": "SMV 110",
+    "venue": "TT 311",
     "team_size": "3-5",
     "price": 250,
     "short_description": "The Great Indoor Tech Race is a fast-paced team strategy event where participants compete through multiple challenge rounds involving communication, logic, AI tools, UI/UX problem-solving, and crisis management. Teams earn points by showcasing creativity, teamwork, speed, and decision-making skills. The event culminates in a high-pressure finale where finalists present innovative solutions to real-world corporate challenges.",
