@@ -44,50 +44,6 @@
     }
   },
   {
-    "id": "b706e255-5801-4091-a6c2-1a4b6f3f0098",
-    "name": "Aerovate 3.0",
-    "type": "Workshop",
-    "club": "ASTRONOMY CLUB- VIT STELLAR",
-    "start_date": "2026-09-11T09:00:00Z",
-    "end_date": "2026-09-12T17:00:00Z",
-    "venue": "Homi Baba Gallery, CS Hall, Men's Outdoor Stadium",
-    "team_size": "4-5",
-    "price": 846,
-    "short_description": "Aerovate 3.0 is a two-day hands-on rocketry workshop that introduces participants to the fundamentals of aerospace engineering. Through interactive sessions, participants will learn about aerodynamics, rocket stability, and propulsion before designing, building, and launching their own model rockets. The event offers a practical engineering experience, taking participants through the complete journey from concept and design to a successful launch.",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Simulate. Construct. Launch.",
-    "is_team": false,
-    "scores": {
-      "robotics": 30,
-      "iot": 0,
-      "ai_ml": 10,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 10,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 75,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 30
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "workshop-style",
-      "hands-on",
-      "beginner-friendly",
-      "premium",
-      "team-based"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 32,
-      "label": "2 days (32h)"
-    }
-  },
-  {
     "id": "6822754f-f495-47ea-ab86-3be231ce5c0d",
     "name": "LayerZero",
     "type": "Workshop",
@@ -132,47 +88,6 @@
     }
   },
   {
-    "id": "0dff1c63-96aa-4044-824c-353b14e1f1c7",
-    "name": "QuantumVerse",
-    "type": "Workshop",
-    "club": "AMERICAN SOCIETY OF MECHANICAL ENGINEERS (ASME)",
-    "start_date": "2026-09-12T09:00:00Z",
-    "end_date": "2026-09-12T13:00:00Z",
-    "venue": "CDMM 213",
-    "team_size": "Solo",
-    "price": 350,
-    "short_description": "QuantumVerse is a hands-on workshop on Quantum Dot-Based Digital Circuit Design led by industry experts from InfinosTech. Participants will gain a strong foundation in Quantum-dot Cellular Automata (QCA), design and simulate digital circuits using industry-relevant tools, and explore optimization techniques for enhanced circuit performance. The workshop concludes with an engaging design challenge, enabling participants to apply their knowledge and gain practical exposure to next-generation semiconductor technologies.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Quantum dots, real circuits",
-    "is_team": false,
-    "scores": {
-      "robotics": 8,
-      "iot": 0,
-      "ai_ml": 40,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 60,
-      "cybersecurity": 0,
-      "electronics": 80,
-      "cad_design": 20,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 20
-    },
-    "tags": [
-      "single-day",
-      "workshop-style",
-      "hands-on",
-      "solo"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 4,
-      "label": "1 day (4h)"
-    }
-  },
-  {
     "id": "26a62ec7-d68b-4808-8c2b-d06843af19d6",
     "name": "PlaceIt 5.0",
     "type": "Others",
@@ -211,45 +126,6 @@
       "days": 2,
       "hours": 30,
       "label": "2 days (30h)"
-    }
-  },
-  {
-    "id": "51fb4a6c-e1dd-4a51-bebe-ba32577daacf",
-    "name": "Auction to Action 3.0",
-    "type": "Entrepreneurship and Management",
-    "club": "CENTRE FOR SOCIAL ENTREPRENEURSHIP DEVELOPMENT(CSED)",
-    "start_date": "2026-09-12T09:00:00Z",
-    "end_date": "2026-09-12T20:00:00Z",
-    "venue": "Homi Baba Gallery",
-    "team_size": "3-5",
-    "price": 120,
-    "short_description": "Auction to Action is a business simulation event where participants bid on virtual companies through strategic auctions and then solve real-world business challenges to maximize their investments and outperform competing teams.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Think. Bid. Execute.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 60,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 10,
-      "gaming": 0,
-      "finance": 40,
-      "general_fun": 10
-    },
-    "tags": [
-      "single-day",
-      "team-based"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 11,
-      "label": "1 day (11h)"
     }
   },
   {
@@ -296,216 +172,6 @@
     }
   },
   {
-    "id": "eda4c7c5-1661-41db-a0e3-f6d3d687430a",
-    "name": "Dream Team 8.0",
-    "type": "Competition",
-    "club": "DREAM MERCHANTS",
-    "start_date": "2026-09-12T09:00:00Z",
-    "end_date": "2026-09-13T17:00:00Z",
-    "venue": "PRP 539, Homi Baba Gallery",
-    "team_size": "1-5",
-    "price": 280,
-    "short_description": "Dream Team 8.0 is an IPL-style auction simulation where participants take on the role of franchise owners and compete to build the strongest cricket squad within a fixed budget. Through strategic bidding, resource management, and player evaluation, teams must assemble a balanced squad while navigating competitive auction dynamics and unique challenges. The event combines cricket knowledge, analytical thinking, and decision-making in an engaging franchise-management experience\nCompete for exciting cash prizes, showcase your auctioning skills, and prove you have what it takes to build the ultimate Dream Team!",
-    "scope": "internal_only",
-    "category": "Premium",
-    "tagline": "Buy the Best . Beat the Rest",
-    "is_team": true,
-    "scores": {
-      "robotics": 8,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 5,
-      "startups": 10,
-      "webdev": 10,
-      "cybersecurity": 0,
-      "electronics": 10,
-      "cad_design": 10,
-      "gaming": 0,
-      "finance": 20,
-      "general_fun": 50
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "competitive",
-      "hands-on",
-      "premium",
-      "team-based",
-      "internal-only"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 31,
-      "label": "2 days (31h)"
-    }
-  },
-  {
-    "id": "f0aad801-842b-4b18-99b1-e6055f5d6ddd",
-    "name": "MyoSync",
-    "type": "Workshop",
-    "club": "IEEE ENGINEERING IN MEDICINE & BIOLOGY SOCIETY (IEEE-EMBS)",
-    "start_date": "2026-09-12T09:00:00Z",
-    "end_date": "2026-09-12T18:00:00Z",
-    "venue": "MB 210",
-    "team_size": "Solo",
-    "price": 120,
-    "short_description": "Explore PCB design and get hands on experience with designing your very own PCB for a biomedical device which can be fabricated and gets students a boost in advancing their circuit design skills which come in handy for big projects. Combining with biomedical device theory and designing their PCB they can understand how to choose components; the floor planning and 3D model of their work.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Muscles meet PCB: Sync the body to the machine",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "workshop"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 9,
-      "label": "9h"
-    }
-  },
-  {
-    "id": "66b7d529-07da-4314-ad34-99e3401defca",
-    "name": "EcoVention",
-    "type": "Competition",
-    "club": "School of Architecture",
-    "start_date": "2026-09-12T09:00:00Z",
-    "end_date": "2026-09-12T17:00:00Z",
-    "venue": "MGB 111",
-    "team_size": "1-2",
-    "price": 0,
-    "short_description": "EcoVention challenges individuals or teams of two to develop a sustainable product -furniture, an acoustic panel, or any other building/interior element of their choice - using sustainable materials and a sustainable design approach, intended for use in a residential setup or a retail showroom (participant's choice).",
-    "scope": "internal_only",
-    "category": "Premium",
-    "tagline": "Sustainable Product Design Challenge",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "free",
-      "internal-only",
-      "solo",
-      "competitive",
-      "premium"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 8,
-      "label": "8h"
-    }
-  },
-  {
-    "id": "1f617497-958d-4e79-b6e3-af1ac92bc4b1",
-    "name": "Jeopardize",
-    "type": "Others",
-    "club": "VISUAL BLOGGER'S CLUB",
-    "start_date": "2026-09-12T10:00:00Z",
-    "end_date": "2026-09-12T18:00:00Z",
-    "venue": "CDMM 304",
-    "team_size": "1-4",
-    "price": 150,
-    "short_description": "Welcome to JEOPARDIZE!, one of the most exciting events of Pre-Gravitas, organized by the Visual Bloggers' Club. Inspired by the iconic Jeopardy! this event combines knowledge, strategy, and quick thinking in a thrilling quiz showdown. The twist? You'll be given the answers, and your challenge is to come up with the correct questions. Choose your categories wisely, think fast, and compete for glory. May the sharpest minds emerge victorious!",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Locked in. Time to risk it all.",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "team-based",
-      "multi-day"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 32,
-      "label": "2 days (32h)"
-    }
-  },
-  {
-    "id": "e79f0238-ce76-4470-ab15-65680d815e8b",
-    "name": "WORKSHOP ON POWER BI",
-    "type": "Workshop",
-    "club": "VIT Business School",
-    "start_date": "2026-09-12T10:00:00Z",
-    "end_date": "2026-09-12T16:00:00Z",
-    "venue": "PRP 759",
-    "team_size": "Solo",
-    "price": 100,
-    "short_description": "Explore Power BI fundamentals, business intelligence, data cleaning, and transformation while learning to create interactive dashboards and effective visualizations. Participants will learn to identify trends, generate meaningful business insights, and apply analytics to real-world decision-making. The session will provide practical exposure to transforming raw data into actionable insights.",
-    "scope": "internal_only",
-    "category": "Premium",
-    "tagline": "“Leading Across Borders, Cultures, and Technology”",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "internal-only",
-      "solo",
-      "workshop",
-      "premium"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 7,
-      "label": "7h"
-    }
-  },
-  {
     "id": "a8b732d1-a304-492e-b3f0-99ff8dd2f045",
     "name": "HackQuest",
     "type": "Hackathon",
@@ -545,6 +211,50 @@
       "days": 1,
       "hours": 24,
       "label": "1 day (24h)"
+    }
+  },
+  {
+    "id": "eda4c7c5-1661-41db-a0e3-f6d3d687430a",
+    "name": "Dream Team 8.0",
+    "type": "Competition",
+    "club": "DREAM MERCHANTS",
+    "start_date": "2026-09-12T15:00:00Z",
+    "end_date": "2026-09-13T17:00:00Z",
+    "venue": "PRP 539, Homi Baba Gallery",
+    "team_size": "1-5",
+    "price": 280,
+    "short_description": "Dream Team 8.0 is an IPL-style auction simulation where participants take on the role of franchise owners and compete to build the strongest cricket squad within a fixed budget. Through strategic bidding, resource management, and player evaluation, teams must assemble a balanced squad while navigating competitive auction dynamics and unique challenges. The event combines cricket knowledge, analytical thinking, and decision-making in an engaging franchise-management experience\nCompete for exciting cash prizes, showcase your auctioning skills, and prove you have what it takes to build the ultimate Dream Team!",
+    "scope": "internal_only",
+    "category": "Premium",
+    "tagline": "Buy the Best . Beat the Rest",
+    "is_team": true,
+    "scores": {
+      "robotics": 8,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 5,
+      "startups": 10,
+      "webdev": 10,
+      "cybersecurity": 0,
+      "electronics": 10,
+      "cad_design": 10,
+      "gaming": 0,
+      "finance": 20,
+      "general_fun": 50
+    },
+    "tags": [
+      "multi-day",
+      "overnight",
+      "competitive",
+      "hands-on",
+      "premium",
+      "team-based",
+      "internal-only"
+    ],
+    "duration": {
+      "days": 2,
+      "hours": 31,
+      "label": "2 days (31h)"
     }
   },
   {
@@ -718,10 +428,10 @@
     "club": "Esports, Creative and TechnoSports Committee",
     "start_date": "2026-09-13T11:00:00Z",
     "end_date": "2026-09-14T13:00:00Z",
-    "venue": "Smart Classroom (SJT G07)",
+    "venue": "SMART CLASSROOM (PRP 440A &B)",
     "team_size": "1",
     "price": 100,
-    "short_description": "Canvas Clash: Digital vs Physical Art Battle is a dual-format fine arts battle that pits traditional and digital artists against each other under one roof, both racing against the same clock to interpret one surprise theme.\nBoth tracks receive the exact same theme, revealed live at the start, and get an identical time window to complete their piece — traditional media on one side of the room, digital tools on the other. Submissions are judged separately per track.",
+    "short_description": "Canvas Clash: Digital vs Physical Art Battle is a dual-format fine arts battle that pits traditional and digital artists against each other under one roof, both racing against the same clock to interpret one surprise theme.\n\nBoth tracks receive the exact same theme, revealed live at the start, and get an identical time window to complete their piece — traditional media on one side of the room, digital tools on the other. Submissions are judged separately per track.",
     "scope": "internal_only",
     "category": "General",
     "tagline": "Same Theme. Different Weapons. Prove Your Medium",
@@ -760,7 +470,7 @@
     "club": "Esports, Creative and TechnoSports Committee",
     "start_date": "2026-09-13T15:00:00Z",
     "end_date": "2026-09-13T20:00:00Z",
-    "venue": "PRP CLASSROOM 304",
+    "venue": "SMART CLASSROOM (PRP 440A &B)",
     "team_size": "1",
     "price": 100,
     "short_description": "Arcade Versus League is an adrenaline-fueled, high-stakes 1v1 esports tournament designed to test adaptability, versatility, and raw gaming skill. Moving away from traditional single-game competitions, this event forces participants to conquer a rotating roster of titles dictated entirely by fate.Built on a dynamic ladder system, competitors face off in head-to-head matches. Winners ascend the ranks to battle other players with matching win records, while the game for each round is decided live by a wheel spin containing a curated pool of popular multiplayer, fighting, and arcade titles.",
@@ -882,47 +592,6 @@
     }
   },
   {
-    "id": "b09bc576-a687-4557-8c9d-c749dcc85d6e",
-    "name": "Hydro Clash (Men)",
-    "type": "Competition",
-    "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-14T09:00:00Z",
-    "end_date": "2026-09-14T13:00:00Z",
-    "venue": "MENS SWIMMING POOL",
-    "team_size": "1",
-    "price": 177,
-    "short_description": "Hydro Clash is an exciting 6v6 Water Polo Championship that combines swimming, teamwork, strategy, endurance, and competitive gameplay. Teams compete in the water through fast-paced passing, attacking movements, defensive plays, and goal-scoring opportunities, creating an energetic and engaging sporting experience for both participants and spectators.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Kick Off. Dominate. Conquer",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "team-based",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 3,
-      "label": "3h"
-    }
-  },
-  {
     "id": "d6298a00-f9c0-4012-a405-5f9f619f3b32",
     "name": "ForgeAi",
     "type": "Hackathon",
@@ -933,7 +602,7 @@
     "team_size": "2-5",
     "price": 0,
     "short_description": "ForgeAi is an intensive overnight AI hackathon where participants go beyond simply building an AI solution. Teams will build their idea, evaluate it using PRISM by Block Convey, identify real weaknesses, improve their system, and prove the improvement with measurable evidence. Participants will receive a dedicated 120-minute PRISM session, access to free PRISM credits, and expert guidance to help them integrate AI evaluation into their solutions. The hackathon culminates in final evaluations and live pitches, with a $500 first prize contingent on meaningful PRISM usage and paid internship opportunities for impressive participant profiles. Powered by Block Convey",
-    "scope": "internal only",
+    "scope": "internal_only",
     "category": "pro",
     "tagline": "BUILD IT. BREAK IT. FIX IT. PROVE IT.",
     "is_team": true,
@@ -962,47 +631,6 @@
       "days": 2,
       "hours": 34,
       "label": "2 days (34h)"
-    }
-  },
-  {
-    "id": "037be30d-5f01-413d-9c0d-4a1bccfea238",
-    "name": "Hydro Clash (Women)",
-    "type": "Competition",
-    "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-14T14:30:00Z",
-    "end_date": "2026-09-14T17:00:00Z",
-    "venue": "MENS SWIMMING POOL",
-    "team_size": "1",
-    "price": 177,
-    "short_description": "Hydro Clash is an exciting 6v6 Water Polo Championship that combines swimming, teamwork, strategy, endurance, and competitive gameplay. Teams compete in the water through fast-paced passing, attacking movements, defensive plays, and goal-scoring opportunities, creating an energetic and engaging sporting experience for both participants and spectators.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Kick Off. Dominate. Conquer",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "team-based",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 3,
-      "label": "3h"
     }
   },
   {
@@ -1048,88 +676,6 @@
     }
   },
   {
-    "id": "9912aae5-9bef-448d-894e-8117f838d441",
-    "name": "Neon Smash(WOMEN)",
-    "type": "Competition",
-    "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-15T02:30:00Z",
-    "end_date": "2026-09-15T17:00:00Z",
-    "venue": "MENS INDOOR BADMINTON COURT",
-    "team_size": "1",
-    "price": 125,
-    "short_description": "Neon Smash is a glow in the dark doubles badminton tournament that offers participants a unique and exciting sporting experience in a specially illuminated arena. Players compete on a neon-themed court with glowing equipment, creating an immersive atmosphere that combines competitive gameplay with entertainment. The event promotes sportsmanship, agility, and quick reflexes while delivering a memorable experience for both participants and spectators.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Experience Badminton in a Whole New Light!",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "team-based",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 4,
-      "label": "4h"
-    }
-  },
-  {
-    "id": "91ec3eff-ddcd-4229-99c9-8e33b0b9738a",
-    "name": "Neon Smash(MEN)",
-    "type": "Competition",
-    "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-15T09:00:00Z",
-    "end_date": "2026-09-15T13:00:00Z",
-    "venue": "MENS INDOOR BADMINTON COURT",
-    "team_size": "1",
-    "price": 125,
-    "short_description": "Neon Smash is a glow in the dark doubles badminton tournament that offers participants a unique and exciting sporting experience in a specially illuminated arena. Players compete on a neon-themed court with glowing equipment, creating an immersive atmosphere that combines competitive gameplay with entertainment. The event promotes sportsmanship, agility, and quick reflexes while delivering a memorable experience for both participants and spectators.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Experience Badminton in a Whole New Light!",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "team-based",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 3,
-      "label": "3h"
-    }
-  },
-  {
     "id": "fcddc4dc-7dd9-483e-8744-88ec890e8567",
     "name": "Truss Force",
     "type": "Workshop",
@@ -1168,6 +714,48 @@
       "days": 1,
       "hours": 11,
       "label": "11h"
+    }
+  },
+  {
+    "id": "61da9ad2-8339-4315-894c-a494734e0584",
+    "name": "MathQuest",
+    "type": "Workshop",
+    "club": "School of Advanced Sciences",
+    "start_date": "2026-09-15T10:00:00Z",
+    "end_date": "2026-09-15T17:00:00Z",
+    "venue": "PRP550",
+    "team_size": "1-1",
+    "price": 0,
+    "short_description": "",
+    "scope": "external_only",
+    "category": "Premium",
+    "tagline": "-",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "free",
+      "external-only",
+      "solo",
+      "workshop",
+      "premium"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 7,
+      "label": "7h"
     }
   },
   {
@@ -1212,19 +800,19 @@
     }
   },
   {
-    "id": "00ee1bdd-63a2-4a1d-abd1-5c66a31a27cd",
-    "name": "VIT RUNFEST 2026 WOMEN",
-    "type": "Competition",
-    "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-16T05:30:00Z",
-    "end_date": "2026-09-16T07:30:00Z",
-    "venue": "VIT CAMPUS",
-    "team_size": "1",
+    "id": "d9b6b38b-72da-4ef4-93ee-b7ae8bc771e2",
+    "name": "WordCraft: Learn, Create, Communicate",
+    "type": "Workshop",
+    "club": "School of Social Sciences & Languages",
+    "start_date": "2026-09-15T10:00:00Z",
+    "end_date": "2026-09-15T17:00:00Z",
+    "venue": "PRP 322",
+    "team_size": "1-10",
     "price": 0,
-    "short_description": "VIT RunFest 2026 is a competitive marathon event designed to promote fitness, endurance, discipline, and sportsmanship among students. Participants will compete individually on a designated route, with rankings determined by completion time. The event aims to provide an exciting and challenging running experience while encouraging students to push their limits and embrace a healthy lifestyle.",
-    "scope": "internal",
-    "category": "General",
-    "tagline": "Run. Endure. Conquer.",
+    "short_description": "",
+    "scope": "external_only",
+    "category": "Premium",
+    "tagline": "-",
     "is_team": false,
     "scores": {
       "robotics": 0,
@@ -1242,14 +830,15 @@
     },
     "tags": [
       "free",
-      "open-to-all",
+      "external-only",
       "solo",
-      "competitive"
+      "workshop",
+      "premium"
     ],
     "duration": {
       "days": 1,
-      "hours": 1,
-      "label": "1h"
+      "hours": 7,
+      "label": "7h"
     }
   },
   {
@@ -1257,9 +846,9 @@
     "name": "VIT RUNFEST 2026 MEN",
     "type": "Competition",
     "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-16T05:30:00Z",
-    "end_date": "2026-09-16T07:30:00Z",
-    "venue": "VIT CAMPUS",
+    "start_date": "2026-09-16T04:00:00Z",
+    "end_date": "2026-09-16T07:00:00Z",
+    "venue": "GREENOS, KC LAWN, TT",
     "team_size": "1",
     "price": 0,
     "short_description": "VIT RunFest 2026 is a competitive marathon event designed to promote fitness, endurance, discipline, and sportsmanship among students. Participants will compete individually on a designated route, with rankings determined by completion time. The event aims to provide an exciting and challenging running experience while encouraging students to push their limits and embrace a healthy lifestyle.",
@@ -1294,46 +883,44 @@
     }
   },
   {
-    "id": "2099d7e9-32e4-4cd8-8591-c64584eeb3e6",
-    "name": "CASHFLOW 5.0",
+    "id": "00ee1bdd-63a2-4a1d-abd1-5c66a31a27cd",
+    "name": "VIT RUNFEST 2026 WOMEN",
     "type": "Competition",
-    "club": "BULLS AND BEARS CLUB",
-    "start_date": "2026-09-16T08:00:00Z",
-    "end_date": "2026-09-17T14:00:00Z",
-    "venue": "Era Seiyan Auditorium",
-    "team_size": "Solo",
-    "price": 170,
-    "short_description": "The Bulls and Bears Club proudly presents Cashflow 5.0! Returning for a massive 5th edition, our legacy finance board game immerses you in property, stocks, and entrepreneurship. But this time, the stakes are higher with an all- new thrilling Finathon! Test your wealth-building strategies, generate passive income, and escape the rat race. Are you ready to outsmart the market and claim your ultimate financial freedom?",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Roll the Dice, Read the Market and Escape the Rat Race",
+    "club": "Esports, Creative and TechnoSports Committee",
+    "start_date": "2026-09-16T04:45:00Z",
+    "end_date": "2026-09-16T07:00:00Z",
+    "venue": "GREENOS, KC LAWN, TT",
+    "team_size": "1",
+    "price": 0,
+    "short_description": "VIT RunFest 2026 is a competitive marathon event designed to promote fitness, endurance, discipline, and sportsmanship among students. Participants will compete individually on a designated route, with rankings determined by completion time. The event aims to provide an exciting and challenging running experience while encouraging students to push their limits and embrace a healthy lifestyle.",
+    "scope": "internal",
+    "category": "General",
+    "tagline": "Run. Endure. Conquer.",
     "is_team": false,
     "scores": {
-      "robotics": 8,
-      "iot": 10,
-      "ai_ml": 20,
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
       "hackathons": 0,
-      "startups": 40,
-      "webdev": 10,
+      "startups": 0,
+      "webdev": 0,
       "cybersecurity": 0,
       "electronics": 0,
       "cad_design": 0,
       "gaming": 0,
-      "finance": 85,
-      "general_fun": 30
+      "finance": 0,
+      "general_fun": 0
     },
     "tags": [
-      "multi-day",
-      "overnight",
-      "competitive",
-      "hands-on",
-      "premium",
-      "solo"
+      "free",
+      "open-to-all",
+      "solo",
+      "competitive"
     ],
     "duration": {
-      "days": 2,
-      "hours": 30,
-      "label": "2 days (30h)"
+      "days": 1,
+      "hours": 1,
+      "label": "1h"
     }
   },
   {
@@ -1591,7 +1178,7 @@
     "name": "Ignite Pickle (WOMEN)",
     "type": "Competition",
     "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-16T14:30:00Z",
+    "start_date": "2026-09-16T14:00:00Z",
     "end_date": "2026-09-16T17:00:00Z",
     "venue": "MENS INDOOR BADMINTON COURT",
     "team_size": "1",
@@ -1625,6 +1212,49 @@
       "days": 1,
       "hours": 4,
       "label": "4h"
+    }
+  },
+  {
+    "id": "2099d7e9-32e4-4cd8-8591-c64584eeb3e6",
+    "name": "CASHFLOW 5.0",
+    "type": "Competition",
+    "club": "BULLS AND BEARS CLUB",
+    "start_date": "2026-09-17T08:00:00Z",
+    "end_date": "2026-09-17T19:00:00Z",
+    "venue": "Era Seiyan Auditorium",
+    "team_size": "Solo",
+    "price": 170,
+    "short_description": "The Bulls and Bears Club proudly presents Cashflow 5.0! Returning for a massive 5th edition, our legacy finance board game immerses you in property, stocks, and entrepreneurship. But this time, the stakes are higher with an all- new thrilling Finathon! Test your wealth-building strategies, generate passive income, and escape the rat race. Are you ready to outsmart the market and claim your ultimate financial freedom?",
+    "scope": "both",
+    "category": "Premium",
+    "tagline": "Roll the Dice, Read the Market and Escape the Rat Race",
+    "is_team": false,
+    "scores": {
+      "robotics": 8,
+      "iot": 10,
+      "ai_ml": 20,
+      "hackathons": 0,
+      "startups": 40,
+      "webdev": 10,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 85,
+      "general_fun": 30
+    },
+    "tags": [
+      "multi-day",
+      "overnight",
+      "competitive",
+      "hands-on",
+      "premium",
+      "solo"
+    ],
+    "duration": {
+      "days": 2,
+      "hours": 30,
+      "label": "2 days (30h)"
     }
   },
   {
@@ -1716,7 +1346,7 @@
     "name": "Aqua Arena (MEN)",
     "type": "Competition",
     "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-17T10:00:00Z",
+    "start_date": "2026-09-17T09:00:00Z",
     "end_date": "2026-09-17T13:00:00Z",
     "venue": "MENS SWIMMING POOL",
     "team_size": "1",
@@ -1753,54 +1383,13 @@
     }
   },
   {
-    "id": "21072714-a488-4654-aa90-6391f3aa3b60",
-    "name": "Aqua Arena (WOMEN)",
-    "type": "Competition",
-    "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-17T14:30:00Z",
-    "end_date": "2026-09-17T17:00:00Z",
-    "venue": "MENS SWIMMING POOL",
-    "team_size": "1",
-    "price": 120,
-    "short_description": "Aqua Arena is a thrilling 3v3 Water Volleyball tournament that combines teamwork, strategy, and fast-paced gameplay on a specially designed water court. Played in a single-elimination knockout format, the event offers participants a fun and refreshing competitive experience while promoting sportsmanship, coordination, and team spirit. With an energetic atmosphere and exciting matches, Aqua Arena promises to be one of the most engaging attractions of graVITas 2026",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Dive. Spike. Conquer.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "team-based",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 3,
-      "label": "3h"
-    }
-  },
-  {
     "id": "6ea33e82-4440-4970-bfd8-9907af36eb4d",
     "name": "The AI Vibe-Coding Showdown",
     "type": "Competition",
     "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-17T15:00:00Z",
+    "start_date": "2026-09-17T16:00:00Z",
     "end_date": "2026-09-17T20:00:00Z",
-    "venue": "Smart Classroom (SJT G07)",
+    "venue": "VOC GALLERY",
     "team_size": "1",
     "price": 105,
     "short_description": "The AI Vibe-Coding Showdown is a fast-paced 3-hour technical competition bridging storytelling, live-action filmmaking, and rapid AI software development. Designed for teams of 4 to 6 members, the challenge moves away from traditional coding marathons toward a spectator-friendly arena where creative expression meets digital engineering.",
@@ -1832,6 +1421,47 @@
       "days": 1,
       "hours": 5,
       "label": "5h"
+    }
+  },
+  {
+    "id": "b09bc576-a687-4557-8c9d-c749dcc85d6e",
+    "name": "Hydro Clash (Men)",
+    "type": "Competition",
+    "club": "Esports, Creative and TechnoSports Committee",
+    "start_date": "2026-09-18T06:30:00Z",
+    "end_date": "2026-09-18T09:30:00Z",
+    "venue": "MENS SWIMMING POOL",
+    "team_size": "1",
+    "price": 177,
+    "short_description": "Hydro Clash is an exciting 6v6 Water Polo Championship that combines swimming, teamwork, strategy, endurance, and competitive gameplay. Teams compete in the water through fast-paced passing, attacking movements, defensive plays, and goal-scoring opportunities, creating an energetic and engaging sporting experience for both participants and spectators.",
+    "scope": "both",
+    "category": "General",
+    "tagline": "Kick Off. Dominate. Conquer",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "team-based",
+      "competitive"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 3,
+      "label": "3h"
     }
   },
   {
@@ -1881,7 +1511,7 @@
     "type": "Competition",
     "club": "INSTITUTE ELECTRICAL & ELECTRONICS ENGINEERING (IEEE)",
     "start_date": "2026-09-18T08:00:00Z",
-    "end_date": "2026-09-19T20:00:00Z",
+    "end_date": "2026-09-19T15:00:00Z",
     "venue": "SJT Foodys 2",
     "team_size": "3-4",
     "price": 500,
@@ -2680,6 +2310,48 @@
       "days": 1,
       "hours": 9,
       "label": "1 day (9h)"
+    }
+  },
+  {
+    "id": "4d7d168c-9d8e-4644-a49c-bee07b40960f",
+    "name": "kARniVRse",
+    "type": "Other Events",
+    "club": "Pro-Events",
+    "start_date": "2026-09-18T09:00:00Z",
+    "end_date": "2026-09-20T19:00:00Z",
+    "venue": "Era Sezhiyan Auditorium (MGB)",
+    "team_size": "Solo",
+    "price": 300,
+    "short_description": "Step into kARniVRse, an immersive arcade carnival packed with VR adventures, interactive challenges, classic arcade games, and a retro photobooth. Battle your friends, test your reflexes, chase high scores, and experience something new at every turn. Come play, compete, capture, and make memories! Also stand a chance to win a FREE MERCH everyday by playing the games!",
+    "scope": "both",
+    "category": "pro",
+    "tagline": "An adventure too BIG for the REAL world",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "solo",
+      "multi-day",
+      "overnight"
+    ],
+    "duration": {
+      "days": 3,
+      "hours": 58,
+      "label": "3 days (58h)"
     }
   },
   {
@@ -3812,7 +3484,7 @@
     "club": "School of Computer Science Engineering and Information Systems",
     "start_date": "2026-09-18T10:00:00Z",
     "end_date": "2026-09-18T17:00:00Z",
-    "venue": "MGB 304",
+    "venue": "PRP 539",
     "team_size": "Solo",
     "price": 170,
     "short_description": "one-day hands-on workshop on building modern full-stack web applications and integrating Generative AI using APIs, LLMs, and prompt engineering. Participants will develop an AI-powered mini project through practical coding sessions.",
@@ -4185,7 +3857,7 @@
     "club": "School of Computer Science and Engineering",
     "start_date": "2026-09-18T10:00:00Z",
     "end_date": "2026-09-18T18:00:00Z",
-    "venue": "SJT 217",
+    "venue": "SJT 318",
     "team_size": "1",
     "price": 210,
     "short_description": "A hands-on workshop on building modern AI systems through a real-world financial research use case inspired by CalQuity.",
@@ -4392,7 +4064,7 @@
     "club": "School of Computer Science and Engineering",
     "start_date": "2026-09-18T10:00:00Z",
     "end_date": "2026-09-18T18:00:00Z",
-    "venue": "SJT 416",
+    "venue": "SJT 319",
     "team_size": "1-3",
     "price": 300,
     "short_description": "A hands-on workshop on Ai-assisted software development using claude code .",
@@ -4516,7 +4188,7 @@
     "type": "Workshop",
     "club": "SOCIETY OF AUTOMOTIVE ENGINEERS (SAE)",
     "start_date": "2026-09-18T13:00:00Z",
-    "end_date": "2026-09-19T18:00:00Z",
+    "end_date": "2026-09-19T19:00:00Z",
     "venue": "TT 313",
     "team_size": "1",
     "price": 250,
@@ -4808,7 +4480,7 @@
     "club": "Esports, Creative and TechnoSports Committee",
     "start_date": "2026-09-18T15:00:00Z",
     "end_date": "2026-09-18T18:00:00Z",
-    "venue": "PRP CLASSROOM 308",
+    "venue": "SMART CLASSROOM (PRP 440A &B)",
     "team_size": "1",
     "price": 100,
     "short_description": "A competitive Clash Royale tournament split across 8 distinct game modes to test true player versatility. Participants are randomly distributed into 8 separate initial brackets, each featuring a different game mode with randomized cards and decks to level the playing field for newcomers and veterans alike. The 8 tournament winners will then undergo random pairing lottery, specified with game modes to form pairs, culminating in head-to-head matches in the designated game modes to crown the ultimate champion.",
@@ -4843,12 +4515,53 @@
     }
   },
   {
+    "id": "037be30d-5f01-413d-9c0d-4a1bccfea238",
+    "name": "Hydro Clash (Women)",
+    "type": "Competition",
+    "club": "Esports, Creative and TechnoSports Committee",
+    "start_date": "2026-09-18T18:00:00Z",
+    "end_date": "2026-09-18T21:00:00Z",
+    "venue": "LADIES SWIMMING POOL",
+    "team_size": "1",
+    "price": 177,
+    "short_description": "Hydro Clash is an exciting 6v6 Water Polo Championship that combines swimming, teamwork, strategy, endurance, and competitive gameplay. Teams compete in the water through fast-paced passing, attacking movements, defensive plays, and goal-scoring opportunities, creating an energetic and engaging sporting experience for both participants and spectators.",
+    "scope": "both",
+    "category": "General",
+    "tagline": "Kick Off. Dominate. Conquer",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "team-based",
+      "competitive"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 3,
+      "label": "3h"
+    }
+  },
+  {
     "id": "ec563730-9e8f-4fba-a7ef-e128c74f8d87",
     "name": "Startup Street 11",
     "type": "Competition",
     "club": "CENTRE FOR SOCIAL ENTREPRENEURSHIP DEVELOPMENT(CSED)",
     "start_date": "2026-09-18T18:00:00Z",
-    "end_date": "2026-09-19T18:00:00Z",
+    "end_date": "2026-09-19T19:00:00Z",
     "venue": "VOC Gallery - II, PRP Auditorium-1 (PRP645)",
     "team_size": "1-5",
     "price": 250,
@@ -5005,6 +4718,47 @@
       "days": 2,
       "hours": 8,
       "label": "2 days (8h)"
+    }
+  },
+  {
+    "id": "9912aae5-9bef-448d-894e-8117f838d441",
+    "name": "Neon Smash(WOMEN)",
+    "type": "Competition",
+    "club": "Esports, Creative and TechnoSports Committee",
+    "start_date": "2026-09-19T07:00:00Z",
+    "end_date": "2026-09-19T10:00:00Z",
+    "venue": "MENS INDOOR BADMINTON COURT",
+    "team_size": "1",
+    "price": 125,
+    "short_description": "Neon Smash is a glow in the dark doubles badminton tournament that offers participants a unique and exciting sporting experience in a specially illuminated arena. Players compete on a neon-themed court with glowing equipment, creating an immersive atmosphere that combines competitive gameplay with entertainment. The event promotes sportsmanship, agility, and quick reflexes while delivering a memorable experience for both participants and spectators.",
+    "scope": "both",
+    "category": "General",
+    "tagline": "Experience Badminton in a Whole New Light!",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "team-based",
+      "competitive"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 4,
+      "label": "4h"
     }
   },
   {
@@ -6356,6 +6110,47 @@
     }
   },
   {
+    "id": "15351a8f-e919-4f05-8626-cac564e6137c",
+    "name": "Code Or Chaos",
+    "type": "Competition",
+    "club": "Esports, Creative and TechnoSports Committee",
+    "start_date": "2026-09-19T17:00:00Z",
+    "end_date": "2026-09-19T19:00:00Z",
+    "venue": "Smart Classroom (SJT 307)",
+    "team_size": "1",
+    "price": 120,
+    "short_description": ":A gamified competitive-programming event built on a 3-life system — participants lose a life for a compile/syntax error, not for a wrong answer. Once all lives are lost, the participant must clear a quick eSports duel (chess blitz or reflex duel) or a short physical trial (e.g. push-ups) at a live Respawn Station to regain a life and continue. A live “hearts” leaderboard on screen makes it spectator-friendly and brings coding, eSports, and physical activity into one event.",
+    "scope": "internal_only",
+    "category": "General",
+    "tagline": "“Three lives. One compiler. No mercy.”",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "internal-only",
+      "solo",
+      "competitive"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 2,
+      "label": "2h"
+    }
+  },
+  {
     "id": "478e8e88-3ef2-4b76-8473-338769f684b3",
     "name": "Compile or Die",
     "type": "Competition",
@@ -6435,6 +6230,47 @@
       "days": 1,
       "hours": 8,
       "label": "8h"
+    }
+  },
+  {
+    "id": "91ec3eff-ddcd-4229-99c9-8e33b0b9738a",
+    "name": "Neon Smash(MEN)",
+    "type": "Competition",
+    "club": "Esports, Creative and TechnoSports Committee",
+    "start_date": "2026-09-19T18:00:00Z",
+    "end_date": "2026-09-19T21:00:00Z",
+    "venue": "MENS INDOOR BADMINTON COURT",
+    "team_size": "1",
+    "price": 125,
+    "short_description": "Neon Smash is a glow in the dark doubles badminton tournament that offers participants a unique and exciting sporting experience in a specially illuminated arena. Players compete on a neon-themed court with glowing equipment, creating an immersive atmosphere that combines competitive gameplay with entertainment. The event promotes sportsmanship, agility, and quick reflexes while delivering a memorable experience for both participants and spectators.",
+    "scope": "both",
+    "category": "General",
+    "tagline": "Experience Badminton in a Whole New Light!",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "team-based",
+      "competitive"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 3,
+      "label": "3h"
     }
   },
   {
@@ -6561,6 +6397,47 @@
       "days": 2,
       "hours": 6,
       "label": "2 days (6h)"
+    }
+  },
+  {
+    "id": "21072714-a488-4654-aa90-6391f3aa3b60",
+    "name": "Aqua Arena (WOMEN)",
+    "type": "Competition",
+    "club": "Esports, Creative and TechnoSports Committee",
+    "start_date": "2026-09-20T07:00:00Z",
+    "end_date": "2026-09-20T10:00:00Z",
+    "venue": "LADIES SWIMMING POOL",
+    "team_size": "1",
+    "price": 120,
+    "short_description": "Aqua Arena is a thrilling 3v3 Water Volleyball tournament that combines teamwork, strategy, and fast-paced gameplay on a specially designed water court. Played in a single-elimination knockout format, the event offers participants a fun and refreshing competitive experience while promoting sportsmanship, coordination, and team spirit. With an energetic atmosphere and exciting matches, Aqua Arena promises to be one of the most engaging attractions of graVITas 2026",
+    "scope": "both",
+    "category": "General",
+    "tagline": "Dive. Spike. Conquer.",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "team-based",
+      "competitive"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 3,
+      "label": "3h"
     }
   },
   {
@@ -7470,9 +7347,9 @@
     "name": "Aqua Beats (WOMEN)",
     "type": "Workshop",
     "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-20T16:30:00Z",
-    "end_date": "2026-09-20T17:30:00Z",
-    "venue": "MENS SWIMMING POOL",
+    "start_date": "2026-09-20T16:00:00Z",
+    "end_date": "2026-09-20T18:00:00Z",
+    "venue": "LADIES SWIMMING POOL",
     "team_size": "1",
     "price": 127,
     "short_description": "Aqua Zumba is an exciting fitness and wellness activity that combines the energetic movements of Zumba with the natural resistance of water. Conducted in a swimming pool, the session allows participants to perform rhythmic exercises, stretches, and dance-based movements while reducing stress on the joints and muscles. By integrating elements of aerobics, dance, flexibility training, and mindfulness, Aqua Zumba offers a holistic experience that enhances physical fitness, improves coordination, and promotes mental relaxation.",
