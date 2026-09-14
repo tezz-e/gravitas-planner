@@ -88,47 +88,6 @@
     }
   },
   {
-    "id": "26a62ec7-d68b-4808-8c2b-d06843af19d6",
-    "name": "PlaceIt 5.0",
-    "type": "Others",
-    "club": "IEEE PROFESSIONAL COMMUNICATION SOCIETY (IEEE-PCS)",
-    "start_date": "2026-09-12T09:00:00Z",
-    "end_date": "2026-09-13T15:00:00Z",
-    "venue": "SMV 110",
-    "team_size": "2-4",
-    "price": 150,
-    "short_description": "Place It 5.0, The flagship Ideathon, offers a platform for students to develop and pitch innovative solutions to real-world problems. The event features expert-led sessions on ideation and project building, followed by a pitching round where participants showcase their ideas. A thought-provoking talk show with industry professionals further would enrich the event, providing valuable insights into emerging technologies and creative thinking",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "Inspire Connect Innovate",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "internal-only",
-      "team-based",
-      "multi-day"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 30,
-      "label": "2 days (30h)"
-    }
-  },
-  {
     "id": "a1387ff3-2ff1-44d5-807a-8882a5f0fd31",
     "name": "Hackbattle",
     "type": "Hackathon",
@@ -169,92 +128,6 @@
       "days": 2,
       "hours": 36,
       "label": "2 days (36h)"
-    }
-  },
-  {
-    "id": "a8b732d1-a304-492e-b3f0-99ff8dd2f045",
-    "name": "HackQuest",
-    "type": "Hackathon",
-    "club": "AWS Student Builder Group",
-    "start_date": "2026-09-12T14:00:00Z",
-    "end_date": "2026-09-13T14:00:00Z",
-    "venue": "Sarojini Naidu Gallery",
-    "team_size": "1-4",
-    "price": 179,
-    "short_description": "HackQuest is not your ordinary hackathon—it’s a 24-hour mystery-box challenge where your problem statement is revealed only at the start. Build from scratch, tackle real-world twists, and earn points through AWS quizzes, puzzles, debugging challenges, and treasure hunts. Redeem your points for hints, mentor support, technical reviews, and strategic advantages. Test your coding, creativity, teamwork, adaptability, and cloud skills as requirements evolve. Think fast. Build smart. Adapt faster. Are you ready to crack the box?",
-    "scope": "Both",
-    "category": "General",
-    "tagline": "Unbox the Unknown. Engineer the Future",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "team-based",
-      "hackathon",
-      "multi-day"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 24,
-      "label": "1 day (24h)"
-    }
-  },
-  {
-    "id": "eda4c7c5-1661-41db-a0e3-f6d3d687430a",
-    "name": "Dream Team 8.0",
-    "type": "Competition",
-    "club": "DREAM MERCHANTS",
-    "start_date": "2026-09-12T15:00:00Z",
-    "end_date": "2026-09-13T17:00:00Z",
-    "venue": "PRP 539, Homi Baba Gallery",
-    "team_size": "1-5",
-    "price": 280,
-    "short_description": "Dream Team 8.0 is an IPL-style auction simulation where participants take on the role of franchise owners and compete to build the strongest cricket squad within a fixed budget. Through strategic bidding, resource management, and player evaluation, teams must assemble a balanced squad while navigating competitive auction dynamics and unique challenges. The event combines cricket knowledge, analytical thinking, and decision-making in an engaging franchise-management experience\nCompete for exciting cash prizes, showcase your auctioning skills, and prove you have what it takes to build the ultimate Dream Team!",
-    "scope": "internal_only",
-    "category": "Premium",
-    "tagline": "Buy the Best . Beat the Rest",
-    "is_team": true,
-    "scores": {
-      "robotics": 8,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 5,
-      "startups": 10,
-      "webdev": 10,
-      "cybersecurity": 0,
-      "electronics": 10,
-      "cad_design": 10,
-      "gaming": 0,
-      "finance": 20,
-      "general_fun": 50
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "competitive",
-      "hands-on",
-      "premium",
-      "team-based",
-      "internal-only"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 31,
-      "label": "2 days (31h)"
     }
   },
   {
@@ -337,46 +210,6 @@
       "days": 1,
       "hours": 12,
       "label": "1 day (12h)"
-    }
-  },
-  {
-    "id": "fcbb91f5-7319-4478-a967-0c0d96bb9cf0",
-    "name": "JUNKYARD GENESIS",
-    "type": "Competition",
-    "club": "FINE ARTS CLUB (TFAC)",
-    "start_date": "2026-09-13T08:00:00Z",
-    "end_date": "2026-09-13T18:00:00Z",
-    "venue": "TT Amphitheater",
-    "team_size": "1-5",
-    "price": 180,
-    "short_description": "Junkyard Genesis is a sustainability driven art competition where creativity meets conscious innovation. Participants will transform discarded electronic waste into meaningful works of art, proving that obsolete technology still holds limitless creative potential. By embracing the principles of Reduce, Reuse, and Recycle, this event encourages participants to rethink waste, promote environmental responsibility, and inspire a future where sustainability and artistic expression go hand in hand.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Every broken wire tells a new story.",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 20,
-      "ai_ml": 40,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 30,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 50
-    },
-    "tags": [
-      "single-day",
-      "competitive",
-      "team-based"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 10,
-      "label": "1 day (10h)"
     }
   },
   {
@@ -3061,48 +2894,6 @@
     }
   },
   {
-    "id": "f7094dc4-a83d-4f7b-9158-35fe34555ad4",
-    "name": "Money Heist: Blueprint Vault — Tower Edition",
-    "type": "Competition",
-    "club": "INDIAN GEOTECHNICAL SOCIETY",
-    "start_date": "2026-09-18T09:00:00Z",
-    "end_date": "2026-09-18T17:00:00Z",
-    "venue": "TT Basketball Court",
-    "team_size": "1-5",
-    "price": 150,
-    "short_description": "Money Heist: Blueprint Vault — Tower Edition is a high-energy civil engineering challenge where teams become The Professor’s crew, solving engineering puzzles to crack a vault and earn credits. They strategically purchase construction materials and tools before racing against the clock to measure a distance and build the tallest, most stable tower. The game combines engineering, strategy, teamwork, resource management, and the thrill of a heist.  “Bella Ciao? Not until the blueprint stands tall.” 🏗️💰🎭",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "Every engineer can crack a code . Only the smartest team can build the skyline .",
-    "is_team": true,
-    "scores": {
-      "robotics": 16,
-      "iot": 10,
-      "ai_ml": 20,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 25,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 20,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 50
-    },
-    "tags": [
-      "single-day",
-      "competitive",
-      "hands-on",
-      "team-based",
-      "internal-only"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 8,
-      "label": "1 day (8h)"
-    }
-  },
-  {
     "id": "93163551-291b-4461-8c06-d274b605296b",
     "name": "Cybersecurity Automation: Building Intelligent and Resilient Digital Systems",
     "type": "Workshop",
@@ -4677,6 +4468,47 @@
       "days": 2,
       "hours": 29,
       "label": "2 days (29h)"
+    }
+  },
+  {
+    "id": "0629102b-cc5f-4992-8921-2e55df1cb2f9",
+    "name": "Celestial Dive 5.0",
+    "type": "Workshop",
+    "club": "ASTRONOMY CLUB- VIT STELLAR",
+    "start_date": "2026-09-18T21:00:00Z",
+    "end_date": "2026-09-19T06:00:00Z",
+    "venue": "KC Lawn",
+    "team_size": "Solo",
+    "price": 550,
+    "short_description": "Celestial Dive 5.0 is a journey beyond Earth. Spend an unforgettable night exploring the cosmos through powerful telescopes, uncovering the mysteries of the universe through engaging astronomy sessions and experiencing immersive planetariums that bring space to life. Enhanced by a carefully crafted moonlit ambiance, every moment is designed to inspire wonder, curiosity and a deeper connection with the universe.",
+    "scope": "both",
+    "category": "Premium",
+    "tagline": "One Night - Infinite Wonders.",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 15,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 20,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 70
+    },
+    "tags": [
+      "multi-day",
+      "workshop-style",
+      "premium",
+      "solo"
+    ],
+    "duration": {
+      "days": 2,
+      "hours": 8,
+      "label": "2 days (8h)"
     }
   },
   {
