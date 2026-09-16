@@ -44,301 +44,6 @@
     }
   },
   {
-    "id": "e5c13da3-79a3-4c1a-8dd6-1d1a3b4ef342",
-    "name": "Machine Design with Fusion 360",
-    "type": "Workshop",
-    "club": "RoboVITics",
-    "start_date": "2026-09-14T08:00:00Z",
-    "end_date": "2026-09-15T20:00:00Z",
-    "venue": "Homi Baba Gallery",
-    "team_size": "Solo",
-    "price": 840,
-    "short_description": "Ready to build machines that actually move and think together? The Machine Design Workshop is an intensive, two-day deep dive into intermediate CAD, swarm RoboVITics, and virtual prototyping. Go beyond basic tutorials—master parametric 3D modeling, functional assemblies, and cinematic animations in Autodesk Fusion 360. Then, step into the future of simulation by dropping your designs into Webots to test multi-t swarm dynamics, real-world physics, and collective motion before hitting production. Transform theoretical engineering into autonomous, tested reality. Design smart. Test virtually. Build better.",
-    "scope": "internal_only",
-    "category": "Premium",
-    "tagline": "From Sketch to Swarm: Design, Simulate, Deploy.",
-    "is_team": false,
-    "scores": {
-      "robotics": 80,
-      "iot": 10,
-      "ai_ml": 10,
-      "hackathons": 0,
-      "startups": 8,
-      "webdev": 45,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 95,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 10
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "workshop-style",
-      "hands-on",
-      "beginner-friendly",
-      "premium",
-      "solo",
-      "internal-only"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 36,
-      "label": "2 days (36h)"
-    }
-  },
-  {
-    "id": "d6298a00-f9c0-4012-a405-5f9f619f3b32",
-    "name": "ForgeAi",
-    "type": "Hackathon",
-    "club": "Pro-Events",
-    "start_date": "2026-09-14T09:00:00Z",
-    "end_date": "2026-09-15T19:00:00Z",
-    "venue": "Anna Auditorium",
-    "team_size": "2-5",
-    "price": 0,
-    "short_description": "ForgeAi is an intensive overnight AI hackathon where participants go beyond simply building an AI solution. Teams will build their idea, evaluate it using PRISM by Block Convey, identify real weaknesses, improve their system, and prove the improvement with measurable evidence. Participants will receive a dedicated 120-minute PRISM session, access to free PRISM credits, and expert guidance to help them integrate AI evaluation into their solutions. The hackathon culminates in final evaluations and live pitches, with a $500 first prize contingent on meaningful PRISM usage and paid internship opportunities for impressive participant profiles. Powered by Block Convey",
-    "scope": "internal_only",
-    "category": "pro",
-    "tagline": "BUILD IT. BREAK IT. FIX IT. PROVE IT.",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "free",
-      "open-to-all",
-      "team-based",
-      "hackathon",
-      "multi-day"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 34,
-      "label": "2 days (34h)"
-    }
-  },
-  {
-    "id": "60e6355c-6651-4a74-b0fa-66af581e9f6d",
-    "name": "Recreate and Relate",
-    "type": "Competition",
-    "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-14T16:00:00Z",
-    "end_date": "2026-09-15T17:00:00Z",
-    "venue": "Smart Classroom (SJT G07)",
-    "team_size": "1",
-    "price": 150,
-    "short_description": "Meme Recreation Challenge turns the internet's favourite pastime into a live event — participants pick a trending meme template and physically recreate it as a photo or short video using nothing but a phone, a bit of acting, and whatever props they can scavenge on campus.\nEntries can be solo or in duos, submitted as a photo or a short video (max 45 seconds). A panel judges every entry on accuracy to the original template, creativity and comic timing, and top entries are screened live for the crowd.",
-    "scope": "internal_only",
-    "category": "General",
-    "tagline": "Steal the Format. Keep the Chaos.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "internal-only",
-      "solo",
-      "competitive",
-      "multi-day"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 25,
-      "label": "2 days (25h)"
-    }
-  },
-  {
-    "id": "fcddc4dc-7dd9-483e-8744-88ec890e8567",
-    "name": "Truss Force",
-    "type": "Workshop",
-    "club": "INDIAN SOCIETY OF EARTHQUAKE TECHNOLOGY(ISET)",
-    "start_date": "2026-09-15T09:00:00Z",
-    "end_date": "2026-09-15T20:00:00Z",
-    "venue": "MB 210",
-    "team_size": "Solo",
-    "price": 100,
-    "short_description": "TrussForce is a hands-on structural engineering event where participants will learn the complete workflow of surveying, modelling, loading, and analysing a real canopy roof structure. Participants will first conduct a real-time survey and measurement of the physical model, understand its geometry, members, and supports, and then recreate the same structure in STAAD.Pro.",
-    "scope": "Internal_only",
-    "category": "General",
-    "tagline": "Decode to Build",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "team-based",
-      "workshop"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 11,
-      "label": "11h"
-    }
-  },
-  {
-    "id": "61da9ad2-8339-4315-894c-a494734e0584",
-    "name": "MathQuest",
-    "type": "Workshop",
-    "club": "School of Advanced Sciences",
-    "start_date": "2026-09-15T10:00:00Z",
-    "end_date": "2026-09-15T17:00:00Z",
-    "venue": "PRP447, SJT620",
-    "team_size": "1-1",
-    "price": 0,
-    "short_description": "",
-    "scope": "external_only",
-    "category": "Premium",
-    "tagline": "-",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "free",
-      "external-only",
-      "solo",
-      "workshop",
-      "premium"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 7,
-      "label": "7h"
-    }
-  },
-  {
-    "id": "a8ea7b76-a4db-4cc2-bf43-5718d32342dc",
-    "name": "Nutpam",
-    "type": "Hackathon",
-    "club": "TAMIL LITERARY ASSOCIATION (TLA)",
-    "start_date": "2026-09-15T10:00:00Z",
-    "end_date": "2026-09-15T16:00:00Z",
-    "venue": "Kamraj Auditorium",
-    "team_size": "1-3",
-    "price": 115,
-    "short_description": "Nutpam aims to inspire students to explore the intersection of language, culture, cryptography, and artificial intelligence. By combining Tamil heritage with cutting-edge technologies, the event encourages innovative solutions that contribute to the digital future of Tamil while fostering technical excellence among participants.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Nutpam - Decoding the past , Training the future",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "hackathon"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 6,
-      "label": "6h"
-    }
-  },
-  {
-    "id": "d9b6b38b-72da-4ef4-93ee-b7ae8bc771e2",
-    "name": "WordCraft: Learn, Create, Communicate",
-    "type": "Workshop",
-    "club": "School of Social Sciences & Languages",
-    "start_date": "2026-09-15T10:00:00Z",
-    "end_date": "2026-09-15T17:00:00Z",
-    "venue": "PRP 320",
-    "team_size": "1-10",
-    "price": 0,
-    "short_description": "",
-    "scope": "external_only",
-    "category": "Premium",
-    "tagline": "-",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "free",
-      "external-only",
-      "solo",
-      "workshop",
-      "premium"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 7,
-      "label": "7h"
-    }
-  },
-  {
     "id": "01ee1bdd-63a2-4a1d-abd1-5c66a31a27cd",
     "name": "VIT RUNFEST 2026 MEN",
     "type": "Competition",
@@ -587,47 +292,6 @@
     }
   },
   {
-    "id": "ff862fb9-e570-4fa6-9156-3a281c5898c1",
-    "name": "Ignite Pickle (MEN)",
-    "type": "Competition",
-    "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-16T10:00:00Z",
-    "end_date": "2026-09-16T13:00:00Z",
-    "venue": "MENS INDOOR BADMINTON COURT",
-    "team_size": "1",
-    "price": 102,
-    "short_description": "Ignite Pickle is a Glow in the Dark Pickleball Championship that offers participants a unique and exciting sporting experience in a specially illuminated arena. Players compete on a neon-themed court with glowing equipment, creating an immersive atmosphere that combines competitive gameplay with entertainment. The event promotes sportsmanship, teamwork, precision, and quick reflexes while delivering a memorable experience for both participants and spectators.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Experience in a Whole New Light!",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "team-based",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 3,
-      "label": "3h"
-    }
-  },
-  {
     "id": "cab0613c-32a8-4af3-8533-92df3ff128a2",
     "name": "SENSORA 2.0",
     "type": "Hackathon",
@@ -668,6 +332,47 @@
       "days": 2,
       "hours": 35,
       "label": "2 days (35h)"
+    }
+  },
+  {
+    "id": "ff862fb9-e570-4fa6-9156-3a281c5898c1",
+    "name": "Ignite Pickle (MEN)",
+    "type": "Competition",
+    "club": "Esports, Creative and TechnoSports Committee",
+    "start_date": "2026-09-16T10:00:00Z",
+    "end_date": "2026-09-16T13:00:00Z",
+    "venue": "MENS INDOOR BADMINTON COURT",
+    "team_size": "1",
+    "price": 102,
+    "short_description": "Ignite Pickle is a Glow in the Dark Pickleball Championship that offers participants a unique and exciting sporting experience in a specially illuminated arena. Players compete on a neon-themed court with glowing equipment, creating an immersive atmosphere that combines competitive gameplay with entertainment. The event promotes sportsmanship, teamwork, precision, and quick reflexes while delivering a memorable experience for both participants and spectators.",
+    "scope": "both",
+    "category": "General",
+    "tagline": "Experience in a Whole New Light!",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "team-based",
+      "competitive"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 3,
+      "label": "3h"
     }
   },
   {
@@ -797,48 +502,6 @@
     }
   },
   {
-    "id": "cd278942-af47-43f7-bf4e-7c5a7ff2780b",
-    "name": "Follow Me: Build a Human Tracking Robot",
-    "type": "Workshop",
-    "club": "INTERNATIONAL SOCIETY OF AUTOMATION (ISA)",
-    "start_date": "2026-09-17T09:00:00Z",
-    "end_date": "2026-09-17T13:00:00Z",
-    "venue": "Kamraj Auditorium",
-    "team_size": "Solo",
-    "price": 250,
-    "short_description": "A beginner-friendly hands-on workshop where participants build, program, and test a human-following robot. Learn the basics of robotics, sensors, motors, and microcontrollers using a complete electronics kit provided during the session.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Build, Program, and Test Your Own Human-Following Robot",
-    "is_team": false,
-    "scores": {
-      "robotics": 95,
-      "iot": 60,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 30,
-      "cybersecurity": 0,
-      "electronics": 70,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 10
-    },
-    "tags": [
-      "single-day",
-      "workshop-style",
-      "hands-on",
-      "beginner-friendly",
-      "solo"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 5,
-      "label": "1 day (5h)"
-    }
-  },
-  {
     "id": "ed74df3a-f091-4442-9b8f-bc42158e92c9",
     "name": "Aqua Arena (MEN)",
     "type": "Competition",
@@ -881,7 +544,7 @@
   },
   {
     "id": "6ea33e82-4440-4970-bfd8-9907af36eb4d",
-    "name": "The AI Vibe-Coding Showdown",
+    "name": "PromptMaxxing: AI Vibe Coding",
     "type": "Competition",
     "club": "Esports, Creative and TechnoSports Committee",
     "start_date": "2026-09-17T16:00:00Z",
@@ -1392,6 +1055,48 @@
     }
   },
   {
+    "id": "4d7d168c-9d8e-4644-a49c-bee07b40960f",
+    "name": "kARniVRse",
+    "type": "Other Events",
+    "club": "Pro-Events",
+    "start_date": "2026-09-18T09:00:00Z",
+    "end_date": "2026-09-20T19:00:00Z",
+    "venue": "Era Sezhiyan Auditorium (MGB)",
+    "team_size": "Solo",
+    "price": 300,
+    "short_description": "Step into kARniVRse, an immersive arcade carnival packed with VR adventures, interactive challenges, classic arcade games, and a retro photobooth. Battle your friends, test your reflexes, chase high scores, and experience something new at every turn. Come play, compete, capture, and make memories! Also stand a chance to win a FREE MERCH everyday by playing the games!",
+    "scope": "both",
+    "category": "pro",
+    "tagline": "An adventure too BIG for the REAL world",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "paid",
+      "open-to-all",
+      "solo",
+      "multi-day",
+      "overnight"
+    ],
+    "duration": {
+      "days": 3,
+      "hours": 58,
+      "label": "3 days (58h)"
+    }
+  },
+  {
     "id": "00c4b7e1-8fa3-4c92-b6d9-0a7e51c38f24",
     "name": "LaserTag",
     "type": "others",
@@ -1684,48 +1389,6 @@
       "days": 1,
       "hours": 9,
       "label": "1 day (9h)"
-    }
-  },
-  {
-    "id": "4d7d168c-9d8e-4644-a49c-bee07b40960f",
-    "name": "kARniVRse",
-    "type": "Other Events",
-    "club": "Pro-Events",
-    "start_date": "2026-09-18T09:00:00Z",
-    "end_date": "2026-09-20T19:00:00Z",
-    "venue": "Era Sezhiyan Auditorium (MGB)",
-    "team_size": "Solo",
-    "price": 300,
-    "short_description": "Step into kARniVRse, an immersive arcade carnival packed with VR adventures, interactive challenges, classic arcade games, and a retro photobooth. Battle your friends, test your reflexes, chase high scores, and experience something new at every turn. Come play, compete, capture, and make memories! Also stand a chance to win a FREE MERCH everyday by playing the games!",
-    "scope": "both",
-    "category": "pro",
-    "tagline": "An adventure too BIG for the REAL world",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "multi-day",
-      "overnight"
-    ],
-    "duration": {
-      "days": 3,
-      "hours": 58,
-      "label": "3 days (58h)"
     }
   },
   {
@@ -4016,49 +3679,6 @@
     }
   },
   {
-    "id": "d1db152c-3715-48bb-a8d4-3b0da0a68c29",
-    "name": "Celestia 2.0",
-    "type": "Hackathon",
-    "club": "INDIAN SOCIETY FOR TECHNICAL EDUCATION (ISTE)",
-    "start_date": "2026-09-19T08:00:00Z",
-    "end_date": "2026-09-20T14:00:00Z",
-    "venue": "Sarojini Naidu Gallery",
-    "team_size": "3-5",
-    "price": 300,
-    "short_description": "Kick off your Celestia 2.0 journey with a hands-on Prompt Engineering Workshop before diving into our beginner-friendly 24-hour hackathon. Code and collaborate across six exciting tracks, from Dev Tools to Healthcare, to build impactful AI-powered solutions. Sharpen your technical skills, solve real-world challenges, and connect with a vibrant community of developers.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Think it. Prompt it. Code it.",
-    "is_team": false,
-    "scores": {
-      "robotics": 8,
-      "iot": 0,
-      "ai_ml": 30,
-      "hackathons": 80,
-      "startups": 0,
-      "webdev": 40,
-      "cybersecurity": 30,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 25,
-      "finance": 0,
-      "general_fun": 15
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "hackathon-style",
-      "hands-on",
-      "beginner-friendly",
-      "team-based"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 30,
-      "label": "2 days (30h)"
-    }
-  },
-  {
     "id": "4ac8210a-97b4-4d90-ad58-85e5faff3e20",
     "name": "Multipli Hackathon - Build. Innovate. Compete.",
     "type": "Hackathon",
@@ -4136,6 +3756,47 @@
       "days": 1,
       "hours": 4,
       "label": "1 day (4h)"
+    }
+  },
+  {
+    "id": "480b3d09-e40e-42c5-a78e-7f26890f841d",
+    "name": "z0d1ak CTF Finals",
+    "type": "Technical competition",
+    "club": "ASSOCIATION FOR COMPUTING MACHINERY (ACM)",
+    "start_date": "2026-09-19T09:00:00Z",
+    "end_date": "2026-09-19T18:00:00Z",
+    "venue": "VOC Gallery - II",
+    "team_size": "1-5",
+    "price": 0,
+    "short_description": "z0d1ak CTF Finals is the decisive round of ACM-VIT's Capture the Flag competition. Qualifying teams of up to five members face an advanced set of cybersecurity challenges that test technical depth, speed, strategy and teamwork before the final champions are determined. Only teams that have qualified through z0d1ak CTF Qualifiers and have recieved formal invite via e-mail would be eligible to participate in z0d1ak CTF Finals, in-person.",
+    "scope": "both",
+    "category": "Premium",
+    "tagline": "Solve this challenge. Make no mistakes.",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "free",
+      "open-to-all",
+      "solo",
+      "premium"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 9,
+      "label": "9h"
     }
   },
   {
