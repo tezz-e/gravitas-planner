@@ -44,88 +44,6 @@
     }
   },
   {
-    "id": "01ee1bdd-63a2-4a1d-abd1-5c66a31a27cd",
-    "name": "VIT RUNFEST 2026 MEN",
-    "type": "Competition",
-    "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-16T04:00:00Z",
-    "end_date": "2026-09-16T07:00:00Z",
-    "venue": "GREENOS, KC LAWN, TT",
-    "team_size": "1",
-    "price": 0,
-    "short_description": "VIT RunFest 2026 is a competitive marathon event designed to promote fitness, endurance, discipline, and sportsmanship among students. Participants will compete individually on a designated route, with rankings determined by completion time. The event aims to provide an exciting and challenging running experience while encouraging students to push their limits and embrace a healthy lifestyle.",
-    "scope": "internal",
-    "category": "General",
-    "tagline": "Run. Endure. Conquer.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "free",
-      "open-to-all",
-      "solo",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 1,
-      "label": "1h"
-    }
-  },
-  {
-    "id": "00ee1bdd-63a2-4a1d-abd1-5c66a31a27cd",
-    "name": "VIT RUNFEST 2026 WOMEN",
-    "type": "Competition",
-    "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-16T04:45:00Z",
-    "end_date": "2026-09-16T07:00:00Z",
-    "venue": "GREENOS, KC LAWN, TT",
-    "team_size": "1",
-    "price": 0,
-    "short_description": "VIT RunFest 2026 is a competitive marathon event designed to promote fitness, endurance, discipline, and sportsmanship among students. Participants will compete individually on a designated route, with rankings determined by completion time. The event aims to provide an exciting and challenging running experience while encouraging students to push their limits and embrace a healthy lifestyle.",
-    "scope": "internal",
-    "category": "General",
-    "tagline": "Run. Endure. Conquer.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "free",
-      "open-to-all",
-      "solo",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 1,
-      "label": "1h"
-    }
-  },
-  {
     "id": "9f2d157e-2890-491b-ba93-dc32f9931f90",
     "name": "Buildonomics",
     "type": "Entrepreneurship and Management",
@@ -165,130 +83,6 @@
       "days": 2,
       "hours": 32,
       "label": "2 days (32h)"
-    }
-  },
-  {
-    "id": "d440eb17-cc8b-4651-943a-1d449a2efeee",
-    "name": "Redefine",
-    "type": "Hackathon",
-    "club": "IEEE-CS",
-    "start_date": "2026-09-16T08:00:00Z",
-    "end_date": "2026-09-17T08:00:00Z",
-    "venue": "Sarojini Naidi Gallery",
-    "team_size": "1-4",
-    "price": 150,
-    "short_description": "Redefine is a 24-hour designathon where creativity meets innovation. Participants challenge conventional digital experiences by reimagining existing platforms, websites, and applications from the ground up. Whether it's reinventing Spotify, transforming e-commerce, or redefining how users interact with technology, the goal is to break design norms, question assumptions, and create bold, future-ready digital experiences that push the boundaries of imagination.",
-    "scope": "Both",
-    "category": "General",
-    "tagline": "Defy the Norms, Redefine the New",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "hackathon",
-      "multi-day"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 24,
-      "label": "1 day (24h)"
-    }
-  },
-  {
-    "id": "0615fb4d-78b0-4a7c-bc52-ba4cccee2ee6",
-    "name": "Clueminati 4.0",
-    "type": "Others",
-    "club": "CODECHEF - VIT",
-    "start_date": "2026-09-16T09:00:00Z",
-    "end_date": "2026-09-16T15:00:00Z",
-    "venue": "Anna Auditorium",
-    "team_size": "4-5",
-    "price": 170,
-    "short_description": "Ragnarök is back, and this time the World Tree itself is breaking. Teams will be torn apart mid-briefing and flung into different realms: some hunting clues across campus, others battling through virtual worlds. Keys, relics, and weapons must be found separately before both halves can reunite. Will you gather what it takes to mend Yggdrasil before the realms collapse? Step in... if you dare.",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "Scattered across realms, sworn to reunite.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 30
-    },
-    "tags": [
-      "single-day",
-      "premium",
-      "team-based"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 6,
-      "label": "1 day (6h)"
-    }
-  },
-  {
-    "id": "96d438b5-8291-416c-90ec-95297a68a486",
-    "name": "GameSmith",
-    "type": "Workshop",
-    "club": "ANIMATION CLUB",
-    "start_date": "2026-09-16T10:00:00Z",
-    "end_date": "2026-09-16T20:00:00Z",
-    "venue": "CDMM 213",
-    "team_size": "Solo",
-    "price": 200,
-    "short_description": "An interactive workshop on Mobile game development in Unity, one of the world's most popular game development engines, where participants will be introduced to the fundamentals of mobile game development. The workshop will cover core concepts such as scene creation, Game Objects, scripting with C#, physics, UI design, and building a playable mobile game prototype, providing participants with a hands-on understanding of the game development pipeline.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Unite. Build. Game",
-    "is_team": false,
-    "scores": {
-      "robotics": 16,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 30,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 8,
-      "gaming": 90,
-      "finance": 0,
-      "general_fun": 20
-    },
-    "tags": [
-      "single-day",
-      "workshop-style",
-      "hands-on",
-      "beginner-friendly",
-      "solo"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 10,
-      "label": "1 day (10h)"
     }
   },
   {
@@ -332,88 +126,6 @@
       "days": 2,
       "hours": 35,
       "label": "2 days (35h)"
-    }
-  },
-  {
-    "id": "ff862fb9-e570-4fa6-9156-3a281c5898c1",
-    "name": "Ignite Pickle (MEN)",
-    "type": "Competition",
-    "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-16T10:00:00Z",
-    "end_date": "2026-09-16T13:00:00Z",
-    "venue": "MENS INDOOR BADMINTON COURT",
-    "team_size": "1",
-    "price": 102,
-    "short_description": "Ignite Pickle is a Glow in the Dark Pickleball Championship that offers participants a unique and exciting sporting experience in a specially illuminated arena. Players compete on a neon-themed court with glowing equipment, creating an immersive atmosphere that combines competitive gameplay with entertainment. The event promotes sportsmanship, teamwork, precision, and quick reflexes while delivering a memorable experience for both participants and spectators.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Experience in a Whole New Light!",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "team-based",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 3,
-      "label": "3h"
-    }
-  },
-  {
-    "id": "1f584bd9-7a97-4ef2-8456-705165e7b767",
-    "name": "Ignite Pickle (WOMEN)",
-    "type": "Competition",
-    "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-16T14:00:00Z",
-    "end_date": "2026-09-16T17:00:00Z",
-    "venue": "MENS INDOOR BADMINTON COURT",
-    "team_size": "1",
-    "price": 102,
-    "short_description": "Ignite Pickle is a Glow in the Dark Pickleball Championship that offers participants a unique and exciting sporting experience in a specially illuminated arena. Players compete on a neon-themed court with glowing equipment, creating an immersive atmosphere that combines competitive gameplay with entertainment. The event promotes sportsmanship, teamwork, precision, and quick reflexes while delivering a memorable experience for both participants and spectators.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Experience in a Whole New Light!",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "team-based",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 4,
-      "label": "4h"
     }
   },
   {
@@ -5755,6 +5467,46 @@
       "days": 1,
       "hours": 4,
       "label": "4h"
+    }
+  },
+  {
+    "id": "23099a77-9564-469a-8d63-2c7ab57d2bff",
+    "name": "Aman Gupta Unplugged",
+    "type": "Other Events",
+    "club": "Pro-Events",
+    "start_date": "2026-09-20T15:00:00Z",
+    "end_date": "2026-09-20T17:00:00Z",
+    "venue": "Anna Auditorium",
+    "team_size": "Solo",
+    "price": 0,
+    "short_description": "Aman Gupta Unplugged is an exclusive, interactive session featuring candid conversations, real-world insights, and stories from Aman Gupta’s entrepreneurial journey. The experience brings together an engaging anchor-led Q&A, an insightful talk, and an open audience Q&A — giving attendees the chance to listen, learn, and ask their questions directly.",
+    "scope": "internal_only",
+    "category": "pro",
+    "tagline": "Unfiltered Stories. Unconventional Success",
+    "is_team": false,
+    "scores": {
+      "robotics": 0,
+      "iot": 0,
+      "ai_ml": 0,
+      "hackathons": 0,
+      "startups": 0,
+      "webdev": 0,
+      "cybersecurity": 0,
+      "electronics": 0,
+      "cad_design": 0,
+      "gaming": 0,
+      "finance": 0,
+      "general_fun": 0
+    },
+    "tags": [
+      "free",
+      "internal-only",
+      "solo"
+    ],
+    "duration": {
+      "days": 1,
+      "hours": 2,
+      "label": "2h"
     }
   },
   {
