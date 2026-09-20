@@ -258,49 +258,6 @@
     }
   },
   {
-    "id": "b74457fe-c7f9-446c-988e-f8a936806d8f",
-    "name": "Nebula",
-    "type": "Workshop",
-    "club": "INDIAN SOCIETY FOR TECHNICAL EDUCATION (ISTE)",
-    "start_date": "2026-09-18T08:00:00Z",
-    "end_date": "2026-09-18T20:00:00Z",
-    "venue": "Sarojini Naidu Gallery",
-    "team_size": "5",
-    "price": 500,
-    "short_description": "Nebula is a beginner-friendly overnight workshop where a team of 5 build CyberDeck, a multifunctional AI companion featuring voice and touch interaction, multiple interactive modes, built-in games, IoT automation, a digital pet, music player, productivity tools, a smart dashboard, BMP180-based environmental sensing, and an e-reader mode. No prior experience is required. Learn, build, innovate, and take your creation home!",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Craft intelligence, ignite innovation, and bring your companion to life.",
-    "is_team": false,
-    "scores": {
-      "robotics": 30,
-      "iot": 75,
-      "ai_ml": 50,
-      "hackathons": 15,
-      "startups": 8,
-      "webdev": 45,
-      "cybersecurity": 0,
-      "electronics": 40,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 30
-    },
-    "tags": [
-      "multi-day",
-      "overnight",
-      "workshop-style",
-      "hands-on",
-      "beginner-friendly",
-      "team-based"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 23,
-      "label": "2 days (23h)"
-    }
-  },
-  {
     "id": "eeeb9d16-8227-4456-b6ec-067d74a7d0fb",
     "name": "ROBOWARS - 8KG",
     "type": "Competition",
@@ -603,47 +560,6 @@
     }
   },
   {
-    "id": "8ee2fe07-80cb-4e4d-a18e-98a9a47b623a",
-    "name": "Aerovision 2.0",
-    "type": "Workshop",
-    "club": "AMERICAN SOCIETY OF MECHANICAL ENGINEERS (ASME)",
-    "start_date": "2026-09-18T09:00:00Z",
-    "end_date": "2026-09-19T02:00:00Z",
-    "venue": "SMV 116",
-    "team_size": "1-4",
-    "price": 300,
-    "short_description": "Ever looked at a plane and wondered how it actually stays up there? AeroVision 2.0 is where you find out -  and then design one yourself. No prior aerospace knowledge needed, just show up curious. You'll go from aerodynamics 101 to hands-on with XFLR5 and Fusion 360, then put it all to the test in an overnight ideathon where your team designs, analyses, and pitches an original aircraft concept. It's the perfect first step into aerospace — real tools, real learning, real prizes (including a SolidWorks license) waiting at the finish line.",
-    "scope": "Both",
-    "category": "General",
-    "tagline": "Where Ideas Take Flight - Design, Simulate, Soar.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "workshop"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 17,
-      "label": "17h"
-    }
-  },
-  {
     "id": "c4cc43c7-7a9b-428d-a0b1-df7b9c17df7d",
     "name": "REBORN x VALORANT",
     "type": "Competition",
@@ -813,46 +729,6 @@
       "days": null,
       "hours": null,
       "label": "NaN day (NaNh)"
-    }
-  },
-  {
-    "id": "8a0ff840-190a-44a3-bec1-e70a06b4d456",
-    "name": "EnergyThon",
-    "type": "Hackathon",
-    "club": "ASSOCIATION OF ENERGY ENGINEERS (AEE)",
-    "start_date": "2026-09-18T10:00:00Z",
-    "end_date": "2026-09-18T20:00:00Z",
-    "venue": "Bhagat Singh Gallery",
-    "team_size": "1-5",
-    "price": 220,
-    "short_description": "Energython is an intensive hackathon and idea-thon organized by the Association of Energy Engineers (AEE) VIT Vellore for graVITas 2026. Designed to tackle pressing real-world challenges in the energy sector, teams of 1 to 5 members will ideate, design, and pitch innovative solutions across renewable energy integration, smart grids, energy efficiency, and sustainable urban mobility. Gear up to disrupt the current, demonstrate your technical creativity, and compete for a share of the ₹15,000 prize pool!",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Sparking the Next Wave of Clean Tech",
-    "is_team": true,
-    "scores": {
-      "robotics": 0,
-      "iot": 10,
-      "ai_ml": 20,
-      "hackathons": 70,
-      "startups": 40,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 10
-    },
-    "tags": [
-      "single-day",
-      "hackathon-style",
-      "team-based"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 10,
-      "label": "1 day (10h)"
     }
   },
   {
@@ -1029,47 +905,6 @@
     }
   },
   {
-    "id": "ff0d04aa-c637-4a0f-ac52-6c56490509c3",
-    "name": "Wanna Crack GSoc 3.0",
-    "type": "Workshop",
-    "club": "INNOVATOR'S QUEST",
-    "start_date": "2026-09-18T13:00:00Z",
-    "end_date": "2026-09-18T20:00:00Z",
-    "venue": "MGB 111",
-    "team_size": "Solo",
-    "price": 200,
-    "short_description": "Step into open-source mastery with Innovators Quest's flagship workshop, Wanna Crack GSoC 2026. Featuring 2x GSoC Contributor Chirag Singh, this immersive session covers insider application strategies, essential Git and GitHub workflows, and real-world issue resolution through direct, hands-on mentorship.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Crack GSoC 2026: Code, Contribute, Conquer!",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 80,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 5
-    },
-    "tags": [
-      "single-day",
-      "workshop-style",
-      "hands-on",
-      "solo"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 6,
-      "label": "1 day (6h)"
-    }
-  },
-  {
     "id": "058b2458-c6f6-4b87-adf7-76aeafd08afc",
     "name": "PCBify 2.0",
     "type": "Workshop",
@@ -1157,47 +992,6 @@
     }
   },
   {
-    "id": "037be30d-5f01-413d-9c0d-4a1bccfea238",
-    "name": "Hydro Clash (Women)",
-    "type": "Competition",
-    "club": "Esports, Creative and TechnoSports Committee",
-    "start_date": "2026-09-18T18:00:00Z",
-    "end_date": "2026-09-18T21:00:00Z",
-    "venue": "LADIES SWIMMING POOL",
-    "team_size": "1",
-    "price": 177,
-    "short_description": "Hydro Clash is an exciting 6v6 Water Polo Championship that combines swimming, teamwork, strategy, endurance, and competitive gameplay. Teams compete in the water through fast-paced passing, attacking movements, defensive plays, and goal-scoring opportunities, creating an energetic and engaging sporting experience for both participants and spectators.",
-    "scope": "both",
-    "category": "General",
-    "tagline": "Kick Off. Dominate. Conquer",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "team-based",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 3,
-      "label": "3h"
-    }
-  },
-  {
     "id": "ec563730-9e8f-4fba-a7ef-e128c74f8d87",
     "name": "Startup Street 11",
     "type": "Competition",
@@ -1240,47 +1034,6 @@
     }
   },
   {
-    "id": "c7a283fd-dcd8-4f23-ae56-f107dff0dcfa",
-    "name": "Beyond XI : FIFA Football Auction",
-    "type": "Competition",
-    "club": "ROTARACT CLUB",
-    "start_date": "2026-09-18T21:00:00Z",
-    "end_date": "2026-09-19T06:00:00Z",
-    "venue": "Homi Baba Gallery",
-    "team_size": "1-5",
-    "price": 200,
-    "short_description": "Beyond XI is an exciting FIFA Football Auction where strategy meets football passion! Build your dream XI by bidding for players, outsmart your opponents, and create a squad strong enough to dominate the game.",
-    "scope": "Both",
-    "category": "General",
-    "tagline": "Bid. Build. Conquer",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 0,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 0,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 0
-    },
-    "tags": [
-      "paid",
-      "open-to-all",
-      "solo",
-      "competitive"
-    ],
-    "duration": {
-      "days": 1,
-      "hours": 9,
-      "label": "9h"
-    }
-  },
-  {
     "id": "d36998e6-f27e-406f-9f93-f20b3c302762",
     "name": "StarParty",
     "type": "Others",
@@ -1319,47 +1072,6 @@
       "days": 2,
       "hours": 29,
       "label": "2 days (29h)"
-    }
-  },
-  {
-    "id": "0629102b-cc5f-4992-8921-2e55df1cb2f9",
-    "name": "Celestial Dive 5.0",
-    "type": "Workshop",
-    "club": "ASTRONOMY CLUB- VIT STELLAR",
-    "start_date": "2026-09-18T21:00:00Z",
-    "end_date": "2026-09-19T06:00:00Z",
-    "venue": "KC Lawn",
-    "team_size": "Solo",
-    "price": 550,
-    "short_description": "Celestial Dive 5.0 is a journey beyond Earth. Spend an unforgettable night exploring the cosmos through powerful telescopes, uncovering the mysteries of the universe through engaging astronomy sessions and experiencing immersive planetariums that bring space to life. Enhanced by a carefully crafted moonlit ambiance, every moment is designed to inspire wonder, curiosity and a deeper connection with the universe.",
-    "scope": "both",
-    "category": "Premium",
-    "tagline": "One Night - Infinite Wonders.",
-    "is_team": false,
-    "scores": {
-      "robotics": 0,
-      "iot": 0,
-      "ai_ml": 0,
-      "hackathons": 0,
-      "startups": 0,
-      "webdev": 15,
-      "cybersecurity": 0,
-      "electronics": 0,
-      "cad_design": 20,
-      "gaming": 0,
-      "finance": 0,
-      "general_fun": 70
-    },
-    "tags": [
-      "multi-day",
-      "workshop-style",
-      "premium",
-      "solo"
-    ],
-    "duration": {
-      "days": 2,
-      "hours": 8,
-      "label": "2 days (8h)"
     }
   },
   {
@@ -2223,7 +1935,7 @@
     "club": "QUIZ CLUB",
     "start_date": "2026-09-19T10:00:00Z",
     "end_date": "2026-09-19T13:00:00Z",
-    "venue": "MGR 309",
+    "venue": "MGR 305A",
     "team_size": "1-2",
     "price": 127,
     "short_description": "The Grand graVITas Quiz is DBQC’s premier Sci-Biz-Tech quiz, bringing together science, business, technology, and current affairs in an engaging contest of knowledge, reasoning, and analytical thinking. Participants compete through challenging preliminary and final rounds that reward curiosity, speed, and interdisciplinary problem-solving.",
